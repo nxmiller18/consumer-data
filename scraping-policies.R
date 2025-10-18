@@ -4,10 +4,6 @@ library(tidyverse)
 library(rvest)
 library(stringr)
 
-if(!dir.exists("privacy_policies")){
-  dir.create("privacy_policies")
-}
-
 app.list <- read.csv("Privacy Policies.csv") |>
   select(-X)
 
