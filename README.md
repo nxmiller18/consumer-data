@@ -1,5 +1,5 @@
 # CDJ Consumer Data
-All the data, scripts, and figures used in the Fall 2025 Consumer Data article, published by the Cornell Data Journal.
+Data, scripts, and figures used in Cornell Data Journal's Consumer Data project (Fall 2025).
 
 ### Languages and Libraries
 + R
