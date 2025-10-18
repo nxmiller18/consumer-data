@@ -1,9 +1,9 @@
 # CDJ Consumer Data
 All the data, scripts, and figures used in the Fall 2025 Consumer Data article, published by the Cornell Data Journal.
 
-### Languages and Packages
+### Languages and Libraries
 + R
-  + Packages: tidyverse, rvest, stringr
+  + Libraries: tidyverse, rvest, stringr
 ### Sources
 
 ### Contributors
