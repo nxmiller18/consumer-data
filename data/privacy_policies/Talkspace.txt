@@ -1,0 +1,147 @@
+Get access to therapy, medication management, and personalized treatment
+
+Therapy may be free for you.
+
+Check your eligibility
+
+Privacy Policy
+
+This privacy policy (this “Policy”) was last updated on July 17, 2025.
+
+Talkspace (“we”, “our”, “us”, “Talkspace”) takes your privacy seriously, and we want you to know how we collect, use, share and protect your information.
+
+‍
+
+Talkspace Therapy Services
+
+Talkspace offers therapy services using our proprietary technology platform, which leverages advanced data-driven tools to personalize your care and to enhance evidence of care, care continuity, outcomes metrics and data-based learnings. We provide mental health professionals with insights and capabilities to drive improved and measurable clinical outcomes for patients receiving virtual therapeutic services on our platform.  
+
+When you enroll, inquire about enrolling for, or use Talkspace Services (as defined below), we keep a record of medical information that you provide to us or your therapist as well as any medical information that Talkspace employees or independently contracted therapists provide to you via our platform (such as information on and related to your diagnosis). Medical information means any information that:
+
+This includes medical history, diagnoses, treatments, current medical condition, and use of prescription medications. If you are a US subscriber to Talkspace services, your personal data in our possession is protected health information ("PHI") protected by the Health Insurance Portability and Accountability Act of 1996, as amended (“HIPAA”), and the applicable provisions of the Health Information Technology for Economic and Clinical Health (“HITECH”) Act. In addition to this Privacy Policy, the HIPAA Notice of Privacy Practices of Talkspace or your Talkspace Provider apply to your PHI.
+
+Peer Support Services
+
+We may offer opportunities to participate in moderated peer support forums, such as Teenspace Community (“Peer Support Services”).  Peer Support Services are not a substitute for therapy and when you participate you acknowledge and agree that Peer Support Services do not provide you with therapy or other healthcare-related services.  When you submit a post or comment using the Peer Support Services, other users will be able to see the contents of the post or comment, the username associated with the post or comment, the date and time you originally submitted the post or comment, your state of residence, and your age.  Your post or comment may be re-posted or re-shared by other users (online or offline) even if you restrict access to the post or comment.  You can remove posts, comments, or other information associated with your use of Peer Support Services at any time using your account settings.  You can also use our block feature to manage the users with whom you communicate.  Never use the Peer Support Services to publicly share your personal data, including your real name, email address, phone number, address, or other contact details.
+
+Definitions 
+
+For purposes of this Policy, “personal data” means information that relates to an identified or identifiable individual, and includes “personal information” or “personally identifiable information.” To “process” or “processing” means the use of personal data including, collecting, recording, storing, using, analyzing, combining, transferring, disclosing, or deleting. 
+
+Changes to this Policy
+
+We reserve the right to change the terms of this Policy at any time by posting those changes in revisions to this Policy, so that you are always aware of our processes related to collection, use and disclosure of information. If we change the Policy in a material way, we will provide appropriate notice to you, such as via our website. We urge you to check here for any updates to this Policy from time to time. Unless otherwise indicated, any changes to this Policy will apply immediately upon posting to the Website or the App.
+
+Contents
+
+‍
+
+The information on this page applies to the personal data we collect about your interactions, use, and experience with our website at https://www.talkspace.com (our “Website”), our app on iOS or Android (our “App”), and in connection with the online therapy services we provide (the Website, App and our online therapy services are together, the “Services”). As noted below, our data practices depend on how you interact with our Services, and how you receive and pay for Services, for example whether purchasing Services as a consumer or receiving them through an employment-related benefit.
+
+This Policy does not apply to any other websites that you visit before our Website or any third-party sites that may be accessible through the Talkspace Services. Please read this Policy carefully so that you understand your rights in relation to personal data, and how we will process that personal data. This Policy supplements our Notice of Privacy Practices (for US patients) any other privacy related disclosures we may provide from time to time (including during your enrollment or management of your account with Talkspace) and is not intended to override them.
+
+If you do not want us to share personal data or feel uncomfortable with the ways we use information in order to deliver our Services, please do not use the Services.
+
+‍
+
+This table presents the types of information we process (whether legally classified as personal data or PHI under HIPAA), the sources, and the uses. 
+
+Registration
+
+Information you provide when you create an account for yourself (or an authorized account for a minor), are matched to a therapist, or register yourself (or on behalf of a minor) as a patient: 
+
+You provide this when you go through the intake process
+
+Use of the Services
+
+Data you provide when you use our therapy service, including:
+
+Through your use of the Services
+
+Peer Support Services
+
+Data you provide when you use Peer Support Services (as defined below), including:
+
+Through your use of the Peer Support Services
+
+When Website visitors contact us
+
+We collect information when you communicate with us via email or our online support service. This includes information that you provide when you contact us, any information you share through the online chat support feature as well as your email address.
+
+You provide this information to us directly
+
+Technical Data 
+
+Technical information from software or systems hosting the Services, and from the systems, applications and devices that are used to access the Services, such as: 
+
+Automatically through use of the Services
+
+Persistent Identifiers 
+
+Data collected via cookies, pixels and other tracking technologies (such as Google Analytics and Google Ads), such as:
+
+NOTE: Once you become a patient the use of cookies, web beacons, pixels, and other processes are limited to ensure that we do not monitor or use patient information for other purposes without your consent.
+
+Collected automatically when you use the Services
+
+Service Providers:  We may disclose the information we collect from and about you, including each category of your personal data identified in this Policy, to our service providers to perform a business, commercial, technical, advertising, marketing, analytics, or other support function for us, to help us operate our business, to administer activities on our behalf, or as otherwise described to you at the point of collection.
+
+Partners:  We may disclose information described under “Persistent Identifiers” in the above Personal Data Processing chart, to our business partners and third parties, such as data analytics providers, advertising technology vendors, third-party advertising networks, and social media platforms, for purposes of providing personalized advertising, marketing, and analytics-related services.
+
+Legal Compliance and Corporate Transactions:  Talkspace may be required to disclose your personal data (a) to government and law enforcement authorities to comply with legal or regulatory obligations or requests, (b) to certain third parties such as an acquiring entity or advisers in the event of a reorganization, merger, sale, joint venture, assignment, transfer, or other disposition of all or any portion of our business, assets, or stock (including in connection with a bankruptcy or similar proceeding), or (c) where we believe disclosure is necessary or appropriate to (i) comply with applicable law, (ii) enforce our terms and conditions; (iii) protect our operations; (iv) protect our rights, privacy, safety, or property, and/or those of you or others; and (v) allow us to pursue available remedies or limit damages that we may sustain.  
+
+Consent:  Where applicable, we may use or disclose your personal data for other reasons as described to you at the time of data collection or otherwise with your consent.
+
+The Talkspace App includes third party software development kits (SDKs) from a number of other companies whom we engage as service providers, for identifying and logging code issues, errors and events; managing interactive communication within the App; compiling analytics on which features get used the most; facilitating customer service contacts regarding subscriptions and service; and processing device identifiers and event logs for ad attribution purposes (such as the initial login event, account creation, subscription events). These third parties process data as a service to Talkspace only, pursuant to written agreements. Talkspace does not sell client information to third parties.
+
+The Talkspace therapy experience is enhanced by advanced data processing activities, carried out in order to measure and improve clinical outcomes. Our proprietary matching algorithm and machine-learning tools provide real-time engagement insights, inform treatment, and track clinical progress, and are fundamental to our precision therapy care delivery model. 
+
+Matching Algorithm. During onboarding we ask you to provide information so that we can assess your condition and incorporate your preferences. We then leverage a proprietary algorithm (and/or support from a Talkspace consultant) to match you to a provider. 
+
+Optimizing Diagnosis and Treatment. Throughout your experience, your provider uses the Talkspace Services to manage your diagnosis and treatment plan. The advanced machine learning features of our proprietary Services include natural language processing of communications with therapists. A core focus of our machine learning strategy is to provide the therapist with insights on patient needs and behaviours and offer techniques and suggestions that we believe are likely to maximize clinical outcomes. We also use advanced machine learning features to generate therapy notes where requested by our therapists.
+
+Separate and apart from internal healthcare operations and quality assurance activities undertaken for the purpose of delivering and optimizing patient care on the platform, from time to time, Talkspace conducts or participates in research studies with select universities. You may be offered the opportunity to participate in these studies. If your protected health information will be disclosed as part of these studies, your information will only be included with your written authorization. You will be asked to review and accept terms and enrollment separately from the information included in this Policy. Information from these studies may be published by third parties including through various media platforms/academic journals. See our Notice of Privacy Practices.
+
+When you create a Talkspace account or otherwise use the Talkspace Services, we collect (or you may provide us with) your email address, and you have the choice to receive newsletters or promotional material about our services at this address. These messages may be tailored to your responses to onboarding surveys so that you receive information relevant to you. You can further manage your email preferences by unsubscribing from emails (via the link in the message), emailing [email protected] or by visiting our online preference center within the App or the Website. ‍
+
+In addition to your rights as a patient as set out in the Notice of Privacy Practices, you can ask us to:
+
+To ask us about these choices, contact us.
+
+You may request access to, correction of, or deletion of your Personal Information. We will honor your request regardless of where you live or are physically located unless a legal requirement prevents us from doing so or a legal exception applies. Please complete the appropriate request form below and email the completed form with a copy of your photo identification to [email protected].
+
+Data Request Forms:
+
+If you are a US resident, depending on where you live, you may have certain rights with respect to your personal data, which includes the right not to be discriminated against for exercising your privacy rights.
+
+You may have the right to request to access the personal data that we have collected about you; delete the personal data we have collected about you, subject to applicable legal exceptions; request a list of the specific third parties to which we have disclosed personal data; request to update or correct your personal data; request to opt out of targeted advertising and/or the sale/sharing of your personal data (where applicable); or to exercise other rights and choices that may be afforded to you under applicable US state privacy laws and regulations.
+
+For more information, please review our Notice of US State Privacy Rights.
+
+If you are located in the European Union, the European Economic Area, or the United Kingdom, this Policy is supplemented by our Additional Privacy Statement for EU, EEA and UK Users which explains your privacy rights and how you can exercise these rights (among other matters).
+
+We will retain your information in accordance with the appropriate statutory limitation periods as required by local law, in line with our legitimate business purposes for as long as your account is active or for as long as needed to provide you with the Services, as required in order to comply with our legal obligations, a court order or to defend or pursue legal claims, in line with industry codes of practice, to resolve disputes and enforce our agreements. 
+
+In the United States, Talkspace may collect information and may provide Services to minors ages 13 – 17 with the written authorization of a parent or guardian. Talkspace does not provide therapeutic services to minors outside of the US.  
+
+This Policy does not apply to any third-party applications or software that you download, or any other third-party websites, mobile applications, or online products, services, or businesses you may access from the Talkspace Website or App. 
+
+Please see our statement on Candidate Privacy for more information on the personal data we process in connection with recruiting.
+
+We take commercially reasonable steps to protect the integrity and confidentiality of personally identifiable and health information that you may share with us. We have complied with the HIPAA security rule for administrative, technical, and physical security safeguards and have third party assessments of our controls performed annually. However, please be aware that no security measures are perfect or impenetrable and we cannot guarantee the absolute security of your information. 
+
+We will do our part to protect your information, but it is important for you to protect your information as well. In addition, we do not control the actions of anyone with whom you or any other Talkspace user may choose to share information. As such, you should be cautious about the access you provide to others when using Talkspace, and the information you choose to share when using the Talkspace website or App. 
+
+If you have any privacy-related questions or comments related to this Policy, please send an email to [email protected]. 
+
+Please see our Additional Privacy Statement for EU, EEA and UK Users for further details on your privacy rights, how we share your personal data, international transfers of personal data and retention of personal data. ‍
+
+We process the personal data described above in accordance with the following legal basis: 
+
+We are a limited liability company established in New York, USA, with a registered office at 157 Columbus Avenue, New York, NY 12567, United States, and, if you are based in the EU, EEA, or UK for the purpose of the EU and UK General Data Protection Regulation, we are the data controller. 
+
+By signing up, I agree to the Terms of Use and to receive emails from Talkspace.
+
+Download the app
+
+If you are in a life threatening situation - don’t use this site. Call 988 or use these resources to get immediate help.

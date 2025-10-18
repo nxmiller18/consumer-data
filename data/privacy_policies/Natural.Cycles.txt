@@ -1,0 +1,519 @@
+We are committed to protecting your data
+
+Our mission at Natural Cycles is to empower women with the knowledge and tools to take charge of their health. Knowledge about how your data is used is increasingly important. Our Privacy Policy is designed to help you understand what information Natural Cycles collects and why we collect it, as well as how you can help control and manage your data through settings.
+
+In addition to remaining committed to keeping user data safe, laws and regulations continue to evolve, and we are committed to ensuring that our Privacy Policy evolves with them.
+
+Our team values the trust you place in us when you share your data with Natural Cycles and we do not take this responsibility lightly.
+
+
+
+1.1 This Privacy Policy
+
+This Privacy Policy covers how NaturalCycles AG (Holding), NaturalCycles Nordic AB, and NaturalCycles USA Corporation (collectively, “Natural Cycles”, “we”, “us”, or “our”) collect and process your Personal Data (defined in section 2) obtained by us through your use of the Services or otherwise shared by you. It is important that you read it together with any other privacy notice that we may provide when we are collecting your Personal Data so that you are fully aware of how and why we are using it. 
+
+We keep our Privacy Policy under regular review and may make changes to it. Any changes will be posted on our website (the “Website”) and, where appropriate, notified to you. 
+
+1.2 The Services
+
+Delivered in the form of an application (the “App”), Natural Cycles is a digital fertility contraceptive cleared by regulators in the US and Europe. The App can also be used as a pregnancy planner and to track a pregnancy. In addition to the App, Natural Cycles has the Website, including a webshop (the “Webshop”) where we sell Natural Cycles’ and business partners’ products, and social media channels (collectively referred to as the “Services”).
+
+We also have a career page on our Website. If you connect with us on the career page, our processing of your personal data will be governed by a separate Recruitment Privacy Policy.
+
+1.3 Controller
+
+Natural Cycles is a controller and responsible for the processing of your Personal Data. We care deeply about the confidentiality and integrity of the information that is shared with us, and will only process your Personal Data in accordance with this Privacy Policy and applicable laws and regulations.
+
+We have appointed a Data Protection Officer (“DPO”). If you have any questions or comments about this Privacy Policy or our processing of your Personal Data, please contact our DPO at dpo@naturalcycles.com or reach out to our customer support at support@naturalcycles.com.
+
+Contact details
+
+For Europe (and global) inquiries:NaturalCycles Nordic ABReg. no 556952-7657Sankt Eriksgatan 63B11234 Stockholm, Sweden
+
+For US inquiries:NaturalCycles USA Corporation135 West 41st Street6th FloorNew York, NY 10036
+
+ 
+
+We need to collect information from you in order to be able to provide our Services.  Natural Cycles may process the following kinds of personal data about you (collectively referred to as “Personal Data”):
+
+Account Data
+
+includes registration date, payment plan and whether you have an active subscription or not. 
+
+Contact Data
+
+includes address, billing address, delivery address, email address and telephone number.
+
+Device Data
+
+includes device identifier, your mobile operating system, the type of mobile browser you use and time zone setting.
+
+IP Data
+
+includes your approximate position based on your IP address. 
+
+Identity Data
+
+includes first name, last name, username and date of birth.
+
+Marketing Data
+
+includes your preferences in receiving marketing from us.
+
+Mode Data
+
+information on which available mode within the App you are using or have used (e.g., NC Birth Control, NC Plan Pregnancy, NC Follow Pregnancy, NC Postpartum, and any other mode as may be available).
+
+Profile Data
+
+includes your feedback and survey responses.
+
+Sensitive Data
+
+includes health and sex data, referred to as special categories of Personal Data as defined in article 9 of the European Union’s General Data Protection Regulation (“GDPR”), such as information on whether you are using the App to prevent, plan or follow a pregnancy as well as your contraceptives history, body temperature, menstruation and intercourse data, ovulation, pregnancy test results and personal notes. 
+
+Transaction Data
+
+includes details about purchases and payments, but excluding bank account and full payment card details (we do however receive card expiration date and some payment card digits from our payment service providers in order to allow access to the App).
+
+Usage Data
+
+includes details of your use of the Services, such as traffic data and the features that you access.
+
+User Data
+
+includes data provided by you when setting up an account with Natural Cycles and using the App, such as Contact, Identity, Marketing and Sensitive Data as well as other Personal Data that you may provide in connection with such use. 
+
+We also use cookies and HTML local storage to distinguish you from other Users of the Services and to remember your preferences. This helps us provide you with a good experience when you use the Services and allows us to improve them. For more information on cookies, please see our Cookie Policy.
+
+3.1 Information you give us
+
+Natural Cycles processes Personal Data provided by you when registering for an account, signing up for a subscription, and using the App, making a purchase on the Webshop, using our social media platforms, answering surveys, contacting our customer support or otherwise corresponding or interacting with us and our Services. Please keep your Personal Data accurate and current. 
+
+You can choose to connect the App to other sources of health data, such as Apple Health Kit. We will then collect personal data that you share with us from the source/sources of your choice.
+
+When signing up for the App, you will be requested to consent to our use of your Sensitive Data (please note that you will need to consent in order for the App to work). You have the right to withdraw your consent at any time by changing the setting in the App, or by contacting us at support@naturalcycles.com. If you provide sensitive data to us by other means than the app - for example via support - this is described in greater detail in section 4.1.
+
+We receive additional data if you choose to connect the App to one of the integrations we support, such as Oura Ring or other available integration sources. Depending upon your choices and controls, the types of data we may receive through integrations you activate may include workout and fitness data, sleep data, and Sensitive Data, and may include data you had previously provided to the integration partner (such as workout history). You can turn off these integrations at any time by following the instructions in the App.
+
+3.2 Information we automatically collect about you and your device
+
+When you are using our Services, we will automatically collect Device, IT and Usage Data. Some Usage Data is collected by using cookies. Please see our Cookie Policy for further details.
+
+3.3 Information we receive from suppliers
+
+We receive Device and Usage Data about you from analytics providers such as Google Analytics and Transaction and Contact Data from our payment service providers. 
+
+4.1 – To enable and provide the Services 
+
+4.1.1 – General
+
+It follows from the nature of our Services that we must process such Personal Data that you add to the Services to enable and provide them. This includes to administer the Services and our relationship with you, to calculate your daily fertility or to provide information about a pregnancy, to secure the quality and develop the Services and to communicate and provide customer support, as further explained below. Consent for processing sensitive personal data must be obtained in order for the app to work. 
+
+4.1.2 – To administer the Services and our relationship with you
+
+We use your User, IT Data and Mode Data to administer the Services and our relationship with you. This includes setting up your account for the App, troubleshooting, system testing as well as notifying you of changes to the Services or technical issues and reaching out to you via in-app messages to ensure your correct and optimal use of the App. 
+
+Lawful basis
+
+Contract
+
+Consent
+
+Legitimate interest in running the business, provide and ensure the proper function and use of the Services
+
+4.1.3 – To calculate your fertility or provide information about a pregnancy
+
+Natural Cycles uses an algorithm that is sensitive to subtle patterns in a woman’s cycle to determine her daily fertility; it does this by analyzing the User Data and Mode Data that is added to the App. If you are using the App to track a pregnancy, it will provide information about the pregnancy based on the User Data that you add to it. Hence, Natural Cycles uses automated methods for processing of User Data in order to provide you with an adequate App.
+
+Lawful basis
+
+Contract 
+
+Consent
+
+4.1.4 – To secure the quality and develop the Services
+
+We process your User, Usage, Account Data and Mode Data to monitor and analyze how our customers engage and interact with the Services so that we can secure the quality and develop the Services to better align them with your usage patterns and preferences. While we have access to Personal Data for the purpose of analytics, the results are aggregated and stripped of any Personal Data.
+
+We may also contact and enable you to complete surveys. We use the Profile Data from these surveys to better understand how we can improve your user experience. 
+
+Lawful basis
+
+Contract 
+
+Consent
+
+Legitimate interest to analyze how our customers use the Services and to develop and improve them
+
+ 
+
+4.1.5 – To communicate with you and provide customer support
+
+We will process Personal Data and Mode Data that you provide in inquiries to our customer support, on our social media channels or through contact forms provided by us at congresses and events, for the purpose of communicating with you and acting on complaints. What type of Personal Data and Mode Data we collect for this purpose depends on the nature of your inquiry. If you are a User, our support agents may request access to your User Data and Mode Data if necessary to appropriately respond to your inquiry. Such access is subject to access controls and security measures designed to protect your User Data and Mode Data.
+
+When you interact with us publicly on our social media channels, ensure that you do not submit any Personal Data that you do not want to be seen by other people. We recommend that you also read through the privacy policies of such platforms.
+
+Lawful basis
+
+Contract 
+
+Consent
+
+Legitimate interest to respond to your inquiries, as far as Personal Data is processed to communicate with you on matters that are not related to your agreement with us
+
+4.2 – To process purchases and deliver the Services 
+
+We use your Identity, Contact, Transaction, IP Data and Account Data to process purchases and manage the delivery of products from the Webshop and subscriptions. This includes logistics, preventing fraudulent payments and contacting you regarding your purchase. 
+
+Lawful basis
+
+Contract 
+
+Legal obligation (e.g. Swedish bookkeeping law SFS 1999:1078)
+
+Legitimate interest to inform you of matters concerning your purchase that we deem relevant for you, but which are not covered by our Terms of Use
+
+4.3 – To conduct research 
+
+Women's health is important to Natural Cycles and we invest in scientific research in sexual and reproductive health in order to advance women’s health. We also conduct research for the purpose of evaluating the effectiveness and suitability of the App for different user groups. Thirdly we use the results of our research to communicate the benefits and limitations of Natural Cycles to healthcare professionals. All our published research is subjected to independent peer review and has ethical approval from the relevant professional bodies where required. 
+
+If we have your consent, we will use your User Data and other Personal Data that you may provide, in pseudonymized or anonymized form (see the Glossary for more information on pseudonymization), for scientific studies, scientific articles and other research purposes as may be disclosed when your Personal Data is collected. However, Personal Data is anonymized and aggregated before any such publications are shared outside of Natural Cycles. We may also contact you with requests to participate in specific research projects run by us or our business partners. 
+
+Natural Cycles also contributes to research carried out by selected universities, institutions and other parties by sharing anonymized and minimized data with them. For the avoidance of doubt, we do not share any Personal Data with such external parties.
+
+Finally, we may analyze sensitive data in order to publicly share insights learned from aggregated data with the purpose of increasing the public knowledge and understanding of women's health and/or the menstrual cycle. This kind of publication is always based on aggregated anonymized data and as such doesn’t contain any personal information.
+
+Lawful basis
+
+Consent
+
+4.4 – To conduct marketing activities
+
+4.4.1 – Marketing Communication 
+
+We use Identity, Contact, Device, Mode Data and Marketing Data of our users of the App to send you newsletters and other marketing communications e.g. push notifications regarding Natural Cycles and our Services, including campaigns and offers. We also process Transaction, Account, Contact and Usage data to conduct internal usage analysis for the purpose of creating and sending relevant messages about our products. Some Marketing Data is collected by using cookies. These cookies include third party services that may collect information about your visits to our site for analytics, retargeting and conversion tracking purposes. Please see our Cookie Policy for further details.Some of our marketing communications to you may contain special offers or promotions from companies that offer products and services related to women’s health or related topics, and we personalize the offers to you based on your Mode Data and your communications preferences with us. We do not share your contact information with these partners. If you have opted out of marketing communications with us, you will not see these offers.
+
+Lawful basis
+
+Legitimate interest to market ourselves and our Services
+
+4.4.2 – Social media marketing – custom audiences, lookalike audiences and advertising
+
+We use tools that help us identify and reach out to existing and new customers, by matching IP Data, Device Data, hashed (a pseudonymisation technique) Contact Data of people who have been using our Services with people on social media platforms to create so called “Custom Audiences” (this enables us to send targeted ads to people who have been using our Services), and “Lookalike Audiences” (this enables us to send targeted ads to people who have similar traits to our Custom Audience). The social media platforms will not share the hashed email address with third parties or other advertisers and will delete it promptly after the match process is complete. Please note that we do not share any Sensitive Data or group users based on sensitive data for the purpose of Custom and Lookalike Audiences.
+
+Lawful basis
+
+Legitimate interest to market ourselves and our Services
+
+4.4.3 – Surveys and interviews
+
+You may also be contacted and enabled to complete surveys or take part in interviews for marketing purposes. We will process the Profile Data that you provide in such surveys and interviews to analyze user preferences, improve and assess the effectiveness of marketing activities, use as marketing material or other promotional purposes as disclosed when your Personal Data is collected. 
+
+Lawful basis
+
+Consent
+
+4.4.4 – Marketing opt-out
+
+You always have the right to opt-out of receiving marketing communication or having your data being processed to identify Custom and Lookalike Audiences from us by opting out, by adjusting your settings in the App or contacting us at support@naturalcycles.com.
+
+4.5 – To comply with legal obligations
+
+Natural Cycles has been classified as a medical device intended for use as contraception by an EU Notified Body and the United States Food and Drug Administration (FDA). This means that we are subject to medical device regulations which may require the collection and processing of your Personal Data. There are also other legal provisions that require the processing of your Personal Data, such as accounting and fraud prevention laws. For more details, see section 6.1.
+
+Lawful basis
+
+Legal obligation
+
+We retain your Personal Data for as long as necessary to achieve the purposes set out in this Privacy Policy. In some cases, we may be required to continue to process your Personal Data for a longer period of time to comply with legal obligations (e.g. accounting or audit obligations) or for the establishment, exercise or defense of legal claims. If you stop using your account without deleting it, we will keep your User Data for an additional 3 years. The reason is to give you the possibility to come back at a different stage in your life and obtain your previous data you had then. You always have the right to request your data to be deleted earlier. When we no longer have a reason to keep your Personal Data, if you withdraw your consent, or if you successfully request that we erase it, we have processes in place for anonymizing your Personal Data.
+
+Lawful basis Consent
+
+6.1 Recipients 
+
+Natural Cycles never sells your Personal Data and we conduct extensive assessments before engaging any processor to ensure that they have appropriate technical and organizational measures in place that provide adequate protection of your Personal Data. Anyone who is processing Personal Data on our behalf is bound by contractual obligations to keep Personal Data confidential and secure, and to use it only for the purposes as instructed by us. 
+
+Natural Cycles may share your Personal Data: 
+
+We may disclose personal data to third parties with which you have a direct relationship to provide a product or service you request. For example, we may disclose information to integration partners like Oura Ring or other available integration partners, if you decide to connect your Natural Cycles account with such third-party accounts.
+
+If you choose to share your Personal Data with any third person (e.g. a partner), you accept that you have done so at your own risk. 
+
+6.2 Payment service providers
+
+We do not process your financial data such as bank account and full credit card number. That information is provided directly to our payment service providers. Our payment service providers are themselves responsible for the processing of your personal data which means that you will be requested to enter into separate agreements directly with them. The personal data you provide to them will be stored in accordance with their privacy policies, which we recommend you to read carefully. 
+
+Any payment transactions carried out by our payment service providers are encrypted and subject to compliance with the Payment Card Industry Security Standard (“PCI DSS”) regulations. PCI DSS requirements help ensure the secure handling of payment information.
+
+6.3 International transfers
+
+Your Personal Data may be transferred and processed in countries outside the EU/EEA where Natural Cycles’ affiliates or service providers are located. Such international transfers are carried out in accordance with applicable laws and are subject to at least one of the following safeguards to protect your Personal Data: 
+
+If your Personal Data is processed in the United States, it may also be subject to protection by federal and state regulations, as well as agency policy and guidance by the Federal Trade Commission. 
+
+All information you provide to us is transferred using TLS encryption (HTTPS) and stored on secure servers. We use generally accepted industry standards, technologies, procedures and methods, such as firewalls, encrypted storage, pseudonymization, regular software updates, security scans, access control, audit logging and review of admin actions as well as external penetration tests to protect the integrity of your Personal Data and to prevent unauthorized access. We also have policies and other organizational measures in place, including recurrent employee training on data protection and strict procedures to deal with any suspected personal data breach. 
+
+The Website may contain links to other websites. Please note that we do not accept any responsibility or liability for personal data that may be collected through these websites or services. We recommend that you read their privacy policies before you submit any personal data to them or use their services.
+
+9.1 Your rights
+
+You have the right to:
+
+If you have any concerns regarding our processing of your Personal Data, you have the right to file a complaint with the Swedish Data Protection Authority (Sw. Integritetsskyddsmyndigheten), or your local supervisory authority.
+
+For US residents, please see the US Privacy Notice Addendum below for additional information.
+
+9.2 How to exercise your rights
+
+You may contact us in writing at any time to exercise your rights, preferably using the email address that is associated with your user account. We may need to request specific information from you to help us confirm your identity.
+
+We do our best to respond to your request within a few days, and at least within one (1) month. If the request is complicated or if we have received a large number of requests, we may need to prolong our response time with one (1) additional month. 
+
+You can exercise your rights at no cost to you. However, we may charge you a reasonable fee if your request is clearly unfounded, repetitive or excessive. 
+
+Natural Cycles complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) and Swiss-U.S. Data Privacy Framework ("Swiss-U.S. DPF,” and together with the EU-U.S. DPF, the “DPF Frameworks”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union and Switzerland to the United States. Natural Cycles has certified to the Department of Commerce that it adheres to (1) the EU-U.S. DPF Principles with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF, and (2) the Swiss-U.S. DPF Principles with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. To learn more about the DPF program, and to view our certification, please visit https://www.dataprivacyframework.gov/.
+
+Natural Cycles’ participation in the DPF Frameworks is subject to investigation and enforcement by the U.S. Federal Trade Commission. Natural Cycles will resolve complaints about our collection or use of your personal information in compliance with the DPF Principles and commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of data received in reliance on the EU-U.S. DPF and the Swiss-U.S. DPF.
+
+You may, subject to its terms, invoke binding arbitration in accordance with Annex I of the DPF Principles:https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf .
+
+EU and Swiss individuals with inquiries or complaints regarding our DPF Framework policy should first contact Natural Cycles at dpo@naturalcycles.com. With respect to onward transfers of data subject to the DPF Frameworks, we remain liable for processing such transfers in accordance with the DPF Principles.
+
+Natural Cycles further commits to cooperate with the panel established by the DPAs and the Swiss FDPIC with regard to unresolved DPF program complaints concerning human resources data transferred from the EU and Switzerland in the context of the employment relationship. To pursue an unresolved human resources complaint, you should contact the state or national data protection or labor authority in the appropriate jurisdiction. Contact details for the EU data protection authorities can be found at
+
+https://edpb.europa.eu/about-edpb/about-edpb/members_en .
+
+Our Services are not subject to the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”). While we maintain and use Personal Data, we are not a “Covered Entity” or “Business Associate” as defined by HIPAA.
+
+We permit residents of California to use our Services. Therefore, it is our intent to comply with the California Business and Professions Code 22575-22579 and the California Consumer Privacy Act of 2018 (“CCPA”).  If you are a California resident you may request certain information regarding our disclosure of Personal Information to any third parties for their direct marketing purposes.  In summary, you must presume that we collect electronic information from all visitors. You may contact us either at support@naturalcycles.com with any questions or to exercise your rights as a California Resident.  
+
+Only you or a person registered with the California Secretary of State that you authorize to act on your behalf, may make a verifiable consumer request related to your personal information.
+
+You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must:
+
+Personal Information under the CCPA does not include:
+
+12.1 – Response Timing and Format
+
+We endeavor to respond to a verifiable consumer request within 45 days of its receipt.  If we require more time (up to 90 days), we will inform you of the reason and extension period in writing.  If you have an account with us, we will deliver our written response to that account.  If you do not have an account with us, we will deliver our written response by mail or electronically, at your option.  Any disclosures we provide will only cover the 12-month period preceding the verifiable consumer request's receipt.  The response we provide will also explain the reasons we cannot comply with a request, if applicable.  
+
+12.2 – Non-Discrimination
+
+We will not discriminate against you for exercising any of your CCPA rights. We will not:
+
+Anonymized data
+
+means that the identifying information is irreversibly removed so that an individual is not identifiable. Anonymized data is not Personal Data. 
+
+App
+
+Natural Cycles’ application
+
+Consent
+
+means that you have expressed your agreement to our processing of your personal data for a specific purpose by a statement or clear opt-in. You can withdraw your consent at any time by changing your settings in the App, contacting us at support@naturalcycles.com or following the instructions provided when the consent was collected.
+
+Contract
+
+means that the processing of your Personal Data is necessary for the performance of a contract to which you are a party, e.g. our Terms of Use, or to take steps at your request before entering into a contract. 
+
+Legal obligation
+
+means that the processing of your Personal Data is necessary for compliance with a legal obligation that we are bound by, e.g. medical device regulations or accounting laws.
+
+Legitimate interest
+
+means that we assess that we have a legitimate interest in conducting and managing our business that, considering and balancing any potential impact on you and your rights, we do not consider are overridden by the impact on you. Please contact us if you would like to know more about how we have conducted this balance of interest. 
+
+Minimized data
+
+means that only the minimal amount of data needed for a certain kind of processing is included. 
+
+Pseudonymized data
+
+means that identifying information is replaced with something else so that additional information is needed to re-identify an individual. Pseudonymization is a security measure. 
+
+Natural Cycles provides this US Privacy Notice Addendum (the “US Addendum”) to US residents acting as “consumers” under applicable state privacy laws (“consumers” or “you”), such as the California Consumer Privacy Act, as amended by the California Privacy Rights Act, Colorado Privacy Act, and similar laws in other states. This US Addendum supplements the information contained in our Privacy Policy. Any capitalized term used but not defined in this US Addendum has the meaning given in our Privacy Policy.
+
+This US Addendum does not apply to information we collect about individuals in their capacity as present or former job applicants, employees, contractors, owners, directors, or officers of Natural Cycles.
+
+As used in this US Addendum, “Personal Information” is information that identifies, relates to, or could reasonably be linked with a particular consumer or household.  “Sensitive Personal Information” refers to certain types of Personal Information that are subject to heightened protections by law, such as health data.
+
+ 
+
+Depending on the privacy laws that apply in your state of residence, you may make the following types of requests. We will respond to your request consistent with applicable law.
+
+(a)    Request to Know: to confirm whether we process your Personal Information and to request a copy of such Personal Information;
+
+(b)    Request to Correct: to request correction if there are inaccuracies in your Personal Information;
+
+(c)    Request to Delete: to request deletion of your Personal Information, subject to potential exceptions under applicable law;
+
+(d)    Opt-out of Sale and Targeted Advertising: to opt-out of the sale of your Personal Information and processing of your Personal Information for targeted advertising.
+
+Please note that we do not sell Personal Information in the traditional sense of the word, for monetary consideration. However, because the definitions of “Sale” and “Share” under certain US privacy laws are broad enough to potentially include the disclosure of your information to certain types of advertising partners, you may have the right to opt out of such “Sale” and “Sharing.” For example, we may disclose to our advertising partners identifiers and metadata (such as commercial information concerning interest in Natural Cycles, geolocation data, and internet or other similar network activity) for targeted advertising, which may be a Sale or Sharing under these laws. For clarity, we do not Sell or Share any fertility status data, period data, sexual activity data, medical condition data, or logged symptom or pregnancy data. Certain US privacy laws also require us to provide the following notice language: NOTICE: We may sell your sensitive personal data. Further, please note that we do not knowingly Sell or Share the Personal Information of anyone under 16 years old.
+
+Requests may be submitted by yourself or an authorized agent by emailing us at support@naturalcycles.com or using the request web form. We will verify and respond to your request consistent with applicable law, taking into account the type and sensitivity of the Personal Information subject to the request. We may need to request additional Personal Information from you, such as [email address, state of residency, or mailing address], to verify your identity and protect against fraudulent requests. If you maintain a password-protected account with us, we may verify your identity through our existing authentication practices for your account and require you to re-authenticate yourself before disclosing or deleting your Personal Information. If you make a Request to Delete, we may ask you to confirm your request before we delete your Personal Information.
+
+Depending on your state of residence, if we decline to take action on a request, you may submit an appeal by https://www.naturalcycles.com/submitrequest.
+
+We will not unlawfully discriminate against you for exercising any of your rights under applicable US state consumer data privacy laws.
+
+Please see additional information below for California residents, for purposes of the California Consumer Privacy Act, as amended by the California Privacy Rights Act (“CCPA”).
+
+3.1 Categories of Personal Information
+
+Below, we identify (1) the categories of Personal Information and Sensitive Personal Information (as listed in the CCPA) that we plan to collect and use, and have collected and used within the preceding 12 months; (2) the categories of recipients to which we have disclosed each category of Personal Information or Sensitive Personal Information for our operational business purposes within the preceding 12 months; and (3) the categories of Personal Information and Sensitive Personal Information we have sold or shared within the preceding 12 months, as “sale” and “sharing” are defined in the CCPA.
+
+
+
+PERSONAL INFORMATION
+
+Category of Personal Information Collected
+
+Disclosed to Which Categories of Recipients for Operational Business Purposes
+
+Sold and/or shared? If so, to Which Categories of Third Parties
+
+Identifiers, such as IP Data, Device Data, hashed (a pseudonymisation technique) Contact Data
+
+Yes
+
+Personal information as defined in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))
+
+Yes
+
+Advertising and marketing partners; social media partners
+
+Advertising technology vendors
+
+Characteristics of protected classifications under California or federal law, such as age or gender.
+
+No
+
+Commercial information, such as records of personal property, history of products or services purchased, obtained or considered, or other purchasing or consuming histories or tendencies.
+
+Yes
+
+Advertising and marketing partners; social media partners
+
+Advertising technology vendors
+
+Internet or other similar network activity, such as browsing history, search history, information on a consumer’s interaction with a website, application, or advertisement.
+
+Yes
+
+Advertising and marketing partners; social media partners
+
+Advertising technology vendors
+
+Geolocation data, such as approximate physical location derived from IP address.
+
+Yes
+
+Advertising and marketing partners; social media partners
+
+Advertising technology vendors
+
+Sensory data, such as thermal information.
+
+No
+
+Professional or employment-related information, such as job titles of our contacts at companies with which we do business.
+
+No
+
+
+
+SENSITIVE PERSONAL INFORMATION
+
+Category of Sensitive Personal Information Collected
+
+Disclosed to Which Categories of Recipients for Operational Business Purposes
+
+Sold and/or shared? If so, to Which Categories of Third Parties
+
+Personal information collected and analyzed concerning a consumer’s health
+
+Yes, we may disclose limited information about our users (such as IP Data and Device Data, hashed Contact Data, and associated metadata) to our social media partners, as further described in Section 4.4.2 of our Privacy Policy.
+
+Natural Cycles is committed to keeping the data added to our App secure. We do not sell or share any of the following for the purpose of targeted advertising (such as Custom and Lookalike Audiences): any fertility status data, period data, sexual activity data, medical condition data, or logged symptom or pregnancy data. Nor do we group users for targeted advertising purposes based on this data.
+
+Personal information collected and analyzed concerning a consumer’s sex life or sexual orientation
+
+No
+
+
+
+3.2 Sources of Personal Information
+
+We obtain the categories of Personal Information listed above (including Sensitive Personal Information) directly from consumers or from devices on which our products or Services are installed, as well as from the following categories of sources: our affiliates, publicly-available databases, third-party partners, and other third-party sources.
+
+3.3 Use of Personal Information
+
+We use Personal Information (including Sensitive Personal Information) for a variety of business and commercial purposes, as described in Section 4 of our Privacy Policy.We may also use Personal Information to generate de-identified data sets. To the extent we treat data as deidentified under the CCPA, we will maintain and use that data solely in deidentified form and will not attempt to reidentify that data with any individuals other than to assess whether the deidentification process complies with applicable law or as otherwise permitted by applicable law.
+
+3.4 Disclosure of Personal Information
+
+We may disclose your Personal Information (including Sensitive Personal Information) to third parties for our operational business and legal compliance purposes, as described in Section 6  of our Privacy Policy.
+
+3.5 Retention
+
+We retain each category of Personal Information and Sensitive Personal Information in accordance with Section 5 of our Privacy Policy.  
+
+3.6 California Rights and Requests
+
+Under the CCPA, you may make the types of requests described in Section 1 above. For example, you may submit a Request to Know to request: (1) the categories of Personal Information (including Sensitive Personal Information) we collected about you; (2) the categories of sources from which we collected this Personal Information; (3) the categories of Personal Information that we have Sold, Shared, or disclosed, (4) the categories of recipients to whom this information was Sold, Shared, or disclosed; (5) the business or commercial purpose for Selling, Sharing, or disclosing Personal Information; and (6) the specific pieces of information we collected about you. Additionally, you may make the additional types of requests described below. We will respond to your request consistent with the CCPA.
+
+3.6.1 Requests to opt-out of Sharing
+
+You may opt out of our “Sharing” of Personal Information for cross-contextual behavioral advertising, as defined under the CCPA, in addition to opting out of “Sale” of Personal Information.To opt-out of Sale or Sharing, please visit our “Your Privacy Choices” page. We also recognize the Global Privacy Control as an opt-out preference signal.
+
+3.6.2 Requests to limit use of Sensitive Personal Information
+
+You may request that we limit our use of Sensitive Personal Information that we have collected about you to that which is necessary to perform the Services that we provide to you and as approved under applicable law.To request that we limit our use of your Sensitive Personal Information, please visit our “Your Privacy Choices” page or by emailing us at support@naturalcycles.com.
+
+3.7 Authorized agents
+
+To make a request as an authorized agent on behalf of a California resident, you may use the submission methods noted above. As part of our verification process, we may request that you provide, as applicable, proof concerning your status as an authorized agent.If you are making a Request to Know, Request to Delete, or Right to Correct on behalf of a California resident and have not provided us with a power of attorney from the resident pursuant to Probate Code sections 4121-4130, we may also require the resident to verify their own identity directly with us; or directly confirm with us that they provided you permission to submit the request.
+
+3.8 Notice of Financial Incentives
+
+From time to time, we may offer a program, benefit, or other offering in exchange for the collection, retention, sale, or sharing of Personal Information to us (collectively, “Financial Incentive”), such as your contact information. Any discount we provide will be based upon our reasonable but sole determination of the estimated value of your Personal Information, taking into consideration, without limitation, estimates regarding anticipated revenue generated from such information, the anticipated expenses that might be incurred in the collection, storage, and use of such information in the operation of our business, and other relevant factors related to the estimated value of such information to our business, as permitted under applicable law. We may provide additional notice of the details of the particular Financial Incentive as required, and participation in any Financial Incentive programs is on an opt-in basis. If you later wish to opt-out of a Financial Incentive program on a going-forward basis, you may submit a request to us using the contact details above.
+
+This US Consumer Health Data Notice applies to US residents whose Consumer Health Data is processed by Natural Cycles (“you”) under US state consumer health privacy laws, including the Washington My Health My Data Act (the “Washington Act”). This US Consumer Health Data Notice supplements the information contained in our Privacy Policy.
+
+“Consumer Health Data” means personal information that is linked or reasonably linked to an individual and that identifies past, present or future physical or mental health status.
+
+ 
+
+Natural Cycles collects, uses, and discloses Consumer Health Data as needed to provide you with the products or Services that you request, with your consent, or as permitted by applicable law. Natural Cycles collects and uses the following categories of Consumer Health Data:
+
+information on your fertility status and planning, such as whether you are using our App and Services to prevent, plan, or follow a pregnancy;
+
+information related to fertility, such as your contraceptives history, body temperature, menstruation and intercourse data, ovulation, pregnancy test results and associated personal notes.
+
+We collect Consumer Health Data directly from you or from devices on which our products or Services are installed.
+
+We may disclose the categories of Consumer Health Data described above to third parties for our operational business and legal compliance purposes, as described in Section 6 of our Privacy Policy, as follows: service providers; affiliates; successors if we are involved in a merger, acquisition, asset sale, or reorganization; with your consent; as required by applicable law; or to protect and defend the rights and interests of Natural Cycles, our users, or others. The specific affiliates to whom we disclose Consumer Health Data are the Natural Cycles group companies: NaturalCycles AG (Holding), NaturalCycles Nordic AB, NaturalCycles USA Corporation, related by common ownership or control, for purposes of carrying out the processing of Consumer Health Data as described in this Privacy Policy.
+
+Please note, we do not sell Consumer Health Data in the traditional sense of the word, for monetary consideration. However, because the definition of “Sale” under the Washington Act is broad enough to potentially include the disclosure of your information to certain types of advertising partners, you may have the right to opt-out of such Sale. Consumer Health Data that may be Sold are identifiers and metadata (such as commercial information concerning your interest in Natural Cycles, geolocation data, as well as internet or other similar network activity).
+
+Depending on the data protection and privacy laws that apply to you, you may make the following types of requests with respect to your Consumer Health Data. We will respond to your request consistent with applicable law.
+
+You may request to know if we are collecting, using or disclosing your Consumer Health Data, to access that data, and to receive a list of the affiliates and the categories of third parties with whom we have disclosed your information. 
+
+You may request that we delete your Consumer Health Data.
+
+If we are processing your Consumer Health Data with your consent, you have the right to withdraw that consent.
+
+You may submit requests to know or delete at https://www.naturalcycles.com/submitrequest or by emailing us at support@naturalcycles.com. To withdraw your consent to our processing of your Consumer Health Data, you can change the settings in our App as described in Section 3.1. If we deny your request, you may submit an appeal by https://www.naturalcycles.com/submitrequest.
+
+If your appeal is unsuccessful and you are a Washington resident, you can file a complaint with the Washington State Attorney General at www.atg.wa.gov/file-complaint.
+
+If your appeal is unsuccessful and you are a Nevada resident, please find the contact information for the Nevada State Attorney General at https://ag.nv.gov/Contact/.
+
+If you have any questions or comments about this US Consumer Health Data Notice or our processing of your Consumer Health Data, please contact our DPO at dpo@naturalcycles.com. To learn more about our privacy practices generally, please read our Privacy Policy.
+
+ Enable javascript to use this application 

@@ -1,0 +1,138 @@
+This Ovia Health by Labcorp Apps Privacy Policy (“Policy”) describes how Ovuline, Inc., doing business as Ovia Health by Labcorp (“Ovia”) collects, uses and shares personal data collected through the Ovia apps, health coaching, surveys, and related social media and marketing activities (the “Services”). Ovia Health by Labcorp is a subsidiary of Labcorp, a global life-sciences leader.
+
+Some parts of this Policy only apply to Ovia’s free consumer version of the Services, while others only apply to the enhanced paid versions provided as a benefit by employers, health plans and health care providers. In this Policy, we refer to these different versions as the “Consumer” and “Ovia+” versions of the Services. To view the full version of this Policy, click “Full Privacy Policy” above; the “Notice of Collection” is a shorter version required for California law.
+
+This Policy does not apply to personal data collected outside the scope of the Services.  For Ovia’s non-app Privacy Policy, which covers personal data collected by Ovia from business contacts or through our corporate website, please see our Non-App Privacy Policy.
+
+“Personal data” means information about you that identifies you, like a name, telephone number or other bit of information that is used to tell us who you are. Personal data includes “direct identifiers” such as your email address and also “indirect identifiers” that could be used to identify you such as the IP address and the Advertising ID of your mobile device.
+
+We collect the following categories of personal data in connection with our Services:
+
+We use your personal data to:
+
+Lawful Processing. Our processing of your personal data is based on one or more of the following:
+
+The table below describes the purposes for our use and collection by category.
+
+If you receive the premium “Ovia+” version of Ovia through your health insurer, employer or employer health plan, your Ovia+ services include data sharing with your insurer, employer health plan, employer,  or vendors working on their behalf in accordance with HIPAA and other privacy laws.
+
+Data sharing does not occur for all Ovia+ clients. If you would like definitive information on the data sharing for your account, please contact support@oviahealth.com. Our Ovia+ data sharing policy is as follows:
+
+As of June 2025, Ovia no longer shows advertising to our Consumer users and does not sell or share any personal data for advertising. Please see the table at the end of this document for the categories of personal data sold or shared for advertising before we terminated our advertising business.
+
+To its knowledge, Ovia does not sell or share any personal data of Ovia users under 16. Ovia no longer shows advertising.
+
+Prior to the termination of our advertising business in June 2025, we shared identifiers, internet and app activity information and inferred purchase interests with our ad sales platform, advertising networks, advertising platforms or advertising technology providers to sell, administer, serve and purchase ads.
+
+
+
+
+Ovia may also share personal data for business purposes in all of the above categories, as described in the table “When We Share Personal Information, What Categories of Recipients Do We Share With?”, with the following categories listed in that table:
+People You Invite, You and Your Requested Followers, Affiliates and Successors, and
+Government Authorities and Recipients of Compelled Disclosures.
+
+Ovia discloses personal data to processors who act on Ovia’s behalf (our principal processors are listed on our Subprocessors Page). Our analytics vendor Appsflyer provides its services to Ovia as a processor, but may act as a controller when using personal data for its internal security, error correction and compliance purposes.
+
+
+
+Ovia protects personal data with security measures that are consistent with industry standards, including background checks on all employees and data encryption in transit and at rest. Ovia’s Ovia+ product has achieved certification to the HITRUST Common Security Framework. Our principal database is hosted by Amazon Web Services, which maintains multiple security certifications. We will notify you of security incidents as required by law, and you agree that, when permitted by law, such notices may be sent by email to the email address associated with your Ovia account.
+
+If you are a Consumer user, we store your data (all categories) for the period that your account is active and then for 7 years after that. After this period, we automatically delete your data. 
+
+If you are an Ovia+ user, we store your data (all categories) during the period that you are receiving Ovia+ benefits. Ovia is generally required to delete your data after your Ovia+ benefits end. We will notify you before your data is deleted and, where possible, offer you the opportunity to convert your account to a Consumer account and retain your data.
+
+While these are our standard retention periods, you can delete your data at any time as described in the next section.
+
+Within the Ovia Apps
+
+You can use self-service controls within the Ovia apps to exercise your data subject rights to:
+
+Opting Out Through Browser-Based Global Privacy Controls
+
+Ovia does not receive a “do not sell” Global Privacy Control (GPC) signal when you are using Ovia’s mobile applications or viewing content through in-app webviews. Ovia respects “do not sell” GPC signals that we receive on the Ovia Health corporate website at www.oviahealth.com, which is governed by Ovia’s Non-App Privacy Policy.
+
+Contacting Our Helpdesk, and Use of Authorized Agents
+
+You may email Ovia at support@oviahealth.com to exercise any of the rights listed above and any other data subject rights provided by law. Any authorized agents seeking to exercise data subject rights on behalf of any Ovia users should contact support@oviahealth.com with their request. Ovia may require you to verify your identity by entering your username and password in order to exercise data subject rights.
+
+You have the right not to be discriminated against for exercising your privacy rights. Contact our helpdesk if you are concerned that this has happened to you.
+
+Appeal Rights
+
+If your request to exercise any of your rights is refused, you may send your notice of appeal by email to legal@oviahealth.com, for review by Ovia’s Legal Department. We will resolve your appeal within 30 days of the date of receipt of your email.
+
+Exceptions to Deletion
+
+Even if you exercise your rights described above, Ovia may retain personal data to maintain proper business records, to comply with and as permitted by law, for security management and investigation, in connection with litigation, or to protect the rights or property of Ovia or third parties. Please see also How Does Ovia Respond to Data Requests.
+
+Other Relevant Information
+
+If you opt-out of marketing emails and push notifications, you will still receive account management notices. To stop all emails and push notifications, you must delete your account and data. If we delete your data, we will not delete the posts or comments you have shared publicly on Ovia’s social media, community or chat features. If you have consented to participate in a research study and subsequently request deletion of your data, we may delay deletion until completion of the study. Even if you exercise your rights described above, Ovia may retain personal data to maintain proper business records, to comply with and as permitted by law, for security management and investigation, in connection with litigation, or to protect the rights or property of Ovia or third parties. Please see also How Does Ovia Respond to Data Requests.
+
+To contact Ovia to exercise your privacy choices, please see “What Are Your Choices?” above.
+
+Ovia has designated a Data Protection Officer. To contact our Data Protection Officer or for questions or complaints about Ovia’s processing of personal data, contact us at:
+
+Data Protection OfficerOvuline, Inc., dba Ovia Health by Labcorp3400 Computer DriveWestborough, MA 01581legal@oviahealth.com
+
+Data subjects located in the EEA or UK may contact the Data Protection Officer at the address above or Ovia’s EU and UK representative at dpo@labcorp.com. 
+
+You may also have the legal right to lodge a complaint about Ovia’s data processing with your local consumer protection or data protection authority.  If you are a resident of Washington state in the US, the Washington Attorney-General’s complaint website is here.
+
+Third Party Websites or Apps: Some links within the Services may interface with or take you to websites or apps that are operated by other companies. Ovia is not responsible for the privacy practices of others. You should review the privacy policies of those sites and apps.
+
+US Location: The data we collect is transferred to servers located in the US of our cloud computing provider, Amazon Web Services (AWS); some personal data may be transferred to other US-based vendors who provide services to Ovia, including the principal vendors listed here. If you are resident outside the US, your data may as a result become subject to US jurisdiction which may provide you with weaker data protection safeguards and rights than you would enjoy in your home jurisdiction. By accepting this Privacy Policy, using the Services or providing us with your personal data you acknowledge and consent to your personal data being transferred and/or processed as described in this Policy.
+
+Children: The Services are not available to children under 13 or who otherwise require parental consent under applicable law to use the Services or provide personal information to Ovia. Ovia does not collect personal data from children under 13. Parents and guardians may include personal data about their baby or child in their Ovia account; the parent or guardian is responsible for ensuring they have the legal right to do so.
+
+Deidentified Data and Aggregated Data: Ovia may use personal data to create deidentified data for research and development purposes. Deidentified data is not personal data as it is no longer linked or linkable to you. If we create a deidentified dataset we maintain it as such and will not re-identify it. We may provide deidentified data to our research partners, such as universities and medical research institutions for research, and to other businesses who have engaged us to provide research services on deidentified or aggregated data. Ovia may disclose or sell deidentified data derived from patient information (as defined by the California Consumer Privacy Act); if so, such patient information is deidentified in accordance with HIPAA safe harbor or expert determination deidentification requirements. We may use personal data to create aggregated analytic data and statistics, which we may use for Ovia’s internal purposes or share with third parties. Ovia may receive compensation for sharing deidentified or aggregate data.
+
+Social Media: Some Ovia content may appear on Ovia’s social media channels. Ovia does not collect personal data through those channels, and the respective privacy policies of the social media provider will apply to your usage of those channels. 
+
+Before the termination of Ovia’s advertising business in June 2025, within the last 12 months Ovia sold or shared personal data for advertising as described in the table below.
+
+Ovia may modify this Policy from time to time by posting an updated version of the Policy. When we make material changes this Policy, we will notify users by email or in-app notification.
+
+Last updated: August 26, 2025
+
+The principal changes in this update were:
+
+
+
+We help people navigate their most important moments with
+                        personalized, data-driven solutions for reproductive health, family building, pregnancy,
+                        and parenting.
+
+For press inquiries,
+                                
+                                    email us
+                                
+                                or call
+                                
+                                    336-436-8263
+                                
+                            
+
+App and account support
+                                
+                                    support@oviahealth.com
+                                
+                            
+
+Request a demo
+
+For press inquiries,
+                            
+                                email us
+                            
+                            or call
+                            
+                                336-436-8263
+                            
+                        
+
+App and account support
+                            
+                                support@oviahealth.com
+                            
+                        
