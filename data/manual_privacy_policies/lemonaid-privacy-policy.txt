@@ -1,0 +1,244 @@
+
+ Health services
+ Meet your medical team
+ Healthaid blog
+ About us
+ FAQ
+ Sign In
+Privacy Policy
+LEMONAID PRIVACY POLICY
+Last updated: March 14th, 2025
+This Privacy Policy applies to Lemonaid Health, Inc., LMND Medical Group, Inc., a California Professional Corporation, LMND Medical Group, a Professional Association based in Kansas, LMND Medical Group, a Professional Corporation based in New Jersey, and LMND Medical Group, a Professional Association based in Texas (together, "Lemonaid"), products and services, including www.lemonaidhealth.com and any other websites, pages, features or content we own or operate, or that links to this Privacy Policy (collectively, the "Services"). When you use these Services, this Privacy Policy applies to your use.
+
+If you have questions about our Privacy Policy, please contact us or call us at 888-536-2267. You should read our entire Privacy Policy to understand how we use your data, but if you only have a few minutes you can take a look at the summary below.
+Privacy Highlights
+? Information We Collect. We generally collect the following information:
+? Account Information: information we collect at registration, including your name, phone number, address and email address.
+? Self-Reported Information: information you provide to us, such as ratings, survey answers, or preferences.
+? Health Information: information you provide to us or our Medical Team, including information we generate about you, related to your physical, mental or other health conditions.
+? Web-Behavior Information: information related to the ways in which you interact with the Services and the computer or device you use to access the Services.
+? How We Collect Your Information
+? From You
+? Through Your Use of the Services
+? From Third Parties
+? Via inferences we make
+? Your Choices. It's your data, you're in control.
+? Communications. We provide you with choices about communications you receive from us.
+? Access, Correction, and Portability: You can request access and correct information via your account settings, or by contacting us.
+? Deletion: You can delete your Lemonaid account and data at any time by contacting us at privacy@lemonaid.com.
+? Sales, Sharing, and Targeted Advertising: You can opt-out of certain data sharing practices by visiting our Cookie Choices page.
+
+Full Privacy Policy
+
+1. Information We Collect
+When we say "Personal Information" we mean information that either identifies you personally or is about you, and use this as a general term to refer to the different categories we describe in this section.
+
+We may collect the following types of Personal Information:
+? Account Information. Information such as your name, user ID, password, date of birth, billing address, payment information, or other contact information (e.g., email or phone number).
+? Self-Reported Information. Information you choose to provide, such as ratings, survey answers, or preferences, to us.
+? Health Information. Information related to your physical, mental or other health conditions.
+? Web-Behavior Information. Information related to the ways in which you interact with and use the Services and the computer or device you use to access our Services, such as referring and exit pages and URLs, platform type, location, browser type, device ID, operating system, the number of clicks, domain names, landing pages, pages and content viewed and the order of those pages, the amount of time spent on particular pages, the date and time you used the Services, the frequency of your use of the Services, error logs, and other similar information. Web-Behavior Information may be collected via the use of cookies, web beacons, mobile device identifiers, and other technologies.
+Aggregate Information. Aggregate Information is information that is stripped of identifying information, like your name or email, and is combined with that of other individuals, and analyzed as a whole, so no single individual can reasonably be identified. Aggregate Information is considered non-personal information for purposes of this Privacy Policy, and we may disclose it to others without limitation for any purpose, in accordance with applicable laws and regulations.
+2. How We Collect Information
+? From You: We collect information from you when you provide it to us directly, such as information provided during account registration or during a telehealth visit, through the messages you send us, or information you directly authorize to disclose to us from another entity, like lab test results.
+? Through Your Use of The Services. We may collect information about you through your use of the Services, such as through service providers who use a variety of technologies and tools to collect such information, such as cookies, web beacons, and other technologies when you visit or interact with our Services. For more detail on how we use Web-Behavior Information, please see our Cookie Policy.
+? From Third Parties. We may obtain additional information about you from third parties, such as marketers, partners, researchers, and others. We may combine information that we collect from you with information about you that we obtain from such third parties and information derived from any Services we provide. We may use third-party website analytics services in connection with the Services, including, for example, to note mouse clicks, mouse movements, scrolling activity and text that you type into the Website or App.
+? Lemonaid: We may infer new information from other data we collect, including using automated means to generate information about your likely preferences or other characteristics.
+3. How We Use Information
+We use your information to:
+? Provide, develop, maintain, operate, improve, enhance, administer, protect, and troubleshoot our Services and your experience with them, including developing new product tools and features;
+? Operate our business, including billing, accounting, and improving our internal operations;
+? Track and analyze trends and usage of the Services;
+? Communicate with you, including customer support, reminders about your telehealth appointment, prescription-related notifications, to inform you of our Services, and other offers and information that we believe may be of interest to you;
+? Customize and tailor your experience of the Services;
+? Provide cross-context behavioral or targeted advertising (learn more in our Cookie Policy and Cookie Choices page);
+? Secure our systems, prevent fraud and protect the security of Lemonaid systems;
+? Enhance the security and safety of our Services;
+? Verify your identity and prevent, detect, and investigate fraud and other potentially illegal or prohibited activities;
+? Enforce, investigate, and report conduct violating our Terms of Service and other policies that govern your use of the Services; and
+? Comply with our licensing, legal, and regulatory obligations.
+4. How We Disclose Information
+We may disclose your Personal Information as follows:
+? As Directed by You. When you direct us to disclose Personal Information, we will do so on your behalf.
+? Service Providers. Lemonaid may disclose your Personal Information with other companies and contractors that work with, or on behalf of, Lemonaid to provide products and services. For example, some of the types of service providers and contractors include: payment processors, order fulfillment, marketing and analytics, cloud storage, IT and security vendors. For example, we use Google Analytics on our website to help us understand how users interact with our website; you can learn how Google collects and uses information at www.google.com/policies/privacy/partners. Learn more about what third party analytics and advertising partners we use on our site in our Cookie Policy.
+? Healthcare Providers and Pharmacies. Lemonaid may disclose your Personal Information to provide the Services to you, for purposes such as treatment, running our healthcare operations, processing payments, pharmacy fulfillment services, and quality assurance reviews under the direction and on behalf of our medical partners.
+? As Required by Law, To Prevent Harm and/or in the Public Interest. We may provide Personal Information about you to respond to subpoenas, court orders, legal process or governmental regulations, or to establish or exercise our legal rights or defend against legal claims. Where necessary, we will disclose information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, safety or security concerns, or as otherwise required by law.
+? Business Transfers. We may disclose your Personal Information with other business entities in connection with the sale, assignment, merger or other transfer of all or a portion of Lemonaid's business to such business entity. This Privacy Policy will apply to your Personal Information as transferred to the new entity.
+? Affiliates. We may disclose information with entities within the Lemonaid Health Inc. family of companies.
+5. Your Privacy Choices
+We believe you should be in control of your Personal Information. You can make the following choices by emailing us at privacy@lemonaid.com:
+? Communications: You can choose whether we may contact you (such as through email, in-product notifications, push notifications, or text messages) for promotional purposes, or certain transactional messages, such as appointment or prescription notifications. Except as required to provide you the Services you requested, you can also ask that we stop sending SMS/text messages by replying "STOP". You can also click "unsubscribe" at the bottom of promotional email communications.
+? Access: You can access and download your Personal Information processed by Lemonaid.
+? Correction: You can correct certain account information, such as email address or phone number associated with your account. You can also make these changes in your account settings.
+? Deletion: You can delete your Lemonaid account at any time. Please keep in mind we are required to retain certain limited information for legal and regulatory purposes, such as information that is part of your medical record.
+6. Your Rights With Respect to Health Information
+You have certain rights with respect to your Health Information, in accordance with applicable state and federal medical privacy laws. All rights and authorized uses of your health information may be found in Lemonaid's Notice Regarding Information in Your Medical Record.
+7. Children's Privacy
+Lemonaid is not intended for, or directed toward, individuals under the age of 18. We do not knowingly collect any Personal Information from anyone under 18.
+8. State and Region-Specific Information
+You may have specific privacy rights in your state or region.
+United States Residents
+If you are a resident of California, Washington, Colorado, Virginia, or Connecticut (collectively, "U.S. State Residents"), you have the following rights under the California Consumer Privacy Act ("CCPA"), as amended by the California Privacy Rights Act, Colorado Privacy Act ("CPA"), the Virginia Consumer Data Protection Act ("VCDPA"), the Utah Consumer Privacy Act ("UCPA") (collectively, the Washington My Health My Data Act ("MHMDA"), and the Connecticut Data Privacy Act ("CTDPA") (collectively, "U.S. State Data Protection Laws"), as amended or replaced from time to time, along with any implementing regulations. In the event of any conflict between the terms of this section and the rest of the Privacy Policy, the terms of this section prevail.
+Your Rights
+U.S. State Residents have the following rights under U.S. State Data Protection Laws:
+? Know what Personal Information we collect, use, disclose, or sell.
+? Receive a copy of your Personal Information.
+? Correct inaccurate Personal Information.
+? Delete your Personal Information.
+? Receive your Personal Information in a portable and, if technically feasible, in a readily usable format.
+? Opt out of: targeted advertising; the sale or sharing of your Personal Information with third parties; and/or, profiling in the furtherance of decisions that produce legal or similarly significant effects. Please see our Cookie Choices page for more information.
+? Limit the use and sharing of your sensitive Personal Information. Sensitive information includes, but is not limited to, Personal Information that reveals your racial or ethnic origin, religious beliefs, mental or health conditions or diagnosis, sex life or sexual orientation, citizenship or immigration status, genetic data, precise geolocation, or as otherwise defined in applicable U.S. State Data Protection Laws.
+? Not receive discriminatory treatment if you exercise your privacy rights.
+To exercise these privacy rights and choices, please follow the instructions below. Please note, your rights under U.S. State Data Protection Laws are not absolute and Lemonaid may exercise limitations or exemptions as permitted by the U.S. State Data Protection Laws. We may also deny your request if the information is not subject to U.S. State Data Protection Laws, for example information subject to the California Confidentiality of Medical Information Act ("CMIA").
+? Request Access to your Personal Information (your "Right to Know"). You may, up to two times in a 12-month period, request details about Personal Information we hold about you. To make an Access request, email us at privacy@lemonaid.com with the subject line "Access Request".
+? Request Deletion of your Personal Information. You may request deletion of your Personal Information that we collect or maintain about you at any time. To make a Deletion request, email us at privacy@lemonaid.com with the subject line "Deletion Request". In some cases, we are required to maintain certain information as required by law (for example, to maintain medical records).
+? Request Correction of your Personal Information. You may request that we correct Personal Information we have about you. To make the request, email privacy@lemonaid.com with the subject line "Correction Request."
+? Verification. We will require some additional information to verify your identity in order to process your request, such as your login and password, or valid government identification.
+? Authorized Agent. Alternatively, you may exercise your privacy rights through an authorized agent. If you use an authorized agent, we will require you to verify your identity and confirm that you have provided the authorized agent permission to submit the request on your behalf. To designate an agent with respect to your privacy rights, email us at privacy@lemonaid.com with the subject line "Agent Designation".
+? Response Timing and Format. We will respond to your request within 45 days, and in more complex cases we may extend our response time by another 45 days. If you would like to appeal an action we took with your privacy request or inquiry, please contact us at privacy@lemonaid.com.
+Like many websites, Lemonaid uses cookies (including other tracking technologies) for targeted or cross-context behavioral advertising. Cookies require your Web-Behavior Information to work.
+
+Under the CCPA, this use of your data for cross-context behavioral advertising may constitute a "sale" or "sharing" of personal information. We let advertising providers collect identifiers (IP addresses, cookie IDs, and mobile IDs), activity data (browsing, clicks, app usage), device data, and geolocation data through our sites and apps when you use our online service. In the past 12 months, these categories of personal information may have been "sold" or "shared" as defined under CCPA. We do not have actual knowledge of selling or sharing personal information of users under the age of 16.
+
+Lemonaid believes in providing you with a frictionless experience by responding to Global Privacy Control ("GPC") signals sent by your browser or mobile device. A GPC is a signal from your browser that notifies us of your privacy preferences, such as whether or not you want us to drop cookies on your device. To check your GPC preferences, check out the settings or extensions in your browser or mobile device. Learn more about GPC. Otherwise you can always opt-out of cross-context behavioral or targeted advertising any time via the Cookie Choices page.
+
+Lemonaid will not discriminate against you for exercising any of your privacy rights and choices.
+What We Collect
+As detailed in our Privacy Policy, we collect Personal Information for various purposes with privacy principles in mind. The categories of Personal Information and other terms used below are defined in the CCPA for California residents, and may include reference to certain key definitions set forth in our Privacy Policy. Some of the categories below require separate opt-in consent and these categories do not necessarily reflect all of the types of information that we may collect about you. Some Personal Information included in this category may overlap with other categories.
+
+In the last twelve (12) months, we have collected the following categories of Personal Information from our customers:
+? Identifiers: Certain information from Account Information, Web-Behavior Information, and/or demographic such as your name, display name, address, online identifier, IP address, email address, username, or other similar identifiers.
+? Personal information categories listed in the California Customer Records provisions: Certain information from Account Information (including payment information) or Self-Reported Information (such as your name, address, phone number, employment or education).
+? Characteristics of protected classifications under California or federal law: Certain information from Account Information, Health Information, and Self-Reported Information, such as your age (40 years or older), race, color, ancestry, national origin, citizenship, religion or creed, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, and genetic information (including familial genetic information). You can review protected classes under California law here.
+? Commercial information: Certain information from Self-Reported Information, such as products or Services purchased, obtained, or considered, survey responses regarding past purchasing history, other purchasing or consuming histories or tendencies.
+? Audio, electronic, visual, thermal, olfactory, or similar information: Certain information from Self-Reported Information, such as photos you provide to us to verify your identity before beginning a virtual visit, or provided through other engagement on our website.
+? Professional or employment-related information: Certain information from Self-Reported Information, such as education, household income, occupation, and other professional information. This information can be collected when you apply for a job with Lemonaid, fill out a survey, or otherwise engage with us.
+? Biometric information: Certain information from Self-Reported Information such as physiological, behavioral, and biological characteristics that can be used to establish an individual's identity. To the extent we collect this information, we collect it directly from you when you choose to disclose it to us.
+? Internet or other electronic network activity information: Web-Behavior Information, such as data generated from your use of our Services and collected through log files, cookies, web beacons, and similar technologies. Such information may include your browser type, domains, page views, how long you spent on a page or feature of the website, or other data about your engagement with our Services.
+? Geolocation data: Web-Behavior Information that includes the identification or estimation of physical location or movement. You can learn more about how Lemonaid processes Web-Behavior Information in our Cookie Policy.
+? Inferences drawn from other personal information: Inferences and Derived Data includes any information, data, assumptions, or conclusions Lemonaid infers based on analyses of facts, evidence, or another source of information or data.
+? Sensitive personal information: Health Information, and certain Account Information and Self-Reported Information may be considered "sensitive." This includes data that reveals your: social security, driver's license, state identification card, or passport number; account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to your account; precise geolocation; racial or ethnic origin, religious or philosophical beliefs, or union membership; mail, email, and/or text messaging contents; and genetic data.
+How We Use Your Personal Information
+As defined under the CPRA for California residents, Lemonaid may use Personal Information listed above for the purposes described below or at your direction. Such purposes include:
+? Providing Services: To provide our Services to you, including maintaining or servicing your account, providing customer service, processing or fulfilling orders and transactions, and more.
+? Audit: Auditing related to a current interaction and concurrent transactions or compliance with applicable laws or standards.
+? Security and Integrity: Detecting security incidents, maintaining integrity, protecting against malicious, deceptive, fraudulent, or illegal activity, and prosecuting those responsible for that activity.
+? Debugging: Debugging to identify and repair errors that impair existing intended functionality.
+? Transient Use: Short-term, transient use, including, but not limited to, nonpersonalized advertising shown as part of your current interaction with our business, provided that your Personal Information is not disclosed to another third party and is not used to build a profile about you or otherwise alter your experience outside the current interaction.
+? Advertising and Marketing: To provide advertising and marketing to you, including cross-context behavioral advertising. Check out our Cookie Choices for more information on how we use your Cookie and Web-Behavior Information for cross-context behavioral advertising.
+? Product Research and Development: Internal research that Lemonaid performs to improve and develop its products and services.
+? Quality Assurance and Product Improvement: Activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by Lemonaid, and otherwise to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by Lemonaid.
+If you have given your explicit consent, for example via a data transfer authorization or other consent document, we may disclose your Personal Information for commercial purposes to third parties. The purpose may vary and will be described in the consent at that time. In the past 12 months, we have disclosed your Personal Information to service providers and contractors for the business purposes described above, and to third-party marketing and advertising companies for cross-context behavioral or targeted advertising.
+
+We do not use or disclose sensitive Personal Information for purposes other than the business purposes permitted by CCPA, which include, for example, to perform our services, to detect and prevent security incidents, to perform services on behalf of the business, and other purposes as allowed by CCPA.
+Washington Consumer Health Data Privacy Policy
+If you are a Washington resident, the Washington My Health My Data Act ("WAMHMD") requires us to provide you with the following additional information about: (1) the categories of "Consumer Health Data" (as defined in the WAMHMDA) we collect, including how we use the data; and (2) the categories of sources from which the consumer health data are collected; (3) the categories of consumer health data that are shared; (4) a list of the categories of third parties and specific affiliates with whom we share the consumer health data; and (5) how a consumer can exercise the rights provided by the act. Please see the following chart for the information:
+Consumer Health Data we CollectSourcePurpose of Use and CollectionCategories of third-parties with whom we share itIndividual health conditions, treatment, diseases, or diagnosis; Social, psychological, behavioral, and medical interventions; Use or purchase of prescribed medication; Diagnoses or diagnostic testing, treatment, or medication; Reproductive or sexual health informationSelf-Reported; or automatically collectedProvide and manage the Services; Analyze and improve the ServicesWe do not share this information unless you direct us toBiometric dataGenerated by our identity verification processor for Lemonaid with your consentVerify your identifyWe do not share this informationGenetic data23andMe, with your consentProvide our servicesWe do not share this information unless you direct us toCustomer Health Data derived or extrapolated from non-health information (such as proxy, derivative, inferred, or emergent data by any means, including algorithms or machine learning); data that identifies a consumer seeking health care services >We only collect and use this information with your express consentThis information is generated from your use of our Services and collected through log files, cookies, web beacons, and similar technologies. Such information may include your browser type, domains, page views, how long you spent on a page or feature of the website, or other data about your engagement with our Services.Provide and manage the Services; Analyze and improve the Services; Advertising and marketingAnalytics and advertising partners; 23andMeYour Rights
+? You have the right to confirm whether we collect your Consumer Health Data, how we use it, and whether we shared or sold it, including the contact information of any third parties to whom we shared or sold your Consumer Health Data. You also have the right to obtain a copy of that Consumer Health Data free of charge.
+? You have the right to withdraw your consent from our collection and sharing of Consumer Health Data.
+? You have the right to have your Consumer Health Data deleted.
+If for any reason we decline a request you make while exercising these rights, you have the right to appeal our decision. If you are a Washington resident, you may file a complaint with the Washington Attorney General, or contact the Washington Consumers Protection Hotline at 1-800-551-4636.
+
+To exercise any of these rights, please send an email to privacy@lemonaid.com
+Individuals Located in the United Kingdom
+This section applies to individuals located in the United Kingdom ("UK").
+1. International Transfers: Lemonaid operates, and processes Personal Information, globally. Your Personal Information will likely be transferred to, stored, and processed in the U.S. and other countries outside of where you live. When we conduct such transfers, we rely on various legal bases to lawfully transfer Personal Information around the world, including fulfillment of our agreements with you, your prior consent, adequacy decisions for relevant countries, or other transfer mechanisms as may be available under applicable law, such as the European Union Commission approved standard contractual clauses.
+2. Our relationship with you: We are the "controller" with respect to your Personal Information because we determine the means and purposes of processing your Personal Information when using our Services.
+3. Legal bases for processing Personal Information from the UK: We describe how we process your Personal Information in Sections 1 through 4 of the Privacy Policy. We may process your Personal Information if you consent to the processing, to satisfy our legal obligations, if it is necessary to carry out our obligations arising from any contracts we entered with you or to take steps at your request prior to entering into a contract with you, or for our legitimate interests to protect our property, rights or safety of Lemonaid, our customers or others.
+4. Privacy Rights: You can exercise your rights of access, deletion, correction, withdrawal, and portability as described in the Section 5 of the Privacy Policy. In addition, you have the right to object or restrict the processing of your Personal Information. To exercise such rights, please contact us at privacy@lemonaid.com. We will handle your request under applicable law, and, in some cases, your ability to access or control your Personal Information will be limited, as required or permitted by applicable law.
+Complaints or Questions: If you believe that we have infringed your rights, we encourage you to contact us so that we can try to address your concerns or dispute informally. Our contact information is:
+
+Data Protection Officer
+Lemonaid Health Limited.,
+Tetbury Place, The Business Design Center
+London N1 0QH
+privacy@lemonaid.com
+
+5. You also have a right to lodge a complaint with the UK Information Commissioner's Officer.
+9. Changes to this Privacy Policy
+We may revise this Privacy Policy from time to time. We'll let you know about those changes here, or by contacting you, such as via email to the email address associated with your account. We display the "Last Updated" date on the policy in the upper left corner of this Privacy Policy so that it will be easier for you to know when there has been a change. We may also provide additional notice, such as an in-app notification, or on another website page or feature. Small changes or changes that do not significantly affect individual privacy interests may be made at any time and without prior notice.
+10. How to Contact Us
+If you have questions about this Privacy Policy, or have a complaint or inquiry, please email us at privacy@lemonaid.com, call us at 888-536-2267, or send a letter to:
+Lemonaid Health, Inc.
+Attn: Lemonaid Privacy Officer
+870 Market Street, Room 415
+San Francisco, CA 94102
+Phone: 888-536-2267
+Lemonaid Health
+Notice Regarding Information in Your Medical Record
+Last Updated: March 14th, 2025
+Summary:
+This Notice Regarding Information in Your Medical Record Notice ("Notice") applies to Lemonaid Health and details how Lemonaid Health uses, protects, and discloses information contained in the record that we maintain regarding the health care that we provide to you (your "Medical Record"). Please note, your Medical Record contains only a limited set of Personal Information. For example, it may include demographic information (e.g., your name, address, gender, or age), diagnosis, or communications with a provider. It applies to all Medical Records created, controlled, or otherwise maintained by Lemonaid Health. To keep things simple, all capitalized terms have the same meaning as our Privacy Policy and Terms of Use.
+
+We encourage you to read the entire Notice, but here are the key highlights:
+How We Use or Disclose Your Medical Record:
+? To provide treatment
+? To provide Services
+? To comply with your instructions
+? As required by law
+? To disclose threats to health or safety
+? To comply with public health reporting requirements
+You Can:
+? Get a copy of your Medical Records
+? Request corrections to your Medical Record if it is inaccurate or incomplete
+? Request to limit sharing or use of your Medical Record
+? Tell us how you want us to disclose information with family or others involved in your care
+? Delete your Account
+
+Full Notice Regarding Information in Your Medical Record
+
+Our Pledge Regarding Your Medical Record
+Your health care treatment is personal to you and we understand the importance of protecting your Medical Record. This Notice applies to all Medical Records we create, control, or maintain, and outlines the ways your information in those records are used or disclosed, and what your choices are.
+What is a Medical Record
+Please note, your Medical Record contains only a limited set of Personal Information that relates to the health care we provide to you. For example, it may include demographic information, diagnosis, or communications with a provider.
+
+To understand how all your Personal Information is handled by Lemonaid Health, please review our Privacy Policy. To the extent there are any conflicts between the Privacy Policy and this Notice related to your Medical Record, this Notice will govern.
+
+In some circumstances, your Medical Record could have additional information about your health that we give special consideration to protecting. Examples of this information include, but are not limited to, psychotherapy or mental health notes, results related to sexually transmitted infection(s) ("STI"), or genetic information. We require additional authorization from you before we use or disclose that information.
+How We Use and Disclose Your Medical Record
+The following categories describe ways that we may use or disclose your Medical Record.
+? For Treatment. We disclose your Medical Record in the course of providing medical treatment or in coordinating or managing any Services you've received or requested. For example, we may disclose your Medical Record with members of our Medical Team involved in your care to provide an additional consult or to fill a prescription.
+? For Providing Services. We may use and disclose your Medical Record to carry out our business operations and be able to provide the Services to you. These uses or disclosures are related to things like billing or fulfilling prescriptions, quality of care, compliance activities, administrative purposes, contractual obligations, grievances, or legal obligations. For example, we may use information in your Medical Record to review the treatment and services provided or to evaluate the performance of the staff and contractors caring for you.
+? To Comply with Your Instructions. We will disclose your Medical Record as directed by you. For example, if you choose to disclose your Medical Records with a third party available on the Services, we will do so with your consent.
+? As Required by Law. We will disclose your Medical Record when required to do so by federal, state, or local law. In certain circumstances, Lemonaid Health may be required by law to comply with a valid court order, subpoena, or search warrant for a Medical Record. As permitted under applicable law, we will provide notice to you prior to sharing your Medical Record.
+? Disclosure for Threats to Health and Safety. In certain circumstances, we are required to disclose your Medical Record to help protect you or someone else's health and/or safety. For example, we may ask local law enforcement to perform a health and welfare check if, in our provider's professional judgment, a welfare check is necessary.
+? Public Health Reporting Requirements. We are required to report certain test results, like STI or positive COVID tests, to health agencies for public health purposes.
+Special Considerations
+In certain situations, some sensitive information in your Medical Record will not be used or disclosed without your written authorization, unless required by law. Some examples of types of information that need specific authorization:
+? Genetic Information. This is any information about your individual genotype, including results of any genetic test.
+? Psychotherapy Notes. We do not create psychotherapy notes in your Medical Record since mental health counseling is not a part of our medical team's depression and anxiety care.
+? STI Test Results. This is information related to any sexually transmitted infection(s) you experience. For more information on what we are required to report, please see the FAQ.
+? HIV/AIDS Results. This is information related to any HIV or AIDS test results.
+Control of Your Medical Record
+You have control over your Medical Record. You can request the following by contacting the Health Care Compliance Team at the address below.
+? Copy of your Medical Record. With certain exceptions, you may receive copies of your Medical Record, which may include information such as your diagnosis, provider notes, and treatment plan.
+? Correction. If you believe that information in your Medical Record is incorrect or incomplete, you may ask us to correct the information.
+? List of Disclosures. You may request a list of certain third parties we have disclosed your Medical Record with in the past 12 months.
+? Request Us to Limit How We Use or Disclose Your Medical Record. You can request that we limit how we disclose your Medical Record with your family members or others involved in your care. If you provide any written authorization to disclose your Medical Record, you are free to revoke your authorization at any time in writing. After receiving the request, we will stop any further use or sharing of your Medical Record, except in cases where we have already acted based on your previous permission. We are unable to undo any disclosure already made with your permission.
+? Request Confidential Communications. You can request that we communicate with you about your appointments or other health care matters in a specific way. We'll do our best to accommodate your reasonable request but may be unable to if it causes significant operational or administrative burdens.
+? Account Deletion: As mentioned in our Privacy Policy, you are free to delete your account at any time. We may retain all or part of your Medical Record after you close your account for a limited period of time as required by law, contractual obligations, as necessary for the establishment, exercise or defense of legal claims, audit and/or compliance purposes.
+In some circumstances, we may not be able to accommodate your request if it conflicts with our legal obligations, the request is manifestly unfounded or excessive, or it affects our ability to provide the Services.
+Contact Us
+If you have any questions about how we use or disclose your Medical Records, please contact us at:
+Lemonaid Health, Inc.
+Attn: Health Care Compliance Team
+870 Market Street, Room 415
+San Francisco, CA 94102
+Phone: 888-536-2267
+Email: privacy@lemonaid.com
+Changes to this Notice
+We reserve the right to change and make updates to this Notice from time to time. These changes will be effective for all Medical Records that we maintain and control. We will post our most current version of this document on our website. Whenever material changes to this Notice are made, we will provide you with notice before the modifications are effective, such as by posting a notice on our website or sending a message to the email address associated with your account.
+
+Delivery Services
+Treatment Services
+Lab Test
+Medicines
+Consent, Privacy & Legal
+About Us
+If you're using a screen reader, or having trouble reading this website, please call Lemonaid Patient Support for help at 888-536-2267.
+Lemonaid Health is a national online doctor's office. Our services are provided by one of our four medical groups. All four medical groups do business as 'Lemonaid Health'. In all states other than Kansas, New Jersey and Texas, Lemonaid services are provided by LMND Medical Group, Inc., A Professional Corporation, doing business as Lemonaid Health. In Kansas, Lemonaid services are provided by LMND Medical Group, A Professional Association, with registered office 112 SW 7TH Street, Suite 3C, Topeka, KS 66603. In New Jersey, Lemonaid services are provided by LMND Medical Group Professional Corporation, with registered office 820 Bear Tavern Road, West Trenton, NJ 08628. In Texas, Lemonaid services are provided by LMND Medical Group, A Professional Association, with registered office 1999 Bryan Street, Suite 900, Dallas, TX 75201. Our team is based at 870 Market Street, Suite 415, San Francisco CA 94102, USA. You can call us on 888-536-2267.
+Lemonaid Health Inc provides a variety of administrative and management services to the four medical groups.
+*Each of these registered trademarks is owned by the respective company.
+(c) 2025 Lemonaid Health Inc.
+
+
