@@ -1,0 +1,188 @@
+﻿myAir™ Privacy Notice
+Effective date: February, 2024
+This Privacy Notice sets out:
+1. About this Privacy Notice
+2. Types of Personal Data we collect and why
+3. How we obtain your Personal Data
+4. Who we share your Personal Data with
+5. Your choices
+6. Data storage, retention and deletion
+7. Technical and organizational measures
+8. Transfers of Personal Data
+9. Profiling
+10. Minors
+11. Your data protection rights
+12. External links
+13. Updates to this Privacy Notice
+14. How to contact us
+1. About this Privacy Notice
+ResMed is committed to protecting the privacy and security of your Personal Data (as defined in this Privacy Notice). We want to be transparent about the types of Personal Data we collect about you and how we use it. This myAir Privacy Notice (Notice) explains how we collect, use and share any information we gather about you (Personal Data) through your use of the ResMed myAir website and the myAir mobile app (collectively, the Service), which is described at https://myair.resmed.com. It informs you about you rights and freedoms for our use of your Personal Data. This Notice also describes how we process your Personal Data.
+In this Privacy Notice, "we," "our," "us" and "ResMed" refer to:
+* ResMed Corp., a Minnesota corporation, headquartered at 9001 Spectrum Center Blvd. San Diego, CA 92123 United States (+1 858 836 5000), if your usual place of residence when you download the Service is in North, South or Central America; and ResMed Digital Health Inc., a company incorporated in the State of Delaware, United States with its principal place of business at 9001 Spectrum Center Blvd. San Diego, CA 92123 United States, if your usual place of residence when you download and access the Service is in the Asia-Pacific region.
+For more information about the Service, read our Terms of Use.
+If you do not want ResMed to process any of your Personal Data through this Service, as described in this Notice, do not install and use this Service.
+2. Types of Personal Data we collect and why
+When you use the Service, we collect the following types of Personal Data about you, which we'll process for the following purposes:
+Personal Data we collect
+* Identification data: First name, last name, date of birth, gender, login and country of residence.
+* Contact details: Email address and phone number.
+* Account data: Login, password and preferences.
+* Therapy device and mask related data: Serial number and type of therapy device, type, model and manufacturer of the mask you use.
+* Log data: Date and type of request.
+* Sleep-related health data collected through your therapy device and mask: For example, the device serial number, device number, type, model and manufacturer of the mask you use. This includes when and how you were set up on therapy, usage hours, AHI for each therapy record, leak statistics, acoustic data and other similar information.
+* Sleep-related health data collected through our questions: Start date of therapy, AHI events from sleep test, location of sleep test, any particular difficulties you may encounter and any other information you have provided us, including height, weight and other related data.
+* Sleep-related health data collected from other sources: Health and wellness information that you choose to share via your smart phone applications or otherwise, information about your device accessories and other information you may choose to share. If you consent to the sharing of such health trend data from Google Health Connect, the use of the information from Google Health Connect will adhere to the Google Health Connect Permissions Policy, including the Limited Use requirements. Health information from Google Health Connect will not be disclosed to marketing and analytics providers.
+* Cookies and interaction data: Traffic data, IP address, therapy device ID, screens you access, time you spend on a screen, how you interact with myAir (for example, content, features and links you use over time), how you launch myAir (for example, from an email notification) and the number of times you launch myAir, sign in or sign out and open email messages.
+Why we process this Personal Data
+* to enable you to create your account and connect your therapy device to the Service
+* to manage our relationship with you and provide you with support for the Service
+* to analyze your sleeping pattern and disorders (including your sleep, sleep breathing and snoring patterns)
+* to help you enhance the quality of your sleep
+* to provide you with our feedback and personalized coaching tips, including sending you communications to coach you through your therapy, to deliver information about the Service and to respond to your inquiries
+* with your consent, to send you newsletters, press releases or content relating to products, programs, services or general information we believe may be of interest to you, unless you choose not to receive these
+* to personalize your experience within the Service by presenting Service information, educational content, coaching, products and offers tailored to you
+* to provide your nightly sleep therapy score and key metrics from your nightly sleep therapy sessions
+* to provide you with information on trends between your sleep therapy and broader health (for example, daily steps)
+* with your consent, as a sub-processor or subcontractor for your nominated healthcare provider so, for example, your answers to the survey questions saved on your device or via your myAir account (start date of therapy, your state of fatigue at the start of therapy, your state of fatigue this week, your therapy progress and if you're encountering any particular difficulties) are shared with your nominated healthcare provider to facilitate the provision of health services to you
+* to perform or facilitate retrospective studies, research and assessments in healthcare
+* to perform data analytics, statistical analysis, market research and audience measurement regarding the use of our Service, to improve and enhance existing and develop new products and services, to help improve algorithms we use to recognize patterns in data and to help us better understand the sleep apnea population. We may deidentify, pseudonymize and/or aggregate your Personal Data for these purposes
+* to give you access to your sleep-related data at all times
+* to enable you to send us your feedback on therapy and use of the Service
+* to administrate, maintain, improve and secure our Service
+* to inform you about any technical updates to the Service
+* for the protection of our interests in administrative or judicial matters, in compliance with court orders or administrative requests or to comply with other legal obligations, including the conduct of materiovigilance
+* to support you if you need help using the Service
+* to cross-reference information about you with other ResMed services to better tailor our services to you
+* to comply with applicable laws, regulations or legal processes
+* to help us measure the effectiveness of our communications to you
+* to prevent, investigate, identify, stop or take any other action with regard to suspected or actual fraudulent or illegal activity.
+Under certain laws, we’re required to state the legal basis for processing your Personal Data and any special categories of Personal Data (for example, health data). We process your Personal Data on the legal basis that:
+* the processing is necessary to fulfill the contract with you to provide the Service
+* it is for our legitimate interests in improving our products and services, defending our legal interests and meeting our legal obligations
+* it is necessary for compliance with a legal obligation
+* by using the Service, you are consenting to our use of your Personal Data for the purposes outlined in this Notice.
+We rely on your consent to process any health data classified as a special category of Personal Data or used for marketing purposes. See Section 5 for information about how to withdraw your consent or change your data processing preferences.
+3. How we obtain your Personal Data
+Direct collection of Personal Data
+Most of the Personal Data we process is obtained either from you, directly through the ResMed therapy device and mask that monitors your sleep or automatically from your smart device (for example, phone or tablet) or your computer via cookies and other similar technology.
+Specifically, the Personal Data we collect automatically may include your IP address, therapy device type, unique therapy device identification numbers (for example, IMEI number), operating system version, the dates on which you access and use the Service, user behavior (for example, your interactions with the Service), broad geographic location (for example, country- or city-level location) and other technical information.
+Cookies and other technologies
+When you interact with the Service, we may use tools, such as cookies and other technologies such as FirebaseTM Analytics and Google AnalyticsTM to understand how you are using the Service. We may use other tracking technologies within email messages we deliver to you related to the Service. We do this to help us measure the effectiveness of our communications to you by understanding how you use our Service, where you are located and what Service content you are most interested in. For example, we want to make sure emails that include coaching information are getting your attention. The only information we receive is whether emails are opened and if links within the email are clicked. These technologies are known as "tracking pixels" or "clear gifs."
+The cookies and other technologies referenced above are "turned on" by default. By using the Service, you are consenting to our use of these tools and technologies. You may revoke your consent to our use of these tools, at any time, through your account settings. However, if you revoke your consent by "turning off" cookies, you may not have access to certain personalized communications and features of the Service. For more information on our use of cookies, read our Cookie Notice.
+Collection from third parties
+We may also collect Personal Data about you from third parties, including third-party applications, where you have consented to their sharing your Personal Data with us.
+4. Who we share your Personal Data with
+We may disclose your Personal Data to the following categories of recipients:
+* Our affiliates, subsidiaries and any company controlled by ResMed for purposes consistent with this Notice. We take precautions to allow access to Personal Data only to those staff members who have a legitimate business need for access and with a contractual prohibition of using the Personal Data for any other purpose.
+* For users in Japan, we will jointly use the categories of Personal Data listed in Section 2 with our affiliates, subsidiaries and any company owned or controlled by ResMed for the purposes listed in Section 2 in accordance with Article 27.5.3 of Act on Protection of Personal Information. The managing director of ResMed Japan will be responsible for the management of the jointly used Personal Data.
+* Our third-party vendors, service providers and partners who provide data processing services to us, or who otherwise process Personal Data for purposes that are described in this Notice. This may include disclosures to third-party vendors and other service providers we use in connection with the services they provide to us, including to support us in areas such as IT platform management or support services, infrastructure and application services, marketing and data analytics. These service providers are limited to use the Personal Data disclosed only for the purpose(s) stated within our contracts.
+* Your nominated doctor or medical practitioner who may process your Personal Data to better follow up with your therapy and only when you have given your consent.
+* Healthcare or home medical equipment providers limited to flagging if machines they monitor are registered with the Service, unless we have your explicit consent to share additional information.
+* Any competent law enforcement body, regulatory, government agency, court or other third party where we believe disclosure is necessary: (i) to comply with applicable law or regulation; (ii) to exercise, establish or defend our legal rights; or (iii) to protect your vital interests or those of any other person.
+* Our auditors, advisors, legal representatives and similar agents in connection with the advisory services they provide to us for legitimate business purposes and under contractual prohibition of using the Personal Data for any other purpose.
+* A potential buyer (and its agents and advisers) in connection with any proposed purchase, merger or acquisition of any part of our business. You acknowledge that such transfers may occur, and are permitted by, and subject to this Privacy Notice.
+* Any other person if you have provided your prior consent to the disclosure.
+5. Your choices
+We offer you certain choices on how your Personal Data is used and how we interact with you.
+* You may consent or withdraw your consent to our use of your Personal Data for marketing, at any time, by changing your preferences on the Service, or by following the instructions to unsubscribe included in each marketing-related email sent to you.
+* You may consent or withdraw from us tracking how you interact with the Service and outreach via email (user-level analytics), at any time, by changing your preferences on the Service.
+* You may decide not to accept cookies and may revoke your consent to our use of cookies. To turn off cookies, select the "Help" on your browser and navigate to cookie preferences. You can edit your browser preferences to not accept cookies, remove cookies or notify you when a cookie is set. You do not have to accept all cookies sent to you by our websites. Depending on the particular cookie you reject, you may not be able to use some features on the website you are visiting or signing into.
+* If you have consented to sharing health data with ResMed from third-party applications, you can revoke consent to myAir’s collection of your health data by following these steps. For iPhone users, go to Profile > Permissions > Apple Health Integration or go to the Apple Health app directly and turn on/off health data categories. Users may also manage their health data, including deleting their health data, turning off data capture for sensor-based Apple Health features and revoking permission granted to third party apps and Apple Health Sharing recipients, in the Settings app by going to Settings > Health. For Android users, go to Profile > Permissions > Health Connect Integration or go to the Health Connect app and turn on/off health data categories.
+* If you have signed up to receive text messages (SMS messages) relevant to the Service, and no longer wish to receive such messages, you may withdraw your consent. This may include replying "STOP" to the received text message (SMS message) or changing your preferences on the Service.
+* You can manage the Personal Data you provide to us in your account settings.
+* If you no longer wish to use the Service, you may delete your account through your account settings or complete the Service support form to send us an email with your request.
+6. Data storage, retention and deletion
+We will retain your Personal Data in a form that allows us to identify you for the longest of the following periods:
+* For as long as we have a contractual relationship with you.
+* For as long as we are required to do so under applicable laws.
+* For as long as the limitation period for taking legal action.
+* For as long as good record-keeping practice dictates.
+* For as long as is required for healthcare studies, assessments and research.
+* For as long as is necessary or convenient for our business purposes.
+We do not store your data for longer unless we must comply with applicable laws.
+We retain your identification data, contact details and account data for as long as you are using the Service. The rest of your Personal Data is stored for one year in our active database and you’ll have direct access to it through your myAir account.
+If you don’t log into myAir for one year, even after our email reminders, we’ll delete your myAir account as it will be considered inactive. Upon deletion of your account, we’ll delete your data in our active database.
+If you no longer want to use the Service, you may delete your account at any time in your account settings.
+7. Technical and organizational measures
+We use various data security and privacy measures to protect your Personal Data and comply with applicable data protection laws.
+To prevent unauthorized access to Personal Data and to ensure that the information is used for the purposes set forth in this Privacy Notice, we’ve established physical, electronic and managerial procedures to prevent the misuse or inappropriate disclosure of Personal Data. These procedures are constantly evaluated and reviewed by us.
+You can learn more about our information security practices at https://me.resmed.com/security/.
+Despite the security measures employed by us, you must consider that it’s impossible to guarantee absolute security with respect to information sent over the internet.
+8. Transfers of Personal Data
+To provide our products and services, your Personal Data may need to be accessed from or transferred to locations outside the country in which you provide it, including Australia, New Zealand, Japan, India, Malaysia, Singapore, the European Union and the United States of America.
+Where required by law, we’ll obtain your consent to any such access or transfers.
+For details of cross border data flows, see below.
+If your Personal Data is accessed from or transferred to locations outside the country in which you provide it, we’ll implement appropriate measures to ensure your Personal Data remains protected and secure and otherwise comply with applicable data protection laws.
+Transfer of data between ResMed entities is covered by appropriate data sharing agreements that are in place between all ResMed entities that share and process Personal Data.
+We may transfer pseudonymized Personal Data about you so that such data can be used by ResMed companies and personnel for the purposes of performing or facilitating retrospective studies, research and assessments in healthcare and data analytics, statistical analysis, market research and audience measurement (see 2. Types of Personal Data we collect and why for this and nature of data transferred).
+There are administrative, technical and physical safeguards in place to ensure that the teams who have access to pseudonymized Personal Data cannot establish the identity of the individuals to whom that data relates.
+Details of where Personal Data is transferred
+For ResMed myAir platform (hosted in Amazon Web Services (AWS) server)
+* Transfer purpose: For cloud-based data storage.
+* Types of Personal Data transferred: Refer to all the types of Personal Data described in Section 2.
+* Transferee country: United States.
+* Date and method of transfer: Upon provision of information by data subject and electronic transfer.
+* Personal Data retention and use period: Until the purpose of processing is completed.
+ResMed Group Companies
+* Transfer purpose: For all the purposes described in topic 2. Types of Personal Data we collect and why.
+* Types of Personal Data transferred: Refer to all the types of Personal Data described in Section 2.
+* Transferee country: Australia, New Zealand, Japan, India, Malaysia, Singapore, the European Union and United States.
+* Date and method of transfer: Upon provision of information by data subject and electronic transfer.
+* Personal Data retention and use period: Until the purpose of processing is completed.
+9. Profiling
+In some instances, we may use your Personal Data to better understand your preferences and to provide customized products or services to you. We never make decisions based solely on the automatic processing of this data, which may have legal implications or a considerable impact on you.
+10. Minors
+The myAir services we provide are not intended for minors, or other individuals where parental or guardian consent may be required. If you a minor, or do not have the capacity to receive this Notice, based on the laws of your jurisdiction, you must not use or download this Service unless your parent or guardian has given us specific consent for you to do so. The Personal Data of a minor will only be processed where we have appropriate consent.
+11. Your data protection rights
+In certain circumstances, as stipulated in applicable data protection laws, you may have the following data protection rights:
+* the right of access, which includes the right to information to understand what Personal Data we have about you and how we process your Personal Data
+* the right to correct or update any of your details, which you can do so at any time from your myAir account settings or otherwise by contacting us using the contact details specified in Section 14 below
+* the right to request that we erase your Personal Data. If we erase your Personal Data in response to your request to do so, you will not be able to use certain functionalities of the Service
+* the right to object to the processing of your Personal Data, to ask us to restrict processing of your Personal Data or to request data portability (for example, provide a third party of your choice directly with your Personal Data in a structured and interoperable format) of your Personal Data
+* the right to opt-out of marketing communications we send you at any time by clicking the "unsubscribe" link at the bottom of every newsletter or email we send you and/or by contacting us using the contact details in this Privacy Notice (see 14. How to contact us) and requesting that we delete your identification data and contact details so they cannot be used by us for marketing purposes (see 2. Types of Personal Data we collect and why)
+* the right to withdraw your consent in regard to us processing your Personal Data at any time (where that processing relies on your consent). To exercise a statutory right to withdraw consent to processing, please contact us (see 14. How to contact us). When you send us your request, we may need to confirm your identity before disclosing your Personal Data or taking any action. Withdrawal of your consent will not affect the legality of any activity carried out prior to your withdrawal of consent but means we’ll be unable to continue to provide the Service. Your rights to withdraw consent are not absolute and we’ll assess them in your application and advise you accordingly. In some jurisdictions, withdrawing your consent will not affect processing of your Personal Data conducted in reliance on lawful processing grounds other than consent. We may need to retain some of your Personal Data for legal purposes.
+The availability of the above rights and conditions attaching to their exercise are subject to the applicable data protection laws of your jurisdiction. We’re able to provide you with specific information to assist in your decision making if you contact us (see 14. How to contact us).
+You can contact us any time to exercise any of the rights mentioned above (see 14. How to contact us). We will respond to your request in accordance with applicable data protection laws.
+If you feel we have not sufficiently addressed your complaint or concern, you have the right to complain to a data protection regulator about our collection and use of your Personal Data.
+Users in South Korea/Citizens of South Korea may also report privacy violations to:
+* Personal Information Violation Report Center (privacy.kisa.or.kr/118 without an area code)
+* Personal Information Dispute Mediation Committee (kopico.go.kr/1833-6972)
+* Cyber Crime Investigation Division, Supreme Prosecutor’s Office (spo.go.kr/area code +1301)
+* National Police Agency Cyber Investigation Bureau
+For users in Brazil - Lei Geral de Proteção de Dados Brasileira- Lei n. 13.709/2018
+* You may ask us to confirm the existence or non-existence of activities to process your Personal Data.
+* You may request and receive a copy of your Personal Data that we hold about you.
+* You may object to our handling of your Personal Data for certain purposes. In certain situations, we can demonstrate that we have legitimate reasons to process your Data, which may eventually override your rights.
+* You may request that we provide you (or a third party of your choice) directly with your Personal Data in a structured and interoperable format.
+* In cases where you have provided your consent for us to carry out specific processing activities with your Personal Data, you can withdraw your consent. This will not affect the legality of any activity carried out prior to your withdrawal of consent. In addition, if you withdraw your consent, we may not be able to provide certain Services. Should this occur, we’ll provide you with specific information to assist in your decision making.
+* You may request a review of decisions made solely on automated processing of your Personal Data that affect your interests.
+12. External links
+If any part of this Service provides you links to third-party websites, such websites do not operate under this Notice. We recommend you examine the Privacy Notice posted on those websites to understand their procedures for collecting, using and disclosing Personal Data.
+13. Updates to this Privacy Notice
+We may update this Privacy Notice from time to time in response to changing legal, technical or business developments. When we update our Privacy Notice, we take appropriate measures to inform you, consistent with the significance of the changes we make.
+You can see when this Privacy Notice was last updated by checking the "Effective date" at the beginning of this Privacy Notice.
+14. How to contact us
+If you have any questions, concerns or complaints about this Privacy Notice or the way we process your Personal Data, if you want to exercise any rights you may have as described under this Privacy Notice or if you wish to know how to escalate a complaint you have made to the relevant regulator, you can contact the Privacy Officer by sending an email to privacy@resmed.com or to one of the local contacts listed below.
+Contact details for ResMed data protection officer/data privacy officer
+* Brazil
+* Data protection officer
+* Kiko Coelho
+* Email: lgpd@resmed.com
+* Japan
+* Representative director
+* Takashi Kurokawa
+* ResMed Co., Ltd.
+* 3-2-4 Iwamoto-cho,
+* Chiyoda-ku, Tokyo 101-0032
+* Email: Privacy.APAC@Resmed.com
+* Singapore
+* Data protection officer
+* ResMed Co., Ltd.
+* 1 Fusionopolis Place #06-20
+* Galaxis (West Lobby)
+* Singapore 138522
+* Email: Privacy.APAC@Resmed.com
+* South Korea
+* Privacy officer
+* Email: Privacy.APAC@Resmed.com
+RH-803154/2 2024-02

@@ -4,21 +4,50 @@ library(tidyverse)
 library(rvest)
 library(stringr)
 
-app.list <- read.csv("Privacy Policies.csv") |>
-  select(-X)
+app.list <- read.csv("privacy-policy-list.csv") |>
+  select(-X) |>
+  mutate(App.Name = str_replace_all(App.Name, "[^\\p{L}\\s]", "")) |>
+  mutate(App.Name = str_squish(App.Name))
 
 get.text <- function(link, name, folder = "privacy_policies") {
   tryCatch({
     page <- read_html(link)
-    text <- page |> html_nodes("p") |> html_text()
-    text <- paste(text, collapse = "\n\n")
+    
+    text <- page |> 
+      html_nodes("p, section, article") |> 
+      html_text(trim=TRUE) |>
+      paste(collapse = " ")
+      
+    text <- str_squish(text)
+    
+    if (nchar(text) < 200) {
+      warning(paste("Empty text for: ", name))
+      return(FALSE)
+    }
+    
     file.name <- paste0(folder, "/", make.names(name), ".txt")
     writeLines(text, file.name)
+    return(TRUE)
   }, error = function(e){
-    return(NA)
+    warning(paste("File not saved for:", name))
+    return(FALSE)
   })
 }
 
-for(i in seq_len(nrow(app.list))){
-  get.text(app.list$Privacy.Policy.Link[i], app.list$App.Name[i])
+app.list$file_saved <- FALSE
+
+for (i in seq_len(nrow(app.list))) {
+  app_name <- app.list$App.Name[i]
+  app_link <- app.list$Privacy.Policy.Link[i]
+  
+  success <- get.text(app_link, app_name)
+  app.list$file_saved[i] <- success
 }
+
+file.names <- list.files("privacy_policies", pattern="\\.txt", full.names=T)
+
+policy.texts <- tibble(
+  file = file.names,
+  App.Name = basename(file) |> str_remove("\\.txt$") |> str_trim(),
+  text = map_chr(file.names, read_file)
+)
