@@ -5,7 +5,7 @@ library(rvest)
 library(stringr)
 
 app.list <- read.csv("privacy-policy-list.csv") |>
-  select(-X) |>
+  select(-Secondary.Link, -Manually.Saved.) |>
   mutate(App.Name = str_replace_all(App.Name, "[^\\p{L}\\s]", "")) |>
   mutate(App.Name = str_squish(App.Name))
 
@@ -44,10 +44,13 @@ for (i in seq_len(nrow(app.list))) {
   app.list$file_saved[i] <- success
 }
 
-file.names <- list.files("privacy_policies", pattern="\\.txt", full.names=T)
+file.names <- c(
+  list.files("privacy_policies", pattern="\\.txt", full.names=T), 
+  list.files("manual_privacy_policies", pattern="\\.txt", full.names=T)
+  )
 
 policy.texts <- tibble(
   file = file.names,
-  App.Name = basename(file) |> str_remove("\\.txt$") |> str_trim(),
-  text = map_chr(file.names, read_file)
-)
+  app = basename(file) |> str_remove("\\.txt$") |> str_trim(),
+  text = map_chr(file.names, read_file))
+  
