@@ -53,4 +53,5 @@ policy.texts <- tibble(
   file = file.names,
   app = basename(file) |> str_remove("\\.txt$") |> str_trim(),
   text = map_chr(file.names, read_file))
-  
+
+write.csv(policy.texts, "all_privacy_policies.csv", row.names = FALSE)  
