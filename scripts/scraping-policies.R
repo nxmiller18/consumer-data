@@ -1,5 +1,6 @@
 # AUTHOR: Natalie Miller
 # PURPOSE: Scrape privacy policies and compile into one data frame for textual analysis
+# OUTPUTS: privacy policy .txt files, all_privacy_policies.csv
 
 setwd("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/data")
 
@@ -51,8 +52,7 @@ for (i in seq_len(nrow(app.list))) {
 }
 
 # NOTE: some scrapes were unsuccessful or returned text that was not the privacy policy.
-# For those, we manually copied text from the webpages and saved the policies to the
-# manual_privacy_policies folder.
+# For those, we manually copied text from the webpages and saved the policies to the manual_privacy_policies folder.
 
 # Combine all the individual .txt files into one dataframe
 
