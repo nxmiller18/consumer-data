@@ -1,0 +1,131 @@
+﻿Privacy Policy
+Last Update: 10 Mar 2025
+1.  Introduction
+Runna values your privacy and the protection of your personal data.  This Privacy Policy explains the information we collect about you as part of your use of our website and apps (together the “Services”), how we use that information, the extent to which we share that information with third parties, and your rights in respect of such information.  This privacy policy should be read alongside our Terms which set out the terms applicable to use of our Services.
+The Data Controller for the Services is The Run Buddy Ltd in the United Kingdom, with its registered address at 71-75 Shelton Street, London WC2H 9JQ.  Runna is a trading name of The Run Buddy Ltd.  Throughout this Privacy Policy, the terms “Runna”, “we”, “us”, “platform” and “our” refer to The Run Buddy Ltd. 
+By using the Services, you consent to our use of your personal data in accordance with this Privacy Policy.  If you have any queries on this Privacy Policy, please reach out to us via email at support@runna.com. 
+This Privacy Policy may change from time to time.  Your continued use of the Services after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.  You will know if there has been an update since your last visit by referring to the “Last Update” date at the top of this webpage.  
+2.  What do we collect and why?
+We collect a range of information on our users largely to provide you with the Services and to continually improve the user experience.  A full list is set out below.
+Categories of personal data
+Purposes of processing
+Lawful basis for processing
+Name, date of birth, gender your profile picture, and your contact details (such as your email address)
+Internal record keeping, to provide you with the Services, to contact you in respect of the Services (such as to provide support, provide technical updates / service messages, or to reply to your questions in-app), or to ship merchandise to you.
+
+
+To communicate with you about upcoming events, offers and news about products and services offered by Runna and our selected partners (we will obtain your consent to this and you may unsubscribe at any time by using the unsubscribe link or by contacting us).
+Your consent provided to us when you created your account.
+
+
+To fulfill our contract with you to provide the Services.
+Payment information (where purchasing directly through Runna)
+To process your subscription payment for access to the Services or to purchase merchandise or other items through our online store. We use Payment Card Industry (PCI) compliant third-party payment services and we do not store your credit card information.
+To fulfill our contract with you to provide the Services.
+Location data
+
+
+Health and fitness data 
+‍
+When you record a workout with our apps we will store Location Data, distance, pace, and cadence.
+
+
+If you or import a completed workout from one of our partners (such as Strava, Garmin and COROS), we will store all relevant data for that workout. Examples of this type of data include GPS location data, running speed, heart-rate data, cadence and time of workout.
+Your consent provided to us.
+
+
+To fulfill our contract with you to provide the Services.
+We may also, subject to your consent, share your anonymized distance and pace data, along with information regarding your workout plan, with a LLM Partner to provide personalized coaching insights.
+Your consent provided to us.
+Technical information, server-side log files, device and usage information (including IP address, operating system, location, device identifiers, and server interaction data), and client-side tracking data.
+When you use the Services on a day to day basis, we collect information about your device and usage information through our client side technologies and secure server-side tracking systems. We use this information to improve our website and Services, and to improve how we operate our business while maintaining enhanced data accuracy and privacy.
+To fulfill our contract with you to provide the Services.
+
+
+Our legitimate interests in improving our Services for the benefit of all users.
+‍
+Other scenarios in which we may use your personal data
+If we become involved in a business sale, merger, acquisition, securities offering, bankruptcy, reorganization, dissolution or other similar transaction, we may share or transfer your personal data solely in connection with such transaction.
+Runna also uses anonymous browsing information collected automatically by our servers primarily to help us administer and improve the Services.  We may also use such aggregated anonymous information to provide information about the Services to potential business partners and other third parties.  Rest assured that this information is not personally identifiable to a specific user and so cannot be used to identify you.
+3.  How long do you keep it for?
+We keep your personal data only for the time necessary for us to provide the Services to you.  We may be required to retain information for a longer period whenever required to do so for the performance of a legal obligation or where obliged to do so by a regulatory authority.  Specific retention period for different categories of personal data are available on request. 
+You can contact us at any time to request that we delete your personal data.  See Section 6 below to find out how to request that we delete your personal data.
+4.  Who is it shared with?
+We recognize that much of the information we collect about you is inherently private, and we are not in the business of selling it to others.  However, we do sometimes share your information with select third parties to provide the Services to you.  These third-party services and tools may have access to your personal information needed to perform their functions, but may not use that information for other purposes.  
+Your data (as outlined above) is stored on Amazon’s AWS servers using industry standard encryption technologies.  AWS may not use this information for its own purposes.
+The main categories of third parties who we share information with are set out below.  This list is not exhaustive.
+Category Of Third Party
+Why?
+Lawful bass for processing
+Cloud Storage and Hosting
+We use Amazon’s AWS servers to host our Services.  The information you provide to us as part of the Services will be stored on AWS servers located in Europe. 
+
+
+Information provided through the platform is transmitted to and from the platform to AWS servers in Europe in encrypted form using standard SSL connections to help protect such information from interception.
+To fulfill our contract with you to provide the Services.
+Communication and Support Platforms
+We use a Communication and Support Platform as our in-app messaging platform. When you send us a message (or when we send you a message) in the App, then Intercom will process your personal data to provide you with this functionality.
+To fulfill our contract with you to provide the Services.
+Customer Relationship Management
+We use a CRM service provider to power our customer relationship management system. Such a CRM provider will process your personal data (such as name and contact details) on our behalf.
+Your consent provided to us.
+
+
+To fulfill our contract with you to provide the Services.
+Analytics and Performance Tools
+We use these tools for product analysis and analytics. As part of this, these tools process personal data such as name, email address, location, and information on your device type. We also use these tools and technologies to collect and analyze certain types of information to enhance and improve our Services. This includes IP addresses, device and software identifiers, referring and exit URLs, feature use metrics and statistics, usage and purchase history, media access control address (MAC Address), mobile unique device identifiers, and other similar information via the use of cookies.
+Our legitimate interests in improving our Services for the benefit of all users.
+Payment Processors
+For processing your payment information and associated billing details.
+To fulfill our contract with you to provide the Services.
+Advertising And Marketing Partners
+We use these services to enable us, our advertisers and service providers to: (a) collect statistics on our websites and social networks (such as number of users who visited a page); (b) collect information about how you interact with our websites and social networks (such as whether you opened or followed links contained within); (c) personalize online services and marketing communications; and (d) match ads to users and optimize advertising campaigns.
+Your consent provided to us.
+AI Partner
+If you consent to this, we will share your anonymized distance and pace data, along with information regarding your workout plan, with a LLM Partner to provide personalized coaching insights. The LLM Partner processes this data securely and solely for the purposes outlined in this policy, and in accordance with our contract with them.
+Your consent provided to us.
+Compliance and Legal Service Providers
+To assist with compliance and legal obligations.
+Our legitimate interests in improving our Services for the benefit of all users.
+‍
+We predominantly process your personal data in the UK or the EEA. However, we may sometimes transfer your personal data outside of the UK and EEA to certain third parties (including those listed above). Where we make such a transfer, we will only do so in accordance with the requirements set out in applicable law (such as to a country deemed to provide an adequate level of protection, or by using specific contracts approved by the UK Government or the European Commission).
+We may also have to share your personal data with third parties where we are required to do so to:
+1. comply with the law;
+2. enforce or apply our Terms; or 
+3. protect the rights, property, or safety of Runna, our users or others.
+5. User Account Assistance Mode
+In certain circumstances, and only at the explicit request and with the express consent of the user, a Runna employee may activate a temporary User Account Assistance Mode to view the user’s account from their perspective. This feature is designed solely to assist the user with troubleshooting or resolving specific issues within the app. When this mode is activated:
+1. The Runna employee may view the user’s activity data but will not have access to location or other health data.
+2. Access to this mode is strictly limited to a small, designated group of Runna employees who have been specifically trained and informed of their confidentiality obligations.
+3. A secure authentication mechanism (such as a one-time code) will be used to ensure that only authorized employees can access this mode.
+4. User consent for this mode must be provided explicitly for each instance it is activated and may be withdrawn at any time.
+Runna takes security and privacy seriously and employs robust safeguards to ensure this mode is used responsibly and securely. If you have any questions about this feature, please contact us at support@runna.com.
+6.  How is my information protected?
+We work to protect the security of your personal data during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. If transactions are processed on our Services, transaction information is transmitted in encrypted form using industry-standard SSL connections to help protect such information from interception. We restrict authorized access to your personal data to those persons who need to know that information to provide products or services to you.
+Runna follows generally accepted industry standards to protect the personal data submitted to us, both during transmission and once Runna receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while Runna strives to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+We will not sell, distribute, or lease your personal information to third parties unless we have your permission or are required by law to do so.
+Should a data breach occur that presents a high risk we shall inform the appropriate authorities within 72 hours of the breach and, if required or otherwise appropriate, we shall inform you.
+7. What are my rights in respect of the personal data you hold?
+Under certain circumstances, by law you have the right to request:
+1. access to your personal data (commonly known as a "subject access request"):
+   1. this enables you to receive a copy of your data and to check that we are lawfully processing it;
+1. correction of your data:
+   1. this enables you to ask us to correct any incomplete or inaccurate information we hold about you;
+2. erasure of your data:
+   1. this enables you to ask us to delete or remove your data where there is no good reason for us continuing to process it. You also have the right to ask us to delete or remove your data where you have exercised your right to object to processing.
+3. restriction of processing of your data:
+   1. this enables you to ask us to suspend processing where you contest its accuracy, object to its processing, or require us to retain it for legal claims;
+4. portability of your data:
+   1. this enables you to receive your data in a structured, commonly used, and machine-readable format and to request its transfer to another controller where technically feasible;
+5. objection to processing of your data:
+   1. this enables you to object where we process your data based on legitimate interests. We must stop processing unless we demonstrate overriding legitimate grounds or need it for legal claims;
+6. objection to automated decision-making and profiling of your data:
+   1. this enables you to request human intervention where decisions based solely on automated processing significantly affect you, unless such processing is necessary for a contract, authorised by law, or based on your explicit consent; and
+7. withdrawal of consent for processing of your data:
+   1. this enables you to withdraw your consent at any time where we rely on it to process your data. This will not affect past processing but may impact our ability to provide certain services.
+If you want to exercise any of the rights described above or you have any questions on how we use your personal data, please reach out to us via email at support@runna.com.
+8.  What is your policy regarding children?
+Our services are not intended for children under 18 years of age. If you are under this age, you should not use the Services. Our Services use technical measures to prevent children under 18 years of age from creating an account and therefore we do not knowingly collect personal data from any persons under such age. If we become aware that a child has provided us with personal information, we will take steps to delete that information, terminate that person's account, and restrict access to that person.
+If you are a parent that has become aware that your child has provided us with personal information, please contact us.
+9.  How can I contact you?
+If you have questions or concerns about this Privacy Policy and the handling and security of your data, please contact us via email at support@runna.com. Our Data Protection Officer can be contacted at support@runna.com.

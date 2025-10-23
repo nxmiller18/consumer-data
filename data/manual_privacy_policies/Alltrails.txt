@@ -1,0 +1,210 @@
+﻿Privacy Policy
+Effective Date:1 November 2024
+This Privacy Policy describes the policies of AllTrails, LLC (“AllTrails”, “we”, “us” or “our”) as they apply to the following services operated by AllTrails (collectively, the “Service”):
+* www.alltrails.com and other websites owned and/or operated by AllTrails that contain a link to this Privacy Policy (collectively, the “Site”);
+* All mobile applications that contain a link to this Privacy Policy (the “AllTrails Apps”); and
+* All services made available by AllTrails through the Site and the AllTrails Apps, in addition to email communications made outside of the Site or AllTrails App, collectively, the “Service”.
+This Privacy Policy explains what Personal Data (defined below) we collect, how we use and share Personal Data, and your choices concerning our Personal Data practices. We employ a number of technical, organisational and physical safeguards that are designed to protect the Personal Data we collect. However, security risk is inherent in all internet and information technologies and we cannot guarantee the security of your Personal Data. Please read this Privacy Policy before using our Service or submitting any Personal Data to AllTrails and contact us if you have any questions.
+Information We Collect
+When you contact us or interact with our Service, we collect information about you (including that which otherwise constitutes ‘personal data’ or similarly defined term under applicable laws) (“Personal Data”) as follows:
+* Personal Data You Provide to Us: We collect Personal Data when you sign up for our Service via the Site or an AllTrails App. The Personal Data collected during these interactions may vary based on what you choose to share with us, but it may include any of the following:
+   * Account Data: When you sign up, some information is required to create an account on our Service, such as your name and email address.
+   * Payment Data: If you choose to purchase a subscription to our Service via credit card, debit card or other payment method, our third-party payments processors (Stripe or PayPal) will collect and process certain payment and billing information, such as billing postcode, payment card details and authentication features, on behalf of AllTrails. That information is collected by our payment processors directly, and we do not collect or store it. If you have any questions about how our payment processors protect such information, please read Stripe’s services agreement and privacy policy as well as PayPal’s services agreement and privacy policy.
+   * Social Media Data: We have pages (“Social Media Pages”) on social media sites such as Facebook, Instagram, Pinterest, X (formerly Twitter) and LinkedIn (each a “Social Media Site”). The platforms that host our Social Media Pages may provide us with aggregate information and analytics regarding the use of our Social Media Pages. Additionally, should you choose to interact with any of our Social Media Pages, we may collect Personal Data that you provide or make available via our Social Media Pages.
+   * User-Generated Content: User-generated content, such as photos, images, videos, community posts, reviews, community comments, and other content or information that you generate, transmit or otherwise make available on the Service, as well as associated metadata. Metadata includes information about how, when, where and by whom a piece of content was collected and how that content has been formatted or edited. Metadata also includes information that users can add or can have added to their content, such as keywords, geographical or location information, and other similar data.
+   * Contacts Book Data: Our mobile applications may allow you to synchronise the numbers in your Contacts address book on a regular basis in order to identify any friends and/or relatives who use the Service. If any of your contacts are using the Service, we will let you know so that you can connect with them. You can revoke our access to your Contacts address book at any time via your mobile device settings.
+   * Additional Information: To customise your experience or enable certain features of the Service, you may choose to provide us with additional information, such as your date of birth, height, weight, profile picture, location (city) and favourite activities. 
+   * Sensitive Personal Data: In the course of using the Service on our App, you may choose to allow us to collect sensitive Personal Data about you, such as your precise geolocation, by turning on location services on your mobile device, which may be considered ‘sensitive personal information’ (or a similarly defined term) under certain applicable laws. Turning on location services on your mobile device constitutes consent for us to collect your precise geolocation. You can disallow our collection of precise geolocation data by turning off location services on your mobile device at any time. You may also choose to share other sensitive Personal Data via the content you share on our Site, for example, when leaving a review, or otherwise sharing information on our Site. By sharing this information, you consent to the collection of this sensitive Personal Data. You may limit the visibility of such sensitive Personal Data via our Privacy Settings; refer to our FAQs here for further information. We do not process sensitive Personal Data for purposes other than providing the Services.
+* Personal Data We Generate From Your Use of Our Service: When you visit, use, interact and register with the Service, we may automatically generate certain information about your visit, use, interactions or registration. For example, we may monitor the number of people that visit our Site or AllTrails Apps, peak hours of visits, which page(s) are visited on our Site or AllTrails Apps, the domains our visitors come from (e.g. google.com, yahoo.com, etc.) and which browsers people use to access and visit our Site (e.g. Firefox, Microsoft Edge, etc.), broad geographical information, and Site- and AllTrails App-navigation pattern. In particular, the following information is created and automatically logged in our systems:
+   * Log Data: Information that your browser automatically sends whenever you visit the Site or AllTrails Apps. Log data includes your IP address (so we understand which country you are connecting from when you visit the Site or AllTrails Apps), browser type and settings, the date and time of your request, and how you interacted with the Site or AllTrails Apps.
+   * Cookies Data: We use cookies and similar technologies to operate and administer our Site and AllTrails Apps, make it easier for you to use the Site and AllTrails Apps during future visits, and gather usage data on our Site and AllTrails Apps. For more information about the technologies used and information collected on our Site and AllTrails Apps, please refer to our Cookie Policy, which forms part of this Privacy Policy.
+   * Device Data: Includes the model of the device, operating system, and browser you are using. Information collected may depend on the type of device you use and its settings. We may also collect data from your device to estimate a variety of metrics like the time, frequency and duration of, and calories burned during, your activities for the purpose of calculating your Usage and Activity Data (described below).
+   * Usage and Activity Data: We collect information about how you use our Site and AllTrails Apps, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency and duration of, and calories burned during, your activities.
+   * Geolocation Data: If you have enabled location services for an AllTrails App on your mobile device or on your computer via the Site, we may collect your geolocation information based on IP address, city, county, postcode, country, latitude and longitude. AllTrails may also derive your approximate location from the IP address of your computer or mobile device. Geolocation data is used for purposes of directing you to nearby trails and parks and offering other relevant content and services. We do not process Geolocation Data unless you grant permission through your device or browser.
+   * Inferences about You. We may combine the information we collect and otherwise generate or draw inferences about your preferences and interests in order to provide and personalise our Service to you, such as trail suggestions and estimated calories burned during activities.
+* Personal Data We Receive From Third Parties. If you elect to authenticate to our Service using your account on another service (such as a Facebook, Google or Apple account), we may receive from the other service information such as your external account name as well as other information you may choose to make available to us based on your external account settings, such as contact lists and profile photos (if any). You can stop sharing the information from the other service with us by removing our access to that other service. We may also obtain your Personal Data from service providers or vendors as well as other business partners (such as marketing partners and event co-sponsors).
+Privacy Settings Default
+When you sign up for an AllTrails account, personal data that you add to your profile and content that you add to your account is Public by default. For more information, including how to change your privacy settings, visit our Privacy FAQs here.
+How We Use Personal Data
+We use your Personal Data for a variety of purposes, which are listed in the table below. If we need to use your Personal Data for an unrelated purpose, we will update this Privacy Policy to explain any such new purpose.
+In addition, in respect of each of the purposes for which we use your Personal Data, privacy laws in certain jurisdictions such as the European Economic Area and United Kingdom may require us to have a legal basis for that use. Most commonly, we will rely on one of the following legal bases where required by applicable law:
+* Where we need to process your Personal Data to deliver our Service to you, or to otherwise perform our contractual obligations to you (“Contractual Necessity”).
+* Where we need to process your Personal Data for our legitimate business interests, and your interests and fundamental rights do not override those interests (“Legitimate Interests”).
+* Where we need to process your Personal Data to comply with a legal or regulatory obligation (“Compliance with Law”).
+* Where we have your specific consent to carry out the processing for the purpose in question (“Consent”).
+We have set out below, in a table format, the various purposes and legal bases (where required by applicable law) that we rely on in respect of the processing of your Personal Data:
+Purpose
+	Categories of Personal Data
+	Legal Basis
+	Account creation – to create and manage your account on the Service.
+	* 
+Account Data
+	   * 
+Contractual Necessity
+	Service delivery – to operate and deliver our Service to you.
+	      * 
+Account Data
+      * Social Media Data
+      * User Generated Content
+      * Contacts Book Data
+      * Additional Information
+      * Sensitive Personal Data
+      * Data from Third-Party Sources
+	         * 
+Contractual Necessity
+         * Legitimate Interests - we have a legitimate interest in ensuring the ongoing security and proper operation of our Service, our business and associated IT services, systems and networks
+	Live Share Functionality - to communicate your scheduled activities or current safety status with your shared group as described on our Service.
+	            * 
+Account Data
+            * Geolocation Data
+            * Additional Information
+	               * 
+Consent
+	Payments processing – to process your payments via our third-party payments processor.
+	                  * 
+Account Data
+                  * Payment Data
+	                     * 
+Contractual Necessity
+	Customer support – to deliver customer support to you and respond to your queries.
+	                        * 
+Any and all data types as relevant in the circumstances
+	                           * 
+Contractual Necessity
+                           * Legitimate Interests - we have a legitimate interest in providing you with a good Service, including by providing you with customer support
+	Service improvement – to analyse the reliability of our Service, how you use it, and to improve it.
+	                              * 
+Any and all data types as relevant in the circumstances
+	                                 * 
+Legitimate Interests - we have a legitimate interest in analysing how you use our Service so that we can improve it over time, as well as developing and growing our business
+                                 * Consent - with respect to any optional cookies used for this purpose
+	Fraud prevention - to keep our Service and associated systems operational and secure and limit the risk of fraud to us and our users.
+	                                    * 
+Account Data
+                                    * Payment Data
+                                    * User-Generated Content 
+                                    * Log Data
+                                    * Cookies Data
+                                    * Device Data
+                                    * Usage and Activity Data
+	                                       * 
+Legitimate Interests - we have a legitimate interest in protecting the integrity of our business and Services by detecting, preventing and mitigating fraudulent activities that may result in financial loss, data breaches and/or other security threats
+	Legal compliance - to comply with our legal obligations, for example our accounting and tax reporting obligations.
+	                                          * 
+Any and all data types as relevant in the circumstances
+	                                             * 
+Compliance with Law
+                                             * Legitimate Interests - where Compliance with Law is not applicable, we have a legitimate interest in participating in, supporting and following legal process and requests, including through cooperation with authorities. We may also have a legitimate interest in ensuring the protection, maintenance and enforcement of our rights, property and/or safety
+	Interest-based Advertising -  to help our third-party advertising partners collect information about how you use the Service and other online services over time, which they use to show you ads on other online services they believe will interest you and measure how the ads perform.
+	                                                * 
+Cookies Data
+                                                * Device Data
+                                                * Usage and Activity Data
+                                                * Geolocation Data
+	                                                   * 
+Consent
+	Email Marketing. Where you have provided us with your consent, we may contact you to provide information we believe will be of interest to you, e.g. promotional information about our products and services. You may opt out of receiving emails at any time by following the instructions here or by clicking ‘Unsubscribe’ in any of our marketing communications. If you opt out, you will no longer receive marketing communications but you may continue to receive Service-related and other non-marketing emails.
+How We Share and Disclose Personal Data
+In certain circumstances, we may share your Personal Data with third parties without further notice to you, subject to our obligations under applicable law, as set forth below:
+                                                      * Affiliates: Other companies in our corporate group may help us deliver our Service to you.
+                                                      * Vendors and Service Providers: To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Data with service providers, including hosting, cloud services and other information technology services providers; email communication software providers and email newsletter providers; data base and sales services; customer relationship management, customer engagement and customer feedback services; security services; and analytics services. Pursuant to our instructions, these parties will access, process or store Personal Data in the course of performing their duties to us.
+                                                      * Payment Processors: Individuals who purchase a subscription via our website provide personal data to our payment processors as part of the checkout process.
+                                                      * Business Transfers: If we are involved in a merger, acquisition, financing due diligence, reorganisation, bankruptcy, receivership, sale of all or a portion of our assets, or transition of our Service to another provider, your Personal Data may be shared in the diligence process with counterparties and others assisting with the transaction and transferred to a successor or affiliate as part of that transaction along with other assets.
+                                                      * Legal Requirements: With law enforcement, government authorities, private parties and others, if required to do so by law or in the good faith belief that such action is necessary to (i) comply with legal or regulatory obligations, including to respond to lawful requests from public or government authorities, or other regulatory agencies, and to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Service, or the public, or (v) protect against legal liability, including seeking legal advice and for insurance purposes.
+                                                      * Other Users. Your profile, User-Generated Content and other Personal Data may be visible to other users of the Service (which may include all users of the Service or a limited number of users, depending on your privacy settings). For example, other users of the Service may have access to your Personal Data if you chose to make your profile available to them through the Service, and they may also have access to content that you submit to the Service, such as when you provide reviews or community posts, or share other content. This Personal Data can be seen, collected and used by others, including being cached, copied, screen-captured or stored elsewhere by others (e.g. search engines), and we are not responsible for any such use of Personal Data.
+                                                      * Advertising partners. Third-party advertising companies for interest-based advertising.
+Your Privacy Choices
+Depending on where you reside and the laws that may apply, you may have certain rights to access, correct, restrict or object to our processing of, withdraw your consent in relation to our processing of and/or obtain a copy of your Personal Data.
+For more information about how to update or manage your Personal Data and privacy settings, please visit our Account and Privacy FAQs here.
+Data Retention
+We keep your Personal Data for as long as reasonably necessary for the purposes described in this Privacy Policy, including as long as required by law (e.g. for tax, legal, accounting or other purposes).
+To determine the appropriate retention period for your Personal Data, we will consider the amount, nature and sensitivity of the Personal Data, the potential risk of harm from unauthorised use or disclosure of your Personal Data, the purposes for which we use your Personal Data and whether we can achieve those purposes through other means, and the applicable legal requirements.
+Children's Privacy
+Our Service is not directed to children who are under the age of 16. AllTrails does not knowingly collect Personal Data from children under the age of 16, and we do not have actual knowledge that we sell or share the Personal Data of children under the age of 16. If you have reason to believe that we have collected Personal Data about a child under the age of 16 without parental or guardian consent as required by applicable law, please contact us at privacy@alltrails.com and we will take steps to delete that Personal Data as required by applicable law.
+US Privacy Rights Disclosures
+In addition to the other disclosures in this Privacy policy, the disclosures in this US Privacy Rights Notice apply to the extent that AllTrails processes your Personal Data subject to US state consumer privacy laws such as the California Consumer Privacy Act. 
+Collection, Disclosure and Use of Personal Data: In this section, we identify the specific categories of Personal Data that we collect about you described above in the ‘Information We Collect’ section for the last 12 months: 
+                                                      * Identifiers such as contact information, name or email address
+                                                      * Commercial information such as transaction history
+                                                      * Device, usage and internet or other electronic network activity information such as information about your device type, browser settings or interactions with our sites
+                                                      * Online identifiers such as Log Data, Cookies Data, and Usage and Activity Data 
+                                                      * Geolocation data
+                                                      * Visual information you choose to share
+                                                      * Sensitive Personal Data such as precise geolocation, as voluntarily disclosed by you
+                                                      * Inferences about your preferences and interests from data we collect
+In the preceding 12 months, we have disclosed for business purposes the following categories of Personal Data identified below to the categories of third parties identified in the ‘How We Share and Disclose Personal Data’ section: 
+                                                      * Identifiers such as contact information, name, email or IP address
+                                                      * Commercial information such as transaction history
+                                                      * Device, usage and internet or other electronic network activity information such as information about your device type, browser settings or interactions with our sites
+                                                      * Online identifiers such as Log Data, Cookies Data, and Usage and Activity Data 
+                                                      * Geolocation data
+                                                      * Visual information to third parties designated by you
+                                                      * Sensitive Personal Data, such as precise geolocation, as voluntarily disclosed by you
+                                                      * Inferences about your preferences and interests from data we collect
+As noted above, we may provide your Personal Data to third parties for ‘business purposes’, such as with affiliates and marketing partners, analytics providers, and social networks, who assist us in advertising our Service to you. The business and commercial purposes for collecting Personal Data are described in the ‘How We Use Personal Data’ section. We collect Personal Data directly from you and from external accounts you use to log in to the Service.
+Understanding Your Rights. In addition to your rights and choices as outlined above, depending on where you reside, and under applicable local law and subject to any applicable exceptions, you may have the following additional rights regarding our use and disclosure of your Personal Data: 
+                                                      * Right to know the categories of Personal Data that AllTrails has collected about you, the business purpose for collecting your Personal Data, the categories of sources from which the Personal Data was collected, whether AllTrails has disclosed your Personal Data for business purposes and the categories of Personal Data so disclosed, and the categories of third parties to whom we have disclosed your Personal Data.
+                                                      * Right to access the specific pieces of Personal Data that AllTrails has collected about you.
+                                                      * Right to ask us to correct inaccurate Personal Data that we have collected about you 
+                                                      * Right, under certain circumstances, to request AllTrails to delete your Personal Data.
+                                                      * Right to be free from discrimination related to the exercise of your rights.
+                                                      * Right to Opt Out (such as from the sale or sharing of your Personal Data):
+                                                      * Opt out of certain processing for targeted advertising purposes. You may have the right to opt out of certain processing of Personal Data for targeted advertising purposes.
+                                                      * Opt out of profiling/automated decision-making. You may have the right to opt out of automated processing or profiling performed on Personal Data to evaluate, analyse or predict personal aspects related to a person’s economic situation, health, personal preferences, interests, reliability, behaviour, location or movements. However, we do not engage in profiling in furtherance of decisions that produce legal or similarly significant effects concerning individuals.
+                                                      * Opt out of other sales of Personal Data. You may have the right to opt out of other ‘sales’ (which may include the disclosure of your Personal Data in relation to targeted advertising) of your Personal Data.
+If you have any questions about your rights or these disclosures, would like to request access to an alternative format of this notice, or appeal a refusal to fulfil your request made under these provisions, you may contact us atprivacy@alltrails.com. If you have shared Personal Data with us via our Social Media Pages, you may contact the Social Media Site regarding the rights you may have under their applicable privacy policies and terms.
+Global Privacy Controls and Do Not Track Signals: We and our third-party vendors and service providers, may use cookies, pixels or other tracking technologies to collect Personal Data about your browsing activities over time and across different websites following your use of the Site and use that Personal Data to send targeted advertisements. Our Site honours Global Privacy Control (‘GPC’) opt-out preference signals in a frictionless manner. If our website detects that your browser is transmitting an opt-out preference signal, such as the GPC signal, we will opt that browser out of cookies on our website that result in a ‘sale’ or ‘sharing’ of your personal information. To download and use a browser supporting the GPC browser signal, click here: https://globalprivacycontrol.org/orgs. If you choose to use the GPC signal, you will need to turn it on for each supported browser or browser extension you use to visit our websites. Our Site currently does not respond to ‘Do Not Track’ (‘DNT’) signals. To find out more about DNT signals, please visit http://www.allaboutdnt.com.
+Make a US Privacy Rights Request: Depending on where you reside, and under applicable local law and subject to any applicable exceptions, you may make a US Privacy Rights Request as follows:
+                                                      * Exercising your rights to know, access, correct, delete or make changes with respect to your consents. If you would like to exercise your rights (as available) to make requests to know, access, appeal, correct, delete or make changes with respect to your consent, you may do so by clicking ‘Make a Privacy Request’ at the top of this page or by contacting privacy@alltrails.com.
+                                                      * Exercising your right to opt out of the sale or sharing of your Personal Data. While we do not sell Personal Data for money, like many companies, we use services that help deliver targeted ads to you as described above. Applicable state privacy laws may classify our use of some of these services as ‘selling’ or ‘sharing’ your Personal Data with the advertising partners that provide the services. You can submit requests to opt out of tracking for targeted advertising purposes using GPC opt-out preference signals (as described above) by clicking the ‘Manage Cookies’ link at the bottom of our homepage or by contacting privacy@alltrails.com.
+                                                      * Verification of identity. Once we receive your request, we will require you to verify your identity in order to process your request. To verify your identity, we require you to respond to an email that we send to the email address associated with your AllTrails account. We require identity verification through email authentication before privacy requests can be processed as we require only limited information in order to create an account and, as a result, it is difficult to verify your identity even if we collect additional information. If we are unable to verify your identity through email authentication, we will be unable to complete your request.
+Under some state privacy laws, you may enable an authorised agent to make a request on your behalf. However, we may need to verify your authorised agent’s identity and authority to act on your behalf. We may require a copy of a valid power of attorney given to your authorised agent pursuant to applicable law. If you have not provided your agent with such a power of attorney, we may ask you to take additional steps permitted by law to verify that your request is authorised, such as by providing your agent with written and signed permission to exercise your state privacy law rights on your behalf, the information we request to verify your identity and confirmation that you have given the authorised agent permission to submit the request.
+EEA and UK USERS
+Scope: This section applies to users located in the European Economic Area (“EEA”) or the United Kingdom (“UK”).
+Data Controller: AllTrails, Inc. is the data controller for the processing of your Personal Data. You can find our contact information in the ‘Contact Us’ section below.
+EEA + UK Representatives.For requests, inquiries or issues related to our processing of your Personal Data and/or this Privacy Policy, users in the EEA or UK may contact our appointed representatives at their contact information below.
+Per Article 27 of the GDPR, we have appointed a European Union (“EU”) Representative to act as our data protection agent. Our nominated EU Representative is:
+Instant EU GDPR Representative Ltd.
+Adam Brogden contact@gdprlocal.com
+Tel. +353 15549700
+INSTANT EU GDPR REPRESENTATIVE LTD
+Office 2, 12A Lower Main Street, Lucan Co. Dublin
+K78 X5P8
+Ireland
+Per Article 27 of the UK Data Privacy Act, we have appointed a UK Representative to act as our data protection agent. Our nominated UK Representative is:
+GDPR Local Ltd.
+Adam Brogden contact@gdprlocal.com
+Tel. +44 1772 217800
+1st Floor Front Suite 27-29 North Street, Brighton
+England
+BN1 1EB
+Legal Bases for Processing. This Privacy Policy (the ‘How We Use Personal Data’ section) describes the legal bases we rely on for the processing of your Personal Data where required by applicable law.  For any sensitive Personal Data we process, we also have to establish a condition to process such data. The only sensitive Personal Data we may process is identified in the ‘Information We Collect’ section of this Privacy Policy above. 
+Your Rights. Pursuant to applicable privacy laws in the EEA and the UK, you have the following rights in relation to your Personal Data, under certain circumstances:
+                                                         * Right of access: If you ask us, we will confirm whether we are processing your Personal Data and, if so, provide you with a copy of that Personal Data along with certain other details.
+                                                         * Right to rectification: If your Personal Data is inaccurate or incomplete, you are entitled to ask that we correct or complete it. If we shared your Personal Data with others, we will tell them about the correction where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so you can contact them directly.
+                                                         * Right to erasure: You may ask us to delete or remove your Personal Data, such as where you withdraw your consent. If we shared your data with others, we will tell them about the erasure where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data with so you can contact them directly.
+                                                         * Right to restrict processing: You may ask us to restrict or ‘block’ the processing of your Personal Data in certain circumstances, such as where you contest the accuracy of the data or object to us processing it (please read below for information on your right to object). We will tell you before we lift any restriction on processing. If we shared your Personal Data with others, we will tell them about the restriction where possible. If you ask us, and where possible and lawful to do so, we will also tell you with whom we shared your Personal Data so you can contact them directly.
+                                                         * Right to data portability: You have the right to obtain a copy of your Personal Data from us, to the extent that it is processed by automated means. We will give you a copy of your Personal Data in a structured, commonly used and machine-readable format. You may reuse it elsewhere.
+                                                         * Right to object: You may ask us to stop processing your Personal Data, and we will do so:
+                                                         * If we are relying on a Legitimate Interest to process your Personal Data, unless we demonstrate compelling legitimate grounds for the processing or we need to process your Personal Data in order to establish, exercise or defend legal claims.
+                                                         * If we are processing your Personal Data for direct marketing, we may keep minimum information about you in a suppression list in order to ensure that your choices are respected in the future and to comply with data protection laws. (Such processing is necessary for our and your legitimate interest in pursuing the purposes described above.)
+                                                         * Right to withdraw consent: If we rely on your consent to process your Personal Data, you have the right to withdraw that consent at any time. Withdrawal of consent will not affect any processing of your data before we received notice that you wished to withdraw consent.
+                                                         * Right to lodge a complaint with the data protection authority: If you have a concern about our privacy practices, including the way we handled your Personal Data, you can report it to your local data protection authority.
+Typically, you will not have to pay a fee to exercise your rights. However, we may charge a reasonable fee if your request is clearly unfounded, repetitive or excessive, or we may refuse to comply with your request in these circumstances.
+To confirm your identity and ensure your right to access your Personal Data, you will need to verify your identity through email authentication. If you are unable to authenticate your email address, we may be unable to complete your request. We may also contact you to ask you for further information in relation to your request to speed up our response.
+We try to respond to all legitimate requests within one month of receipt. Occasionally, it may take us longer than a month if your request is particularly complex or if you have made a number of requests. In this case, we will notify you and keep you updated.
+If you would like to exercise any or all of these rights, you may do so by clicking ‘Make a Privacy Request’ or contacting privacy@alltrails.com. If you have shared Personal Data with us via our Social Media Pages, you may contact the Social Media Site regarding the rights you may have under their applicable privacy policies and terms.
+International Transfers
+AllTrails is based in the United States. Some of our vendors and service providers may also be located in the United States or another country. As such, any processing of your Personal Data may involve an export of your Personal Data outside of your country of residence, including to countries which may have data protection laws that are less stringent than the laws in effect in the country in which you are located. Whenever we transfer your Personal Data out of your country of residence, we endeavour to ensure that a similar degree of protection is afforded to it by implementing appropriate safeguards. If you would like to receive more information about these safeguards, please contact us at privacy@alltrails.com.
+Health Connections
+Our Service may utilise connections to the Apple Health App (‘HealthKit’), Google Fit, Garmin Connect, and other third-party fitness, health and tracking applications and services (together with HealthKit, “Health Connections”). You can choose to connect and share information with Health Connections. 
+Your Personal Data that you choose to send to Health Connections is not accessible by AllTrails. Our Apps cannot write data to Health Connections unless you grant us permission. You can remove this permission at any time inside the relevant Health Connection.
+Since we do not obtain or read any data from Health Connections, such Health Connections data cannot be used by us for marketing or advertising purposes, or shared with or sold to advertising platforms, data brokers or information resellers. Notwithstanding anything to the contrary in this Privacy Policy, the use of information received from Google’s Health Connect will adhere to the Health Connect Permissions Policy, including the Limited Use requirements.
+AllTrails is in no way responsible for the protection of any of your Personal Data that you agree to store with Health Connections, which is governed by the privacy policies and other terms of the applicable Health Connection. You and the relevant Health Connection are solely responsible for the protection of such Personal Data. Please review the relevant Health Connection’s applicable policies and procedures before granting permission to sync your Personal Data with the relevant Health Collections.
+Through the Service, AllTrails asks that you not provide us with any health-related information (including any information regarding your past, present or future physical or mental health status).
+Links to Other Websites
+The Site and AllTrails Apps may contain advertisements for or links to other websites, products or services not operated or controlled by AllTrails, including Social Media Sites (“Third-Party Sites”). The information that you share with Third-Party Sites will be governed by the specific privacy policies and terms of service of the Third-Party Sites and not by this Privacy Policy. By providing links to Third-Party Sites, we do not imply that we endorse or have reviewed such sites. Please contact the Third-Party Sites directly for information about their privacy practices and policies.
+Additional Information
+By accessing or using our Service, you signify that you have read, understood and acknowledged our collection, storage, use, disclosure and other processing of your Personal Data as described in this Privacy Policy.
+We reserve the right to revise this Privacy Policy from time to time. Please check back often for any updates. You acknowledge that it is your responsibility to review this Privacy Policy periodically and that your continued use of our Service after any change in this Privacy Policy will constitute your acknowledgment of such change.
+If you have any questions about this Notice, please contact us at privacy@alltrails.com.

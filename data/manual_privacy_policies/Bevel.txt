@@ -1,0 +1,400 @@
+﻿Privacy Policy
+Last Updated: September 10, 2025
+
+
+This Privacy Policy (“Privacy Policy”) describes and governs the manner in which Finerpoint, Inc., a Delaware corporation, d/b/a Bevel (“we”, “us”, “our” or the “Company”) collects, uses, maintains and discloses information about you when you visit our website and use our mobile application and other online services (the “Services”).
+
+
+Please read this Privacy Policy carefully before you start to use the Services. By accessing and/or using the Services, you accept and agree to be bound and abide by this Privacy Policy, and our terms of use available at https://docs.bevel.health/terms-of-service (the “Terms of Use”) incorporated herein by reference and to comply with all applicable laws, rules and regulations (collectively, “Applicable Law”). If you do not want to agree to this Privacy Policy, and the Terms of Use, you must not access or use the Services.
+
+
+Personal Information We Collect
+
+
+We may collect personal information from you in a variety of ways, including the following key categories and types of personal information:
+
+
+•
+Contact information and profile data: First and last name, email address, username, password, as well as any photographs or information you choose to include in your profile.
+
+
+•
+User-generated information: Information you provide directly through the Services, such as workout logs, dietary information, and activity history.
+
+
+•
+Health information: See “Third-Party Health Information” below.
+
+
+•
+Payment and transactional data: Information about any transaction you conduct using our Services, including transaction details and history. We do not have access to payment card numbers; our payment processors collect and process that information under their own agreements and privacy policies.
+
+
+•
+Conversations with Bevel Intelligence: As further described below.
+
+
+•
+Geolocation data: The general region or area from which you access our Services.
+
+
+•
+Inferences: We may make inferences based on the information we collect.
+
+
+Third-Party Health Information
+
+
+With your permission, our Services connect to third-party applications and services (the “Third-Party Applications”), which may include Apple Health, laboratory and testing services and other providers for whom you offer us permission to connect our Services. We connect to these Third-Party Applications solely for the purpose of importing certain health information about you. Such health information may include the following: heart rate, sleep information, movement and exercise activity, blood oxygen levels, respiratory rate, height, weight and age. If you permit our Services to access certain laboratory and testing services, then imported health information may include your results from such services, for example, blood test results. The health information you permit us to access in connection with the Services is collectively referred to as “Health Information.” See “Where Your Information Is Stored” below for information regarding where your Health Information is stored.
+
+
+How We Collect Your Personal Information
+
+
+We collect personal information from the following sources:
+
+
+•
+Directly. We collect personal information directly from you. When you register for the Services, submit information in an online form, request information from us, or otherwise communicate with us or our support personnel, you may provide us with information, for example, your name and email address.  We also collect Health Information about you by importing information from the Third-Party Applications (see above). By providing us with this information or allowing us access to the Third-Party Applications, you consent to your information being collected, used, disclosed, processed and stored by us in accordance with this Privacy Policy.
+
+
+•
+From Third-Party Applications. We may collect Health Information about you by importing information from Third-Party Applications, if you permit us to do so. Imported Health Information is generally stored and processed on your device, except where you opt in to features (such as Bevel Intelligence) that require cloud processing. By providing us with this information or allowing us access to the Third-Party Applications, you consent to your information being collected, used, disclosed, processed, and stored by us in accordance with this Privacy Policy.
+
+
+Where Your Information Is Stored
+
+
+•
+Personal information and user-generated data. Contact information (such as name, email, phone, and profile data) and non-biometric user-generated data (such as logged workouts, diet, and activity history) are stored using secure third-party cloud hosting providers so that this information can sync across devices and support your use of the Services.
+
+
+•
+Health Information. Imported biometric Health Information (such as heart rate, sleep, blood oxygen, and respiratory rate) is, by default, stored and processed locally on your device. Unless you enable Bevel Intelligence, we do not store or access such imported biometric Health Information in the ordinary course of providing the Services.
+
+
+•
+Bevel Intelligence. If you enable the optional Bevel Intelligence feature, certain biometric Health Information (excluding reproductive health information unless you expressly opt in) may be transmitted through third-party cloud hosting and artificial intelligence (“AI”) technology providers in order to generate AI-powered responses and coaching. Only the minimum relevant information necessary to generate a response will be transmitted. Once such data is processed through those third-party providers, it is subject to their systems and safeguards.
+
+
+To provide the Services, we store and process your personal data in the United States, where the Company is based. By using the Services or otherwise providing information to us, you understand and consent to having any personal information transferred to and processed in the United States. If you reside in the European Union (the “EU”), we will transfer your personal information pursuant to EU data protection laws. You understand that the United States may not provide the same level of protections as the laws in your country. United States data protection and other relevant laws may not be the same as those in your jurisdiction. In certain circumstances law enforcement or regulatory agencies, courts or security authorities in the United States may be entitled to access your personal information.
+
+
+How We Use Collected Information
+
+
+We may collect and use your personal information for the following purposes:
+
+
+•
+To provide the Services. We use personal data and your imported Health Information referenced above for purposes of providing our Services.
+
+
+•
+To perform analysis. We may use your imported Health Information to benefit you and improve the insights we provide with our Services. When feasible, we do this using data that has been processed to protect your privacy.
+
+
+•
+To provide and improve customer service. We use your contact information to answer your questions and respond to your requests and inquiries, notify you of changes to the Services and improve and maintain functionality of our Services.
+
+
+•
+For analytical purposes. We may also use your activity on our Services in an anonymized and aggregate way in order to improve our Services. We may also use your information to protect the Company, our Services and our website, and to prevent fraud, theft and misconduct.
+
+
+•
+Restrictions. We do not use Health Information for advertising or marketing purposes.
+
+
+To Whom We Share Your Personal Information
+
+
+•
+With service providers. We share information with vendors and contractors who help us provide, maintain, and improve the Services, such as cloud hosting providers, technology partners, customer support providers, and email marketing services. If you choose to enable Bevel Intelligence, we may also share certain Health Information with third-party AI technology providers to generate AI-powered responses. Except as described above (e.g., for cloud storage to support your use of the Services, or for AI processing if you opt in), we do not share your Health Information with third parties. When shared, Health Information is limited to what is reasonably necessary to provide the feature or service, and, where possible, is anonymized or de-identified.
+
+
+•
+With partners for research and development. We may share your information with third-party partners who help us in developing and improving the Services. Information shared for such purpose shall be anonymized and the third parties in which we share such information shall be subject to non-disclosure obligations.
+
+
+•
+With third parties at your direction or to support transactions. We may share your information with third parties with your consent or as requested by you, or in connection with a transaction you engage in through the Services.
+
+
+•
+As required by law. We may share your information with the appropriate authorities if we believe disclosure is in accordance with, or required by, any applicable law, including lawful requests by public authorities to meet national security or law enforcement requirements.
+
+
+•
+In corporate transactions. In the event of a financing, reorganization, merger, or sale of the Company, we may transfer your personal information to the relevant third parties involved in the transaction. Any such recipients will be required to protect your information under a nondisclosure agreement or comparable confidentiality obligation.
+
+
+How We Share Your Information
+
+
+•
+With your consent. We may disclose or share your information with your consent. We may obtain your consent in writing; online, through "click-through" agreements; when you accept the terms of use on our website; orally, either in person or on the phone; or by other means.
+
+
+•
+In a business transfer. We may disclose or share your information as part of a corporate business transaction, such as a merger or acquisition, joint venture, corporate reorganization, financing, or sale of company assets, or in the unlikely event of insolvency, bankruptcy, or receivership, in which such information could be transferred to third parties as a business asset in the transaction.
+
+
+•
+To non-affiliated third parties. We may disclose or share your information with certain non-affiliated third parties for a variety of business purposes, including but not limited to facilitate your access and use of our Services. Those third parties may include, but may not be limited to internet service providers and other related professionals, advertising networks, data analytics providers, governmental entities, operating systems and platforms, social media networks, and service providers who provide us a service.
+
+
+•
+To subsidiaries and affiliates. We may disclose or share your information with our subsidiaries and affiliates to further facilitate your use of our websites and Services.
+
+
+•
+For legal process and protection. We may disclose or share your information to satisfy any law, regulation, legal process, governmental request, or where we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to:
+
+
+•
+Protect our rights or interests, property or safety or that of others;
+
+
+•
+In connection with claims, disputes, or litigation - in court or elsewhere; and
+
+
+•
+Protect users of our website and Services and other carriers or providers from fraudulent, abusive, or unlawful use of such Services.
+
+
+Bevel Intelligence & Third-Party Artificial Intelligence Technology
+
+
+When enabled, Bevel Intelligence processes Health Information you authorize us to access, including biometric information from Third-Party Applications. By default, reproductive health information is not transmitted to Bevel Intelligence; you may separately opt in if you wish the feature to use that data. Bevel Intelligence is a generative AI feature that is intended to help you understand and make progress to your goals, provide educational guidance, and integrate with the rest of your experience using our Services. To provide this feature, we leverage third-party cloud hosting providers and AI technology from our large language model partners. Your Health Information will be transmitted to, and processed by, these third parties solely for the purpose of generating responses and guidance.
+
+
+We take the following steps to protect your privacy:
+
+
+•
+We only share Health Information in a format intended to minimize direct identifiability.
+
+
+•
+We may retain the history of your conversations with Bevel Intelligence so you can review past exchanges and so the feature can provide continuity and context in future interactions. Certain data used to generate conversations, which may include biometric or other sensitive information, may be retained for up to thirty (30) days for debugging and quality assurance purposes and is then deleted from our servers. After that period, only the conversation history itself remains available to you, unless you request its deletion. To access your information or request deletion, please contact us at hello@bevel.health.
+
+
+Please note that Bevel Intelligence generates responses based on your inputs and Health Information, and those responses may be inaccurate, incomplete, or inconsistent. Bevel Intelligence does not provide medical advice and should never be relied upon as a substitute for professional medical care, diagnosis, or treatment. You should always consult a qualified physician or other licensed healthcare provider with any questions you may have regarding your health, medical conditions, or wellness decisions.
+
+
+We Do Not Sell Your Personal Information
+
+
+We do not sell or rent your personal information, and only share your personal data with certain trusted service providers and partners so that we can provide and improve our services, to provide partner services and other offerings, and to operate our business.
+
+
+Third-Party Links and Websites
+
+
+Our Services may contain advertising, links or other content from the websites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties (collectively, the “Third-Party Services”). We do not control the content or links that appear on these Third-Party Services and are not responsible for the practices employed by such Third-Party Services. In addition, these Third-Party Services may have their own privacy policies and customer service policies. Browsing and interacting on any of these Third-Party Services are subject to such Third-Party Services’ own terms and policies.
+
+
+Our Content on Third-Party Services
+
+
+Our Services may be provided on or hosted on a third-party platform or otherwise make use of Third-Party Services. We do not control the content or links that appear on these Third-Party Services and are not responsible for the practices employed by such Third-Party Services. Your browsing and interacting on any of these Third-Party Services are subject to such Third-Party Services’ own terms and policies. Any visit you make to those other services is at your own risk. Such third parties’ use of any information you share is governed by the third party’s privacy policy.  The Services may also use third-party service remarketing services to advertise to previous visitors to the Services on such Third-Party Services. Such third parties may use tracking technology (e.g., cookies) to serve ads to you based on your past activity on our Services and other websites and applications, subject to their own privacy policies.
+
+
+Your Choices
+
+
+You have certain choices on how we treat your personal information, described below:
+
+
+•
+Modifications to Personal Information. You may review and request modifications to your personal information by editing your profile directly on our website or by contacting us at hello@bevel.health. Please note that we will retain data for as long as it is reasonably necessary to fulfill the purpose for which it has been collected or as required or permitted by applicable law. If you provide us with updated information, we will do our best to keep your information accurate and up-to-date. We will make good-faith efforts to make requested changes in any active database as soon as practicable.
+
+
+•
+Marketing Communications. You can opt out of promotional marketing communications by contacting us at hello@bevel.health. We may give choices about other emails and communications you receive from us. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business.
+
+
+•
+Bevel Intelligence. You can choose whether or not to enable and interact with Bevel Intelligence. We will only share your anonymized Health Information with our third-party cloud hosting providers/large language model partners that power Bevel Intelligence if you enable and engage with the feature. If you no longer wish to use Bevel Intelligence, you can simply not interact with the feature, or you can disable the feature entirely from our mobile application by accessing the settings at any time. Please note, however, that any information you previously shared with Bevel Intelligence may already have been transmitted to and stored within those third-party systems, and disabling the feature may not delete or retract that past information.
+
+
+•
+Ad Choices.  Some advertisements and other content may be delivered by third-party advertising networks and advertisers that may use cookies and similar and/or your advertiser ID for mobile devices to collect and track information such as demographic information, inferred interests, aggregated information, and activity to assist them in delivering advertising that is more relevant to your interests.  To find out more about third-party advertising networks and similar entities that use these technologies, see www.aboutads.info.  If you would like to opt-out of such ad networks’ and services’ advertising practices, go to www.aboutads.info/choices to opt out in desktop and mobile web browsers.  You may download the AppChoices app at www.aboutads.info/appchoices to opt out in mobile applications.
+
+
+•
+Tracking Technology. You may turn off part or all of our tracking software that has been placed on your computer by following the instructions on your browser. On a mobile device, you may turn off part or all of mobile tracking through your mobile device settings. However, if you prevent the use of tracking software or tracking through your mobile device, it will be more difficult, and may be impossible, for you to use the Service or portions of the Services.
+
+
+•
+Location and Analytics. If we use Third-Party Services to automatically collect your personal information, such Third-Party Services may offer you a choice to stop the automatic collection of your information. Please see our “How we collect your personal information” above with respect to our tracking tools.
+
+
+•
+Cookies. Most web browsers are set by default to accept cookies. You can usually set your browser to remove or reject cookies. Please note if you choose to reject, this could affect the availability and functionality of our Services.
+
+
+•
+Not Providing Personal Information. You may choose not to provide personal information to us. However, if you do not provide personal information, we may not be able to offer you all or part of our Services.
+
+
+Information Security
+
+
+We use commercially reasonable security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. However, we cannot guarantee the complete safety of your information.  It is your responsibility to keep your information confidential.
+
+
+How Long We Keep Your Information
+
+
+We retain, store and use your information for least amount of time necessary for our relationship with you and to provide you access to our Services and in accordance with data retention policies and applicable law.
+
+
+Our Services Are Not Intended For Children
+
+
+Our Services is not directed to children under the age of 18. We do not knowingly collect information, including personal information, from children. If we obtain actual knowledge that we have collected such information from children, then we will promptly delete it. If you believe we have mistakenly collected information from children listed above, please contact us at hello@bevel.health.
+
+
+U.S. State-Specific Privacy Information
+
+
+If you reside in any of the following states, you may be entitled to specific rights under applicable state data privacy laws: California, Colorado, Connecticut, Delaware, Iowa, Maryland, Minnesota, Montana, Nebraska, New Hampshire, New Jersey, Oregon, Tennessee, Texas, Utah, and Virginia.
+
+
+•
+Information: This Privacy Policy explains the categories of personal data we collect (including “Personal Information” as that term is defined under applicable law) in the section titled “Personal Data We Collect,” as well as the sources from which that data is obtained, described in the section “How We Collect Your Personal Information.” The ways in which we use and disclose this information are described in “To Whom We Share Your Personal Information” and “How We Share Your Information.”
+
+
+•
+Access: You can request a copy of the personal information that we hold about you.
+
+
+•
+Deletion: You can ask to delete personal information we have collected from you.
+
+
+•
+Correction: You may request that we correct or update any inaccuracies in your personal information.
+
+
+•
+Opt-out of sale and sharing of your personal information: You may direct us not to sell or share your personal information, or to stop processing it for purposes such as targeted advertising or profiling that produces legal or similarly significant effects. Instructions for exercising these choices are provided in the “Ad Choices” section of this Privacy Policy.
+
+
+•
+Appeal: If we deny a request you have made, you may be permitted to appeal our decision.
+
+
+In addition, California law requires that we disclose, for the 12 months preceding the date of this Privacy Policy, whether we have “sold” or “shared” personal information. During that period, the Company has not sold any personal information. The Company has only disclosed personal information in the manner described in this Privacy Policy.
+
+
+You have the right to exercise the choices described above without being subject to discriminatory treatment.
+
+
+Exercising Your Rights (if applicable)
+
+
+To exercise the rights set forth in the “U.S. State-Specific Privacy Information” section above, you can submit requests as follows:
+
+
+•
+To request access to, correction of, or deletion of personal information collected via your use of the Services, please either email us at hello@bevel.health.
+
+
+•
+To learn how to opt-out of interest-based ads and other online tracking, see the “Ad Choices” section of the Privacy Policy.
+
+
+•
+To verify your identity prior to responding to your requests, we may ask you to confirm information that we have on file about you or your interactions with us. Where we ask for additional personal data to verify your identity, we will only use it to verify your identity or your authority to make the request on behalf of another consumer.
+
+
+•
+You can empower an “authorized agent” to submit requests on your behalf. Your authorized agent may submit requests in the same manner, although we may require the agent to present signed written permission to act on your behalf, and you may also be required to independently verify your identity with us and confirm that you have provided the agent permission to submit the request.
+
+
+Please note that we are only required to honor requests to know twice in a 12-month period.
+
+
+California Shine the Light
+
+
+This Privacy Policy describes how we may share your personal data for marketing purposes. If you are a California resident, the Shine the Light law permits you to request and obtain from us once per calendar year information about any of your personal information shared with third parties for their own direct marketing purposes, including the categories of information and the names and addresses of those businesses with which we have shared such information. To request this information and for any other questions about our privacy practices and compliance with California law, please contact us at hello@bevel.health.
+
+
+"Do Not Track" Policy as Required by California Online Privacy Protection Act (“CalOPPA”)
+
+
+Our Services do not respond to Do Not Track (“DNT”) signals. However, some third-party websites do keep track of your browsing activities. If you are visiting such websites, you can set your preferences in your web browser to inform websites that you do not want to be tracked. You can enable or disable DNT by visiting the preferences or settings page of your web browser.
+
+
+Information for European Economic Area Residents
+
+
+If you are a resident of the European Economic Area (“EEA”), you have certain rights and protections under applicable law regarding the processing of your personal information. The term “personal information” has the meaning given to it by the European General Data Protection Regulation (“GDPR”). When we process your personal information as described in this Privacy Policy, we will only do so when we have a lawful basis for doing so. Lawful bases for processing include consent, contractual necessity and our legitimate interests (for example, our legitimate interest in providing the Services, responding to your inquiries, or sending you marketing communications) or the legitimate interest of others but will depend on the type of personal data and the specific context in which we process it.
+
+
+Additionally, you may have certain rights with respect to your personal data, including:
+
+
+•
+Access. You can request more information about the personal data we hold about you and request a copy of such personal data.
+
+
+•
+Rectification. If you believe that any personal data we are holding about you is incorrect or incomplete, you can request that we correct or supplement such data. You can also correct some of this information directly by logging into your account.
+
+
+•
+Erasure. You can request that we erase your personal data from our systems.
+
+
+•
+Withdrawal of consent. If we are processing your personal data based on your consent (as indicated at the time of collection of such data), you have the right to withdraw your consent at any time. Please note, however, that if you exercise this right, you may have to then provide express consent on a case-by-case basis for the use or disclosure of certain of your personal data, if such use or disclosure is necessary to enable you to utilize some or all of our Services.
+
+
+•
+Portability. You can ask for a copy of your personal data in a machine-readable format. You can also request that we transmit the data to another controller where technically feasible.
+
+
+•
+Objection. You can contact us to let us know that you object to the further use or disclosure of your personal data for certain purposes.
+
+
+•
+Restriction of processing. You can ask us to restrict further processing of your personal data.
+
+
+•
+Right to file a complaint. You have the right to lodge a complaint about our practices with respect to your personal data with the supervisory authority in the relevant EEA member state, UK or Switzerland, as applicable, where you reside. For contact details of your local Data Protection Authority, please see: http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index\_en.htm.
+
+
+•
+Obtain a copy of any Standard Contractual Clauses or other international data transfer agreement we may use to transfer your personal data outside of Europe.
+
+
+For more information about these rights, or to submit a request, please email hello@bevel.health. Please note that in some circumstances, we may be allowed to wholly or partially decline your request in accordance with applicable data protection laws (including the GDPR), but in those circumstances, we will still respond to notify you of such a decision in accordance with the timescales under such laws. In some cases, we may also need you to provide us with additional information, which may include personal data, if necessary to verify your identity and the nature of your request.
+
+
+Usage and Deletion of Personal Information
+
+
+You may request what personal information we have collected, used and disclosed about you as well as the identity of the third parties to which we have disclosed your personal information. You may also request deletion of your personal information. Please note that we may not delete all of your information if: (1) we need it to complete a service as requested by you or perform under a contract we have with you; (2) we need such information to repair any errors to our Services or detect data security violations; or (3) we need such information to protect against fraud or illegal activity or to comply with applicable law. Please note that if we delete your personal information, we may not be able to provide you the Services with the same functionality.
+
+
+To make any request for personal information or deletion, please send an email to hello@bevel.health.
+
+
+Changes to this Privacy Policy
+
+
+We have the discretion to update this Privacy Policy at any time. We encourage you to frequently check this page for any changes. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. Subject to applicable law, your continued use of our Services shall be deemed an acceptance of our revised policy.
+
+
+You Can Contact Us
+
+
+If you have any questions about this Privacy Policy, you can email us at hello@bevel.health.

@@ -1,0 +1,4 @@
+HealthFit Privacy Policy
+HealthFit does not share any data with anyone at all except when you decide to do so yourself by sharing an activity on Strava, TrainingPeaks, ...
+There is no analytics in HealthFit. It means we don't collect any statistics about the behavior of the users of HealthFit.
+
