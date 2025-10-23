@@ -6,6 +6,7 @@ setwd("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/data")
 
 library(tidyverse)
 library(readxl)
+library(stringr)
 
 # Read in data frames for average length by category visualization
 policy.texts <- read.csv("all_privacy_policies.csv")
@@ -73,3 +74,6 @@ policy_downloads
 # Export graphs
 ggsave("../figures/avg_length_by_category.png", plot=policy_length)
 ggsave("../figures/downloads_by_year.png", plot=policy_downloads)
+
+third.party <- str_count(merged$text, "third-party")
+third.party
