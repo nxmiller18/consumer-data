@@ -7,14 +7,17 @@ setwd("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/data")
 library(tidyverse)
 library(readxl)
 
+# Read in data frames for average length by category visualization
 policy.texts <- read.csv("all_privacy_policies.csv")
 app.list <- read.csv("privacy_policy_list.csv")
 
+# Measure word length of each privacy policy
 policy.texts <- policy.texts |>
   mutate(
     word.count = str_count(text, boundary("word"))
   )
 
+# Clean names of apps in app.list to prepare for merge
 app.list <- app.list |>
   mutate(
     app = App.Name |>
@@ -23,10 +26,12 @@ app.list <- app.list |>
   mutate_all(~str_remove(., "\\.$")) |>
   mutate_all(~str_remove(., "\\.$"))
 
+# Merge app.list and data frame with privacy policies
 merged <- app.list |>
   left_join(policy.texts, by="app") |>
   select(app, Category, file, text, word.count)
 
+# Calculate average privacy policy length of each category of app
 avg_length <- merged |>
   group_by(Category) |>
   summarize(
@@ -34,9 +39,8 @@ avg_length <- merged |>
     n=n()
   )
 
-str(avg_length)
-
-length <- ggplot(avg_length, aes(x=reorder(`Category`, avg.word.count), y=avg.word.count)) +
+# Create bar chart of average lengths by category
+policy_length <- ggplot(avg_length, aes(x=reorder(`Category`, avg.word.count), y=avg.word.count)) +
   geom_col(show.legend=F) +
   labs(
     title="Average Privacy Policy Link by App Category",
@@ -48,11 +52,13 @@ length <- ggplot(avg_length, aes(x=reorder(`Category`, avg.word.count), y=avg.wo
     axis.text.x=element_text(angle=30, hjust=1)
   )
 
-length
+policy_length
 
+# Read in data frame for downloads by year visualization
 app.downloads <- read_excel("health_app_downloads.xlsx", sheet="Data", skip=4)
 
-downloads <- ggplot(app.downloads, aes(x=year, y=downloads, group=1)) +
+# Create line chart of number of health app downloads per year
+policy_downloads <- ggplot(app.downloads, aes(x=year, y=downloads, group=1)) +
   geom_line() +
   ylim(300,600) +
   labs(
@@ -62,8 +68,8 @@ downloads <- ggplot(app.downloads, aes(x=year, y=downloads, group=1)) +
   ) +
   theme_minimal(base_size=12)
 
+policy_downloads
+
 # Export graphs
-ggsave("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/figures/avg_length_by_category.png", 
-       plot=length)
-ggsave("C:Users/natal/OneDrive/Documents/GitHub/consumer-data/figures/downloads_by_year.png", 
-       plot=downloads)
+ggsave("../figures/avg_length_by_category.png", plot=policy_length)
+ggsave("../figures/downloads_by_year.png", plot=policy_downloads)
