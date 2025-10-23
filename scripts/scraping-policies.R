@@ -8,7 +8,7 @@ library(rvest)
 library(stringr)
 
 # Read in list of privacy policies and links; clean app names
-app.list <- read.csv("privacy-policy-list.csv") |>
+app.list <- read.csv("privacy_policy_list.csv") |>
   select(-Secondary.Link, -Manually.Saved.) |>
   mutate(App.Name = str_replace_all(App.Name, "[^\\p{L}\\s]", "")) |>
   mutate(App.Name = str_squish(App.Name))
@@ -68,5 +68,4 @@ policy.texts <- tibble(
 
 # Export combined dataframe
 write.csv(policy.texts, "all_privacy_policies.csv", row.names = FALSE)
-
                   
