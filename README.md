@@ -1,4 +1,4 @@
-# CDJ Consumer Data
+# Consumer Data
 Data, scripts, and figures used in Cornell Data Journal's Consumer Data project (Fall 2025).
 
 ### Languages and Libraries
