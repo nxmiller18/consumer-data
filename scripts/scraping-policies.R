@@ -1,3 +1,6 @@
+# AUTHOR: Natalie Miller
+# PURPOSE: Scrape privacy policies and compile into one data frame for textual analysis
+
 setwd("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/data")
 
 library(tidyverse)
@@ -52,9 +55,10 @@ for (i in seq_len(nrow(app.list))) {
 # manual_privacy_policies folder.
 
 # Combine all the individual .txt files into one dataframe
+
 file.names <- c(
-  list.files("privacy_policies", pattern="\\.txt", full.names=T), 
-  list.files("manual_privacy_policies", pattern="\\.txt", full.names=T)
+  list.files("manual_privacy_policies", pattern="\\.txt", full.names=T),
+  list.files("privacy_policies", pattern="\\.txt", full.names=T)
   )
 
 policy.texts <- tibble(
@@ -63,4 +67,6 @@ policy.texts <- tibble(
   text = map_chr(file.names, read_file))
 
 # Export combined dataframe
-write.csv(policy.texts, "all_privacy_policies.csv", row.names = FALSE)  
+write.csv(policy.texts, "all_privacy_policies.csv", row.names = FALSE)
+
+                  
