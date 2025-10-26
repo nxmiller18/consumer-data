@@ -2,7 +2,12 @@
 # PURPOSE: Initial EDA on scraped policies + external data on health app downloads
 # OUTPUTS: avg_length_by_category.png, downloads_by_year.png
 
-setwd("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/data")
+setwd("~/GitHub/consumer-data/data")
+
+# Install these once
+install.packages("tidyverse")
+install.packages("readxl")
+install.packages("stringr")
 
 library(tidyverse)
 library(readxl)
