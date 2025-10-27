@@ -14,17 +14,17 @@ library(readxl)
 library(stringr)
 
 # Read in data frames for average length by category visualization
-policy.texts <- read.csv("all_privacy_policies.csv")
-app.list <- read.csv("privacy_policy_list.csv")
+policy_texts <- read.csv("all_privacy_policies.csv")
+app_list <- read.csv("privacy_policy_list.csv")
 
 # Measure word length of each privacy policy
-policy.texts <- policy.texts |>
+policy_texts <- policy_texts |>
   mutate(
     word.count = str_count(text, boundary("word"))
   )
 
 # Clean names of apps in app.list to prepare for merge
-app.list <- app.list |>
+app_list <- app.list |>
   mutate(
     app = App.Name |>
       str_replace_all("[^A-Za-z]", ".")
@@ -33,8 +33,8 @@ app.list <- app.list |>
   mutate_all(~str_remove(., "\\.$"))
 
 # Merge app.list and data frame with privacy policies
-merged <- app.list |>
-  left_join(policy.texts, by="app") |>
+merged <- app_list |>
+  left_join(policy_texts, by="app") |>
   select(app, Category, file, text, word.count)
 
 # Calculate average privacy policy length of each category of app
@@ -61,10 +61,10 @@ policy_length <- ggplot(avg_length, aes(x=reorder(`Category`, avg.word.count), y
 policy_length
 
 # Read in data frame for downloads by year visualization
-app.downloads <- read_excel("health_app_downloads.xlsx", sheet="Data", skip=4)
+app_downloads <- read_excel("health_app_downloads.xlsx", sheet="Data", skip=4)
 
 # Create line chart of number of health app downloads per year
-policy_downloads <- ggplot(app.downloads, aes(x=year, y=downloads, group=1)) +
+policy_downloads <- ggplot(app_downloads, aes(x=year, y=downloads, group=1)) +
   geom_line() +
   ylim(300,600) +
   labs(
@@ -80,5 +80,5 @@ policy_downloads
 ggsave("../figures/avg_length_by_category.png", plot=policy_length)
 ggsave("../figures/downloads_by_year.png", plot=policy_downloads)
 
-third.party <- str_count(merged$text, "third-party")
-third.party
+third_party <- str_count(merged$text, "third-party")
+third_party
