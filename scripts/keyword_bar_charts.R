@@ -1,6 +1,6 @@
 # AUTHOR: Natalie Miller
 # PURPOSE: Create plots measuring frequency of key words
-# OUTPUTS:
+# OUTPUTS: advert_mentions.png, delete_mentions.png, process_mentions.png, third_party_mentions.png, share_mentions.png
 
 setwd("~/GitHub/consumer-data/data")
 
@@ -9,11 +9,11 @@ library(readxl)
 library(stringr)
 
 # Reading in data
-policy.texts <- read.csv("../data/all_privacy_policies.csv")
-app.list <- read.csv("../data/privacy_policy_list.csv")
+policy_texts <- read.csv("../data/all_privacy_policies.csv")
+app_list <- read.csv("../data/privacy_policy_list.csv")
 
 # Clean names of apps in app.list to prepare for merge
-app.list <- app.list |>
+app_list <- app.list |>
   mutate(
     app = App.Name |>
       str_replace_all("[^A-Za-z]", ".")
@@ -22,8 +22,8 @@ app.list <- app.list |>
   mutate_all(~str_remove(., "\\.$"))
 
 # Merge app.list and data frame with privacy policies
-merged <- app.list |>
-  left_join(policy.texts, by="app") |>
+merged <- app_list |>
+  left_join(policy_texts, by="app") |>
   select(app, Category, file, text)
 
 keywords <- merged |>
@@ -116,4 +116,5 @@ ggsave("../figures/advert_mentions.png", plot=advert_plot)
 ggsave("../figures/delete_mentions.png", plot=delete_plot)
 ggsave("../figures/partner_mentions.png", plot=partner_plot)
 ggsave("../figures/process_mentions.png", plot=process_plot)
+ggsave("../figures/share_mentions.png", plot=share_plot)
 ggsave("../figures/third_party_mentions.png", plot=third_party_plot)
