@@ -73,7 +73,3 @@ children_plot
 
 # Export the graph
 ggsave("../figures/mentions_children_by_category.png", plot = children_plot)
-
-
-
-

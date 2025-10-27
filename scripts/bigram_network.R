@@ -10,7 +10,10 @@ library(stringr)
 library(widyr)
 library(igraph)
 library(ggraph)
+library(showtext)
 
+showtext_auto()
+font_add_google("Atkinson Hyperlegible", "atkinson")
 
 # Reading in data
 policy_texts <- read.csv("../data/all_privacy_policies.csv")
@@ -67,16 +70,28 @@ graph <- graph_from_data_frame(top_co_occurrence, directed=F)
 
 V(graph)$deg <- igraph::degree(graph)
 
-ggraph(graph, layout = "fr") +
-  geom_edge_link(aes(width = n), alpha = 0.3, color = "#5A9BD5") +
-  geom_node_point(aes(size = deg), color = "skyblue") +   # use aes(size = deg)
+network <- ggraph(graph, layout = "fr") +
+  geom_edge_link(aes(width = n), alpha=0.2, color = "#5A9BD5", width=0.5) +
+  geom_node_point(aes(size = deg), alpha=0.5, color = "#333333", size=0.8) +
   geom_node_text(
     aes(label = ifelse(deg > 2, name, "")),
-    repel = TRUE, size = 3, max.overlaps = Inf
+    repel = TRUE, size = 8, max.overlaps = Inf
   ) +
   theme_void() +
-  labs(title = "Privacy Policy Bigram Co-occurrence Network") +
+  labs(title = "Network of Two-Word Phrases by Co-Occurrence in Paragraph") +
+  theme_minimal(base_family="atkinson") +
   theme(
-    plot.title = element_text(size = 16, face = "bold", hjust = 0.5)
+    plot.title = element_text(size = 30, face = "bold", hjust = 0.5),
+    panel.background = element_blank(),
+    plot.background = element_blank(),
+    panel.grid.major = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.line = element_blank(),
+    axis.ticks = element_blank(),
+    axis.text = element_blank(),
+    axis.title = element_blank()
   )
 
+network
+
+ggsave("../figures/policy_bigram_network.png", plot=network)
