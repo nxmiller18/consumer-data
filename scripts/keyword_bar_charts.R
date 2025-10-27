@@ -82,7 +82,7 @@ partner_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, partner),
   ) +
   theme_minimal(base_family="atkinson") +
   theme(
-    plot.title = element_text(face = "bold", size = 20, hjust = 0.5, color = "#202124"),
+    plot.title = element_text(face = "bold", size = 30, hjust = 0.5, color = "#202124"),
     axis.title = element_text(face = "bold", size = 26),
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
