@@ -11,17 +11,17 @@ library(quanteda)
 library(quanteda.textstats)
 
 # Read in data frames for average length by category visualization
-policy.texts <- read.csv("all_privacy_policies.csv")
-app.list <- read.csv("privacy_policy_list.csv")
+policy_texts <- read.csv("all_privacy_policies.csv")
+app_list <- read.csv("privacy_policy_list.csv")
 
 # Measure word length of each privacy policy
-policy.texts <- policy.texts |>
+policy_texts <- policy_texts |>
   mutate(
     word.count = str_count(text, boundary("word"))
   )
 
 # Clean names of apps in app.list to prepare for merge
-app.list <- app.list |>
+app_list <- app_list |>
   mutate(
     app = App.Name |>
       str_replace_all("[^A-Za-z]", ".")
@@ -30,8 +30,8 @@ app.list <- app.list |>
   mutate_all(~str_remove(., "\\.$"))
 
 # Merge app.list and data frame with privacy policies
-merged <- app.list |>
-  left_join(policy.texts, by="app") |>
+merged <- app_list |>
+  left_join(policy_texts, by="app") |>
   select(app, Category, file, text, word.count)
 
 # Create violin plot of privacy policy lengths by category

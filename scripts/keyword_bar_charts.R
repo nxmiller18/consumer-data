@@ -1,0 +1,119 @@
+# AUTHOR: Natalie Miller
+# PURPOSE: Create plots measuring frequency of key words
+# OUTPUTS:
+
+setwd("~/GitHub/consumer-data/data")
+
+library(tidyverse)
+library(readxl)
+library(stringr)
+
+# Reading in data
+policy.texts <- read.csv("../data/all_privacy_policies.csv")
+app.list <- read.csv("../data/privacy_policy_list.csv")
+
+# Clean names of apps in app.list to prepare for merge
+app.list <- app.list |>
+  mutate(
+    app = App.Name |>
+      str_replace_all("[^A-Za-z]", ".")
+  ) |>
+  mutate_all(~str_remove(., "\\.$")) |>
+  mutate_all(~str_remove(., "\\.$"))
+
+# Merge app.list and data frame with privacy policies
+merged <- app.list |>
+  left_join(policy.texts, by="app") |>
+  select(app, Category, file, text)
+
+keywords <- merged |>
+  mutate(
+    count_third_party = str_count(text, regex("third[ -]?party", ignore_case = T)),
+    count_partner = str_count(text, regex("partner", ignore_case = T)),
+    count_share = str_count(text, regex("share", ignore_case=T)),
+    count_process = str_count(text, regex("process", ignore_case = T)),
+    count_advert = str_count(text, regex("advert", ignore_case = T)),
+    count_delete = str_count(text, regex("delete", ignore_case = T))
+  ) |>
+  mutate(
+    count_all_share = count_third_party + count_partner + count_share
+  ) |>
+  select(-file, -text)
+
+keywords_by_category <- keywords |>
+  group_by(Category) |>
+  summarize(
+    third_party = as.numeric(mean(count_third_party)),
+    partner = as.numeric(mean(count_partner)),
+    share = as.numeric(mean(count_share)),
+    process = as.numeric(mean(count_process)),
+    advert = as.numeric(mean(count_advert)),
+    delete = as.numeric(mean(count_delete)),
+    all_share = as.numeric(mean(count_all_share))
+  )
+
+third_party_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, third_party), y = third_party)) +
+  geom_col(show.legend=F) +
+  labs(
+    title = "Average Mentions of Third Party by Category",
+    x = "App Category",
+    y = "Average Mentions of Third Party"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+partner_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, partner), y = partner)) +
+  geom_col(show.legend=F) +
+  labs(
+    title = "Average Mentions of Partner by Category",
+    x = "App Category",
+    y = "Average Mentions of Partner"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+share_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, share), y = share)) +
+  geom_col(show.legend=F) +
+  labs(
+    title = "Average Mentions of Share by Category",
+    x = "App Category",
+    y = "Average Mentions of Share"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+process_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, process), y = process)) +
+  geom_col(show.legend=F) +
+  labs(
+    title = "Average Mentions of Process by Category",
+    x = "App Category",
+    y = "Average Mentions of Process"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+advert_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, advert), y = advert)) +
+  geom_col(show.legend=F) +
+  labs(
+    title = "Average Mentions of Advertising by Category",
+    x = "App Category",
+    y = "Average Mentions of Advertising"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+delete_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, delete), y = delete)) +
+  geom_col(show.legend=F) +
+  labs(
+    title = "Average Mentions of Delete by Category",
+    x = "App Category",
+    y = "Average Mentions of Delete"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+
+ggsave("../figures/advert_mentions.png", plot=advert_plot)
+ggsave("../figures/delete_mentions.png", plot=delete_plot)
+ggsave("../figures/partner_mentions.png", plot=partner_plot)
+ggsave("../figures/process_mentions.png", plot=process_plot)
+ggsave("../figures/third_party_mentions.png", plot=third_party_plot)
