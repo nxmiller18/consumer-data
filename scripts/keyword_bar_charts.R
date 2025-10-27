@@ -120,7 +120,7 @@ process_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, process),
   theme_minimal(base_family="atkinson") +
   theme(
     plot.title = element_text(face = "bold", size = 18, hjust = 0.5, color = "#202124"),
-    axis.title = element_text(face = "bold", size = 42),
+    axis.title = element_text(face = "bold", size = 14),
     axis.text.x = element_text(angle = 30, hjust = 1, size = 12, color = "#333333"),
     axis.text.y = element_text(size = 12, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
@@ -163,6 +163,13 @@ delete_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, delete), y
     panel.grid.minor = element_blank(),
     plot.background = element_rect(fill = "#FAFAF7", color = NA)
   )
+
+advert_plot
+delete_plot
+partner_plot
+process_plot
+share_plot
+third_party_plot
 
 ggsave("../figures/advert_mentions.png", plot=advert_plot)
 ggsave("../figures/delete_mentions.png", plot=delete_plot)
