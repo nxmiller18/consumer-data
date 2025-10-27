@@ -1,6 +1,6 @@
 # AUTHOR: Maia Forssman
 # PURPOSE: preliminary text scraping for "children"
-# OUTPUTS: 
+# OUTPUTS: mentions_children_by_category.png
 
 setwd("~/Documents/GitHub/consumer-data/scripts/")
 
