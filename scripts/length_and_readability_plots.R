@@ -49,13 +49,12 @@ policy_length_dist <- ggplot(merged, aes(x=reorder(Category, word.count, FUN=med
   ) +
   theme_minimal(base_family="atkinson") +
   theme(
-    plot.title=element_text(face="bold", size=20, hjust=0.5, color="#202124"),
+    plot.title=element_text(face="bold", size=30, hjust=0.5, color="#202124"),
     axis.title=element_text(face="bold", size=26),
     axis.text.x=element_text(angle=45, hjust=1, size=24, color="#333333"),
     axis.text.y=element_text(size=24, color="#333333"),
     panel.grid.major=element_line(color="#E6E6E6"),
-    panel.grid.minor=element_blank(),
-    plot.background=element_rect(fill="#FAFAF7", color=NA)
+    panel.grid.minor=element_blank()
   )
 
 policy_length_dist
@@ -85,12 +84,11 @@ readability_scatter <-
   ) +
   theme_minimal(base_family="atkinson") +
   theme(
-    plot.title = element_text(face = "bold", size = 20, hjust = 0.5, color = "#202124"),
+    plot.title = element_text(face = "bold", size = 30, hjust = 0.5, color = "#202124"),
     axis.title = element_text(face = "bold", size = 26),
     axis.text = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
     panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA),
     legend.title = element_text(face = "bold", size = 25),
     legend.text = element_text(size = 24)
   )

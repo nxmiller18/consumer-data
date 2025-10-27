@@ -60,7 +60,7 @@ third_party_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, third
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Third Party by Category",
-    x = "App Category",
+    x = NULL,
     y = "Average Mentions of Third Party"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -70,15 +70,14 @@ third_party_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, third
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
-    panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA)
-  )
+    panel.grid.minor = element_blank()
+    )
 
 partner_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, partner), y = partner)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Partner by Category",
-    x = "App Category",
+    x = NULL,
     y = "Average Mentions of Partner"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -88,15 +87,14 @@ partner_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, partner),
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
-    panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA)
-  )
+    panel.grid.minor = element_blank()
+    )
 
 share_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, share), y = share)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Share by Category",
-    x = "App Category",
+    x = NULL,
     y = "Average Mentions of Share"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -106,15 +104,14 @@ share_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, share), y =
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
-    panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA)
-  )
+    panel.grid.minor = element_blank()
+    )
 
 process_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, process), y = process)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Process by Category",
-    x = "App Category",
+    x = NULL,
     y = "Average Mentions of Process"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -124,15 +121,14 @@ process_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, process),
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
-    panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA)
-  )
+    panel.grid.minor = element_blank()
+    )
 
 advert_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, advert), y = advert)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Advert by Category",
-    x = "App Category",
+    x = NULL,
     y = "Average Mentions of Advert"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -142,15 +138,14 @@ advert_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, advert), y
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
-    panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA)
-  )
+    panel.grid.minor = element_blank()
+    )
 
 delete_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, delete), y = delete)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Delete by Category",
-    x = "App Category",
+    x = NULL,
     y = "Average Mentions of Delete"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -160,9 +155,8 @@ delete_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, delete), y
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
-    panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA)
-  )
+    panel.grid.minor = element_blank()
+    )
 
 advert_plot
 delete_plot

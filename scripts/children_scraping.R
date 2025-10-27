@@ -60,10 +60,10 @@ children_plot <- ggplot(children_by_category, aes(x = reorder(Category,
   ) +
   theme_minimal(base_family="atkinson") +
   theme(
-    plot.title = element_text(face = "bold", size = 18, hjust = 0.5, color = "#202124"),
-    axis.title = element_text(face = "bold", size = 14),
-    axis.text.x = element_text(angle = 30, hjust = 1, size = 12, color = "#333333"),
-    axis.text.y = element_text(size = 12, color = "#333333"),
+    plot.title = element_text(face = "bold", size = 30, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 26),
+    axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
+    axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
     panel.grid.minor = element_blank(),
     plot.background = element_rect(fill = "#FAFAF7", color = NA)
@@ -73,8 +73,7 @@ children_plot <- ggplot(children_by_category, aes(x = reorder(Category,
 children_plot
 
 # Export the graph
-ggsave(path.expand("~/Documents/GitHub/consumer-data/figures/mentions_children_by_category.png"),
-       plot = children_plot)
+ggsave("../figures/mentions_children_by_category.png", plot = children_plot)
 
 
 
