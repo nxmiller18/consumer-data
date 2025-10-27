@@ -55,7 +55,7 @@ children_plot <- ggplot(children_by_category, aes(x = reorder(Category,
   scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
   labs(
     title = 'Percent of Apps Whose Privacy Policies Mention "Children"',
-    x = "App Category",
+    x = NULL,
     y = "% Mentioning Children"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -65,8 +65,7 @@ children_plot <- ggplot(children_by_category, aes(x = reorder(Category,
     axis.text.x = element_text(angle = 45, hjust = 1, size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
     panel.grid.major = element_line(color = "#E6E6E6"),
-    panel.grid.minor = element_blank(),
-    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+    panel.grid.minor = element_blank()
   )
 
 # Display the plot
