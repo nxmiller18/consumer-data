@@ -59,7 +59,7 @@ keywords_by_category <- keywords |>
 third_party_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, third_party), y = third_party)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
-    title = "Average Mentions of Third Party by Category",
+    title = 'Average Mentions of "Third Party" by Category',
     x = NULL,
     y = "Average Mentions of Third Party"
   ) +
@@ -76,7 +76,7 @@ third_party_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, third
 partner_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, partner), y = partner)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
-    title = "Average Mentions of Partner by Category",
+    title = 'Average Mentions of "Partner" by Category',
     x = NULL,
     y = "Average Mentions of Partner"
   ) +
@@ -93,7 +93,7 @@ partner_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, partner),
 share_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, share), y = share)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
-    title = "Average Mentions of Share by Category",
+    title = 'Average Mentions of "Share" by Category',
     x = NULL,
     y = "Average Mentions of Share"
   ) +
@@ -110,7 +110,7 @@ share_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, share), y =
 process_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, process), y = process)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
-    title = "Average Mentions of Process by Category",
+    title = 'Average Mentions of "Process" by Category',
     x = NULL,
     y = "Average Mentions of Process"
   ) +
@@ -127,7 +127,7 @@ process_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, process),
 advert_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, advert), y = advert)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
-    title = "Average Mentions of Advert by Category",
+    title = 'Average Mentions of "Advert" by Category',
     x = NULL,
     y = "Average Mentions of Advert"
   ) +
@@ -144,7 +144,7 @@ advert_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, advert), y
 delete_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, delete), y = delete)) +
   geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
-    title = "Average Mentions of Delete by Category",
+    title = 'Average Mentions of "Delete" by Category',
     x = NULL,
     y = "Average Mentions of Delete"
   ) +
