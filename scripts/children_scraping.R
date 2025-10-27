@@ -7,6 +7,10 @@ setwd("~/Documents/GitHub/consumer-data/scripts/")
 library(tidyverse)
 library(readxl)
 library(stringr)
+library(showtext)
+
+showtext_auto()
+font_add_google("Atkinson Hyperlegible", "atkinson")
 
 # Reading in data
 policy.texts <- read.csv("../data/all_privacy_policies.csv")
@@ -47,15 +51,23 @@ children_by_category <- merged |>
 # Create bar chart of average mentions of "children" by category
 children_plot <- ggplot(children_by_category, aes(x = reorder(Category, 
                                         prop_children), y = prop_children)) +
-  geom_col(show.legend=F) +
+  geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   scale_y_continuous(labels = scales::percent_format(accuracy = 1)) +
   labs(
     title = 'Percent of Apps Whose Privacy Policies Mention "Children"',
     x = "App Category",
     y = "% Mentioning Children"
   ) +
-  theme_minimal(base_size = 12) +
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 10, color = "#333333"),
+    axis.text.y = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+  )
 
 # Display the plot
 children_plot

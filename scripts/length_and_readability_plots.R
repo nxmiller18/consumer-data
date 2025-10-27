@@ -9,6 +9,10 @@ library(readxl)
 library(stringr)
 library(quanteda)
 library(quanteda.textstats)
+library(showtext)
+
+showtext_auto()
+font_add_google("Atkinson Hyperlegible", "atkinson")
 
 # Read in data frames for average length by category visualization
 policy_texts <- read.csv("all_privacy_policies.csv")
@@ -36,13 +40,23 @@ merged <- app_list |>
 
 # Create violin plot of privacy policy lengths by category
 policy_length_dist <- ggplot(merged, aes(x=reorder(Category, word.count, FUN=median), y=word.count)) +
-  geom_violin(fill="skyblue", color="black", alpha=0.7, show.legend=FALSE) +
+  geom_violin(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
+  stat_summary(fun=median, geom="point", shape=23, size=2, fill="white") +
   labs(
     title="Distribution of Privacy Policy Word Counts by App Category",
     x="App Category",
     y="Word Count"
   ) +
-  theme_minimal()
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title=element_text(face="bold", size=16, hjust=0.5, color="#202124"),
+    axis.title=element_text(face="bold", size=12),
+    axis.text.x=element_text(angle=30, hjust=1, size=10, color="#333333"),
+    axis.text.y=element_text(size=10, color="#333333"),
+    panel.grid.major=element_line(color="#E6E6E6"),
+    panel.grid.minor=element_blank(),
+    plot.background=element_rect(fill="#FAFAF7", color=NA)
+  )
 
 policy_length_dist
 
@@ -62,13 +76,23 @@ merged_readability <- merged |>
 
 readability_scatter <- 
   ggplot(merged_readability, aes(x=time, y=Flesch, color=Category)) +
-  geom_point(alpha=0.7, size=2) +
-  theme_minimal(base_size=12) +
+  geom_point(alpha=0.7, size=3) +
   labs(
     title="Reading Time and Readability Scores",
     x="Average Time to Read Policy (Minutes)",
     y="Flesch Readability Score (0-100)",
     color="App Category"
+  ) +
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA),
+    legend.title = element_text(face = "bold", size = 11),
+    legend.text = element_text(size = 10)
   )
 
 readability_scatter

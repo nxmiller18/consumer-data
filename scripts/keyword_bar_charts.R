@@ -7,13 +7,17 @@ setwd("~/GitHub/consumer-data/data")
 library(tidyverse)
 library(readxl)
 library(stringr)
+library(showtext)
+
+showtext_auto()
+font_add_google("Atkinson Hyperlegible", "atkinson")
 
 # Reading in data
 policy_texts <- read.csv("../data/all_privacy_policies.csv")
 app_list <- read.csv("../data/privacy_policy_list.csv")
 
 # Clean names of apps in app.list to prepare for merge
-app_list <- app.list |>
+app_list <- app_list |>
   mutate(
     app = App.Name |>
       str_replace_all("[^A-Za-z]", ".")
@@ -53,64 +57,112 @@ keywords_by_category <- keywords |>
   )
 
 third_party_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, third_party), y = third_party)) +
-  geom_col(show.legend=F) +
+  geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Third Party by Category",
     x = "App Category",
     y = "Average Mentions of Third Party"
   ) +
-  theme_minimal(base_size = 12) +
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 10, color = "#333333"),
+    axis.text.y = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+  )
 
 partner_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, partner), y = partner)) +
-  geom_col(show.legend=F) +
+  geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Partner by Category",
     x = "App Category",
     y = "Average Mentions of Partner"
   ) +
-  theme_minimal(base_size = 12) +
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 10, color = "#333333"),
+    axis.text.y = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+  )
 
 share_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, share), y = share)) +
-  geom_col(show.legend=F) +
+  geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Share by Category",
     x = "App Category",
     y = "Average Mentions of Share"
   ) +
-  theme_minimal(base_size = 12) +
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 10, color = "#333333"),
+    axis.text.y = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+  )
 
 process_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, process), y = process)) +
-  geom_col(show.legend=F) +
+  geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Process by Category",
     x = "App Category",
     y = "Average Mentions of Process"
   ) +
-  theme_minimal(base_size = 12) +
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 10, color = "#333333"),
+    axis.text.y = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+  )
 
 advert_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, advert), y = advert)) +
-  geom_col(show.legend=F) +
+  geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
-    title = "Average Mentions of Advertising by Category",
+    title = "Average Mentions of Advert by Category",
     x = "App Category",
-    y = "Average Mentions of Advertising"
+    y = "Average Mentions of Advert"
   ) +
-  theme_minimal(base_size = 12) +
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 10, color = "#333333"),
+    axis.text.y = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+  )
 
 delete_plot <- ggplot(keywords_by_category, aes(x = reorder(Category, delete), y = delete)) +
-  geom_col(show.legend=F) +
+  geom_col(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
   labs(
     title = "Average Mentions of Delete by Category",
     x = "App Category",
     y = "Average Mentions of Delete"
   ) +
-  theme_minimal(base_size = 12) +
-  theme(axis.text.x = element_text(angle = 30, hjust = 1))
+  theme_minimal(base_family="atkinson") +
+  theme(
+    plot.title = element_text(face = "bold", size = 16, hjust = 0.5, color = "#202124"),
+    axis.title = element_text(face = "bold", size = 12),
+    axis.text.x = element_text(angle = 30, hjust = 1, size = 10, color = "#333333"),
+    axis.text.y = element_text(size = 10, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank(),
+    plot.background = element_rect(fill = "#FAFAF7", color = NA)
+  )
 
 ggsave("../figures/advert_mentions.png", plot=advert_plot)
 ggsave("../figures/delete_mentions.png", plot=delete_plot)
