@@ -1,6 +1,6 @@
 # AUTHOR: Natalie Miller
 # PURPOSE: Create a preliminary network diagram
-# OUTPUTS:
+# OUTPUTS: policy_bigram_network.png
 
 setwd("~/GitHub/consumer-data/data")
 
