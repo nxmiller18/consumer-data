@@ -33,6 +33,7 @@ merged <- app_list |>
   left_join(policy_texts, by="app") |>
   select(app, Category, file, text)
 
+# Create list of "common" words that shouldn't be included
 data("stop_words")
 preset_stopwords <- stop_words$word
 custom_stopwords <- c("information", "additional", "including", "policy", "applicable",
@@ -40,15 +41,18 @@ custom_stopwords <- c("information", "additional", "including", "policy", "appli
 
 stopwords <- c(preset_stopwords, custom_stopwords)
 
+# Separates data frame to contain one row for each paragraph in a policy, with a paragraph_id variable
 merged_paragraphs <- merged |>
   mutate(paragraphs = str_split(text, "\\n\\s*")) |>
   unnest(paragraphs) |>
   filter(str_squish(paragraphs) != "") |>
   mutate(paragraph_id = row_number())
 
+# Creates list of bigrams
 bigrams <- merged_paragraphs |>
   unnest_tokens(bigram, paragraphs, token="ngrams", n=2)
 
+# Removes bigrams that contain the stopwords
 bigrams_clean <- bigrams |>
   separate(bigram, into=c("word1", "word2"), sep = " ") |>
   filter(!word1 %in% stopwords, !word2 %in% stopwords) |>

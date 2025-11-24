@@ -73,4 +73,25 @@ policy_texts <- tibble(
 
 # Export combined dataframe
 write.csv(policy_texts, "all_privacy_policies.csv", row.names = F)
-                  
+
+--
+library(chromote)
+library(rvest)
+
+b <- ChromoteSession$new()
+b$Page$navigate("https://lifesum.com/privacy-policy.html")
+Sys.sleep(3) # allow JS to finish loading
+
+# Step 1: get nodeId
+doc <- b$DOM$getDocument()
+node_id <- doc$root$nodeId
+
+# Step 2: get outer HTML via nodeId
+html_text <- b$DOM$getOuterHTML(nodeId = node_id)$outerHTML
+
+# Step 3: parse it with rvest
+page <- read_html(html_text)
+
+page %>% html_text() %>% substr(1, 500) # peek at content
+
+              
