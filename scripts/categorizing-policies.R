@@ -2,7 +2,7 @@
 # PURPOSE: Categorize scraped policies on whether or not they deal with sensitive data
 # OUTPUTS: all_privacy_policies.csv [step 2: see scraping-policies.R]
 
-setwd("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/data")
+setwd("~/GitHub/consumer-data/data")
 
 library(tidyverse)
 library(rvest)

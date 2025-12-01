@@ -2,7 +2,7 @@
 # PURPOSE: Scrape privacy policies and compile into one data frame for textual analysis
 # OUTPUTS: privacy policy .txt files, all_privacy_policies.csv [step 1: see categorizing-policies.R]
 
-setwd("C:/Users/natal/OneDrive/Documents/GitHub/consumer-data/data")
+setwd("~/GitHub/consumer-data/data")
 
 library(tidyverse)
 library(rvest)
