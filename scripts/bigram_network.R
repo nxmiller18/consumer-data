@@ -37,7 +37,7 @@ merged <- app_list |>
 data("stop_words")
 preset_stopwords <- stop_words$word
 custom_stopwords <- c("information", "additional", "including", "policy", "applicable",
-                      "app", "social", "legal", "privacy", "device", "protection")
+                      "app", "social", "legal", "privacy", "device", "protection", "ten")
 
 stopwords <- c(preset_stopwords, custom_stopwords)
 
@@ -58,13 +58,13 @@ bigrams_clean <- bigrams |>
   filter(!word1 %in% stopwords, !word2 %in% stopwords) |>
   unite(bigram, word1, word2, sep = " ")
 
+# Count the number of times each bigram appears in a paragraph with every other bigram
 co_occurrence <- bigrams_clean |>
   pairwise_count(item = bigram, feature = paragraph_id, sort = T)
 
-bigram_counts <- bigrams_clean |>
-  count(bigram, sort=T)
 
-top_bigrams <- bigram_counts |>
+top_bigrams <- bigrams_clean |>
+  count(bigram, sort=T) |>
   slice_max(n, n=20)
 
 top_co_occurrence <- co_occurrence |>
