@@ -45,12 +45,14 @@ policy_length_dist <- ggplot(
   ) +
   theme_minimal(base_family="atkinson") +
   theme(
-    plot.title=element_text(face="bold", size=30, hjust=0.5, color="#202124"),
-    axis.title=element_text(face="bold", size=26),
-    axis.text.x=element_text(angle=45, hjust=1, size=24, color="#333333"),
-    axis.text.y=element_text(size=24, color="#333333"),
-    panel.grid.major=element_line(color="#E6E6E6"),
-    panel.grid.minor=element_blank()
+    plot.title = element_text(face = "bold", size = 30, hjust = 0.5, color = "#202124"),
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA),
+    axis.title = element_text(face = "bold", size = 26),
+    axis.text.x = element_text(size = 24, color = "#333333"),
+    axis.text.y = element_text(size = 24, color = "#333333"),
+    panel.grid.major = element_line(color = "#E6E6E6"),
+    panel.grid.minor = element_blank()
   )
 
 policy_length_dist
@@ -101,11 +103,21 @@ readability_scatter <- ggplot(
     panel.grid.major = element_line(color = "#E6E6E6"),
     panel.grid.minor = element_blank(),
     legend.title = element_text(face = "bold", size = 25),
-    legend.text = element_text(size = 24)
+    legend.text = element_text(size = 24),
+    legend.position = "right"
   )
 
 readability_scatter
 
 # Export graphs
-ggsave("../figures/length_dists_by_sensitivity.png", plot=policy_length_dist)
-ggsave("../figures/read_time_vs_readability.png", plot=readability_scatter)
+ggsave("../figures/length_dists_by_sensitive_data.png", 
+       plot = policy_length_dist, 
+       width = 7, 
+       height = 4, 
+       dpi = 300)
+
+ggsave("../figures/read_time_vs_readability_sensitive.png", 
+       plot = readability_scatter, 
+       width = 7, 
+       height = 4, 
+       dpi = 300)
