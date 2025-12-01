@@ -16,35 +16,31 @@ font_add_google("Atkinson Hyperlegible", "atkinson")
 
 # Read in data frames for average length by category visualization
 policy_texts <- read.csv("all_privacy_policies.csv")
-app_list <- read.csv("privacy_policy_list.csv")
 
-# Measure word length of each privacy policy
 policy_texts <- policy_texts |>
   mutate(
-    word.count = str_count(text, boundary("word"))
+    sensitivity_level = factor(
+      sensitivity_level,
+      levels=c("Minimal", "Low", "Medium", "High")
+    )
   )
 
-# Clean names of apps in app.list to prepare for merge
-app_list <- app_list |>
-  mutate(
-    app = App.Name |>
-      str_replace_all("[^A-Za-z]", ".")
-  ) |>
-  mutate_all(~str_remove(., "\\.$")) |>
-  mutate_all(~str_remove(., "\\.$"))
-
-# Merge app.list and data frame with privacy policies
-merged <- app_list |>
-  left_join(policy_texts, by="app") |>
-  select(app, Category, file, text, word.count)
-
 # Create violin plot of privacy policy lengths by category
-policy_length_dist <- ggplot(merged, aes(x=reorder(Category, word.count, FUN=median), y=word.count)) +
-  geom_violin(fill="#5A9BD5", color="#202124", alpha=0.7, show.legend=F) +
+policy_length_dist <- ggplot(
+  policy_texts, 
+  aes(x=sensitivity_level, y=word_count, fill=sensitivity_level)
+  ) +
+  geom_violin(color="#202124", alpha=0.7, show.legend=F) +
   stat_summary(fun=median, geom="point", shape=23, size=2, fill="white") +
+  scale_fill_manual(values=c(
+    "Minimal" = "#4CAF50",
+    "Low" = "#FFC107",
+    "Medium" = "#FF9800",
+    "High" = "#F44336"
+  )) +
   labs(
-    title="Distribution of Privacy Policy Word Counts by App Category",
-    x="App Category",
+    title="Privacy Policy Length by Sensitive Data Usage",
+    x="Data Sensitivity Level",
     y="Word Count"
   ) +
   theme_minimal(base_family="atkinson") +
@@ -61,23 +57,38 @@ policy_length_dist
 
 # Calculate app policy reading times
 
-merged <- merged |>
-  mutate(time=word.count/238) |>
-  mutate(clean.text=str_squish(text))
+policy_texts <- policy_texts |>
+  mutate(time=word_count/238,
+         clean_text=str_squish(text))
 
-policy_corpus <- corpus(merged$clean.text, docnames = merged$app)
+policy_corpus <- corpus(policy_texts$clean_text, docnames = policy_texts$app)
 
 readability_scores <- textstat_readability(policy_corpus, measure = c("Flesch", "FOG")) |>
   rename(app=document)
 
-merged_readability <- merged |>
+policy_texts <- policy_texts |>
   left_join(readability_scores, by="app")
 
-readability_scatter <- 
-  ggplot(merged_readability, aes(x=time, y=Flesch, color=Category)) +
+readability_scatter <- ggplot(
+  policy_texts, 
+  aes(x=time, y=Flesch, color=sensitivity_level, shape=sensitivity_level)
+  ) +
   geom_point(alpha=0.7, size=3) +
+  scale_color_manual(
+    values=c(
+    "Minimal" = "#4CAF50",
+    "Low" = "#FFC107",
+    "Medium" = "#FF9800",
+    "High" = "#F44336"
+    ),
+    name="Sensitive Data"
+  ) +
+  scale_shape_manual(
+    values = c("Minimal" = 16, "Low" = 17, "Medium" = 15, "High" = 18),
+    name = "Sensitive Data"
+  ) +
   labs(
-    title="Reading Time and Readability Scores",
+    title="Reading Time and Readability Scores by Sensitive Data",
     x="Average Time to Read Policy (Minutes)",
     y="Flesch Readability Score (0-100)",
     color="App Category"
@@ -96,5 +107,5 @@ readability_scatter <-
 readability_scatter
 
 # Export graphs
-ggsave("../figures/length_dists_by_category.png", plot=policy_length_dist)
+ggsave("../figures/length_dists_by_sensitivity.png", plot=policy_length_dist)
 ggsave("../figures/read_time_vs_readability.png", plot=readability_scatter)
