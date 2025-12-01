@@ -36,9 +36,7 @@ unavoidable_phrases <- c(
   "law enforcement"
 )
 
-# ============================================================================
-# PART 1: FREQUENCY ANALYSIS BY SENSITIVE DATA CATEGORY
-# ============================================================================
+# PART 1: FREQUENCY ANALYSIS
 
 # Ensure sensitive data categorization is present
 policy_texts <- policy_texts %>%
@@ -121,9 +119,7 @@ frequency_plot <- ggplot(
 
 frequency_plot
 
-# ============================================================================
-# PART 2: KWIC (Keywords in Context) ANALYSIS
-# ============================================================================
+# PART 2: KEY WORD IN CONTEXT ANALYSIS
 
 # Create corpus
 policy_corpus <- corpus(policy_texts$text, docnames = policy_texts$app)
@@ -172,9 +168,7 @@ for (phrase_name in top_phrases) {
   }
 }
 
-# ============================================================================
 # PART 3: DOCUMENT POSITION HEATMAP
-# ============================================================================
 
 # Function to calculate relative position of phrase occurrences in text
 get_phrase_positions <- function(text, phrases) {
