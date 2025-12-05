@@ -77,7 +77,7 @@ policy_time_dist <- ggplot(
     axis.title = element_text(face = "bold", size = 26),
     axis.text.x = element_text(size = 24, color = "#333333"),
     axis.text.y = element_text(size = 24, color = "#333333"),
-    axis.title.y = element_text(margin = margin(r = 10)),
+    axis.title.y = element_text(margin = margin(r = 15)),
     panel.grid.major = element_line(color = "#E6E6E6"),
     panel.grid.minor = element_blank()
   )

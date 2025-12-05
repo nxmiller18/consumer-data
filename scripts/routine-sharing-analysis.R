@@ -14,16 +14,12 @@ font_add_google("Atkinson Hyperlegible", "atkinson")
 # Read in privacy policy data
 policy_texts <- read.csv("all_privacy_policies.csv")
 
-# Define vague nouns (from previous analysis)
-vague_nouns <- c(
-  "service providers",
-  "affiliates", 
-  "vendors",
-  "business partners",
-  "certain partners",
-  "trusted third parties",
-  "other entities",
-  "selected organizations"
+# Define sharing verbs (will match variations: share, shares, shared, sharing, etc.)
+sharing_verbs <- c(
+  "shar(e|es|ed|ing)",
+  "disclos(e|es|ed|ing)",
+  "provid(e|es|ed|ing)",
+  "transfer(s|red|ring)?"
 )
 
 # Define routine sharing keywords/phrases
@@ -67,7 +63,7 @@ extract_paragraph_details <- function(text, app_name, sensitive_cat) {
   text_length <- nchar(text_clean, type = "chars")
   
   # Create patterns
-  vague_pattern <- regex(paste(vague_nouns, collapse = "|"), ignore_case = TRUE)
+  share_pattern <- regex(paste(sharing_verbs, collapse = "|"), ignore_case = TRUE)
   
   results <- tibble()
   current_position <- 1
@@ -76,10 +72,10 @@ extract_paragraph_details <- function(text, app_name, sensitive_cat) {
     para <- paragraphs[i]
     para_length <- nchar(para, type = "chars")
     
-    # Check if paragraph has both vague noun and routine phrase
-    has_vague <- str_detect(para, vague_pattern)
+    # Check if paragraph has both sharing verb and routine phrase
+    has_share <- str_detect(para, share_pattern)
     
-    if (has_vague) {
+    if (has_share) {
       # Find which routine phrases appear (any of them)
       routine_found <- routine_phrases[str_detect(para, regex(routine_phrases, ignore_case = TRUE))]
       
@@ -165,8 +161,8 @@ frequency_plot <- phrase_counts %>%
     name = "Sensitive Data"
   ) +
   labs(
-    title = "Paragraphs with 'Routine Sharing' Language",
-    subtitle = "Co-occurring with vague noun references, by sensitive data category",
+    title = "Paragraphs with 'Routine' Language",
+    subtitle = "Co-occurring with sharing verbs, by sensitive data category",
     x = "Phrase",
     y = "Number of Paragraphs"
   ) +
@@ -185,8 +181,6 @@ frequency_plot <- phrase_counts %>%
   )
 
 frequency_plot
-
-
 
 # PART 2: KEY WORDS IN CONTEXT
 
@@ -213,51 +207,6 @@ if (nrow(all_paragraphs) > 0) {
     rename(phrase = pattern)
 }
 
-# PART 3: DOCUMENT POSITION HEATMAPS
-
-if (nrow(all_paragraphs) > 0) {
-  # Create bins for document position (one entry per paragraph)
-  position_binned <- all_paragraphs %>%
-    count(position_bin) %>%
-    complete(position_bin = paste0(seq(0, 90, 10), "-", seq(10, 100, 10), "%"), 
-             fill = list(n = 0))
-  
-  # Create heatmap showing distribution across document (vertical)
-  position_heatmap <- ggplot(
-    position_binned,
-    aes(x = 1, y = factor(position_bin, levels = paste0(seq(0, 90, 10), "-", seq(10, 100, 10), "%")), fill = n)
-  ) +
-    geom_tile(color = "white", linewidth = 1) +
-    geom_text(aes(label = n), size = 8, family = "atkinson", fontface = "bold") +
-    scale_fill_gradient(
-      low = "#FFF5F5",
-      high = "#81C784",
-      name = "Paragraphs"
-    ) +
-    scale_y_discrete(limits = rev) +
-    labs(
-      title = "Position of Routine Language with Vague Nouns",
-      subtitle = "Number of paragraphs at each document position",
-      x = "",
-      y = "Position in Document"
-    ) +
-    theme_minimal(base_family = "atkinson") +
-    theme(
-      plot.title = element_text(face = "bold", size = 30, hjust = 0.5, color = "#202124"),
-      plot.subtitle = element_text(size = 20, hjust = 0.5, color = "#666666", margin = margin(b = 15)),
-      axis.title.x = element_blank(),
-      axis.title.y = element_text(face = "bold", size = 26),
-      axis.text.x = element_blank(),
-      axis.text.y = element_text(size = 24, color = "#333333"),
-      panel.grid = element_blank(),
-      legend.title = element_text(face = "bold", size = 25),
-      legend.text = element_text(size = 24),
-      legend.position = "right"
-    )
-}
-
-position_heatmap
-
 # Save KWIC results
 write.csv(kwic_df, "routine_kwic.csv", row.names = FALSE)
 
@@ -266,11 +215,4 @@ ggsave("../figures/routine_frequency.png",
        plot = frequency_plot, 
        width = 8, 
        height = 6, 
-       dpi = 300)
-
-# Save heatmap
-ggsave("../figures/routine_position_heatmap.png", 
-       plot = position_heatmap, 
-       width = 7, 
-       height = 7, 
        dpi = 300)

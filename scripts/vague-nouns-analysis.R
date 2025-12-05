@@ -23,7 +23,7 @@ policy_texts <- read.csv("all_privacy_policies.csv")
 vague_nouns <- c(
   "certain partners", 
   "affiliates", 
-  "trusted third parties", 
+  "third parties", 
   "service providers", 
   "vendors", 
   "other entities", 
