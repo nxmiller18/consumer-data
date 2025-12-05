@@ -44,43 +44,66 @@ unavoidable_phrases <- c(
   "as required by"
 )
 
-# CLEAN FOR PARAGRAPHS WITH VAGUE NOUNS + UNAVOIDABLE SHARING
+# ============================================================================
+# EXTRACT PARAGRAPHS WITH BOTH VAGUE NOUNS AND UNAVOIDABLE LANGUAGE
+# ============================================================================
 
-# Function to extract paragraphs that contain BOTH vague nouns AND unavoidable phrases
-extract_relevant_paragraphs <- function(text) {
+# Function to extract detailed paragraph info
+extract_paragraph_details <- function(text, app_name, sensitive_cat) {
+  # Clean text
+  text_clean <- iconv(text, from = "UTF-8", to = "UTF-8", sub = "")
+  if (is.na(text_clean) || text_clean == "") {
+    return(tibble())
+  }
+  
   # Split into paragraphs
-  paragraphs <- str_split(text, "\n+")[[1]]
+  paragraphs <- str_split(text_clean, "\n+")[[1]]
+  text_length <- nchar(text_clean, type = "chars")
   
   # Create patterns
   vague_pattern <- regex(paste(vague_nouns, collapse = "|"), ignore_case = TRUE)
-  unavoidable_pattern <- regex(paste(unavoidable_phrases, collapse = "|"), ignore_case = TRUE)
   
-  # Find paragraphs with BOTH
-  has_vague <- str_detect(paragraphs, vague_pattern)
-  has_unavoidable <- str_detect(paragraphs, unavoidable_pattern)
+  results <- tibble()
+  current_position <- 1
   
-  relevant_paragraphs <- paragraphs[has_vague & has_unavoidable]
+  for (i in seq_along(paragraphs)) {
+    para <- paragraphs[i]
+    para_length <- nchar(para, type = "chars")
+    
+    # Check if paragraph has BOTH vague noun AND unavoidable phrase
+    has_vague <- str_detect(para, vague_pattern)
+    
+    if (has_vague) {
+      # Find which unavoidable phrases appear (any of them)
+      unavoidable_found <- unavoidable_phrases[str_detect(para, regex(unavoidable_phrases, ignore_case = TRUE))]
+      
+      if (length(unavoidable_found) > 0) {
+        # Calculate relative position (middle of paragraph)
+        relative_position <- (current_position + para_length / 2) / text_length
+        position_bin <- cut(relative_position, 
+                            breaks = seq(0, 1, by = 0.1),
+                            labels = paste0(seq(0, 90, 10), "-", seq(10, 100, 10), "%"),
+                            include.lowest = TRUE)
+        
+        # One row per PARAGRAPH (not per phrase)
+        results <- bind_rows(results, tibble(
+          app = app_name,
+          sensitive_cat = sensitive_cat,
+          paragraph_num = i,
+          position = relative_position,
+          position_bin = as.character(position_bin),
+          phrases_in_paragraph = paste(unavoidable_found, collapse = "; "),
+          num_phrases = length(unavoidable_found),
+          paragraph_text = str_trunc(para, 200)
+        ))
+      }
+    }
+    
+    current_position <- current_position + para_length + 1
+  }
   
-  return(relevant_paragraphs)
+  return(results)
 }
-
-# Extract relevant paragraphs for all policies
-relevant_paragraphs_data <- policy_texts %>%
-  mutate(
-    relevant_paragraphs = map(text, extract_relevant_paragraphs)
-  ) %>%
-  select(app, text, relevant_paragraphs) %>%
-  mutate(
-    num_relevant_paragraphs = map_int(relevant_paragraphs, length)
-  )
-
-cat("\n=== Paragraph Extraction ===\n")
-cat("Policies with co-occurring paragraphs:", 
-    sum(relevant_paragraphs_data$num_relevant_paragraphs > 0), 
-    "out of", nrow(policy_texts), "\n")
-cat("Total relevant paragraphs:", sum(relevant_paragraphs_data$num_relevant_paragraphs), "\n\n")
-
-# PART 1: FREQUENCY ANALYSIS
 
 # Ensure sensitive data categorization is present
 policy_texts <- policy_texts %>%
@@ -91,48 +114,38 @@ policy_texts <- policy_texts %>%
     )
   )
 
-# Count occurrences of each phrase ONLY in relevant paragraphs (those with vague nouns)
-count_unavoidable_in_relevant_paragraphs <- function(relevant_paragraphs, phrases) {
-  # Combine all relevant paragraphs into one text
-  combined_text <- paste(relevant_paragraphs, collapse = " ")
-  
-  counts <- map_int(phrases, ~str_count(combined_text, regex(.x, ignore_case = TRUE)))
-  names(counts) <- phrases
-  return(counts)
-}
-
-# Apply to all policies using relevant paragraphs
-unavoidable_counts <- relevant_paragraphs_data %>%
-  left_join(policy_texts %>% select(app, deals_with_sensitive_data), by = "app") %>%
+# Extract all relevant paragraphs with details
+cat("\n=== Extracting Paragraphs ===\n")
+all_paragraphs <- policy_texts %>%
   mutate(
-    phrase_counts = map(relevant_paragraphs, ~count_unavoidable_in_relevant_paragraphs(.x, unavoidable_phrases))
+    para_details = pmap(list(text, app, deals_with_sensitive_data), 
+                        ~extract_paragraph_details(..1, ..2, ..3))
   ) %>%
-  select(app, deals_with_sensitive_data, phrase_counts) %>%
-  unnest_wider(phrase_counts)
+  select(para_details) %>%
+  unnest(para_details)
 
-# Convert to long format
-unavoidable_counts_long <- unavoidable_counts %>%
-  pivot_longer(
-    cols = -c(app, deals_with_sensitive_data),
-    names_to = "phrase",
-    values_to = "count"
-  )
+# PART 1: FREQUENCY ANALYSIS
 
-# Calculate total counts by phrase and sensitivity category
-counts_by_category <- unavoidable_counts_long %>%
-  group_by(phrase, deals_with_sensitive_data) %>%
-  summarise(total = sum(count), .groups = "drop") %>%
+# Count paragraphs containing each phrase (a paragraph can contain multiple phrases)
+# We'll count how many paragraphs contain each phrase
+phrase_counts <- all_paragraphs %>%
+  # For each paragraph, create one row per phrase it contains
+  mutate(phrases_list = str_split(phrases_in_paragraph, "; ")) %>%
+  unnest(phrases_list) %>%
+  # Count unique paragraphs per phrase and category
+  group_by(phrases_list, sensitive_cat) %>%
+  summarise(n_paragraphs = n(), .groups = "drop") %>%
+  rename(phrase = phrases_list)
+
+# Calculate totals for ordering
+phrase_totals <- phrase_counts %>%
   group_by(phrase) %>%
-  mutate(overall_total = sum(total)) %>%
-  ungroup() %>%
-  filter(overall_total > 0) %>%  # Only keep phrases that appear at least once
-  arrange(desc(overall_total))
+  summarise(total = sum(n_paragraphs), .groups = "drop")
 
 # Create stacked bar chart
-frequency_plot <- ggplot(
-  counts_by_category, 
-  aes(x = reorder(phrase, overall_total), y = total, fill = deals_with_sensitive_data)
-) +
+frequency_plot <- phrase_counts %>%
+  left_join(phrase_totals, by = "phrase") %>%
+  ggplot(aes(x = reorder(phrase, total), y = n_paragraphs, fill = sensitive_cat)) +
   geom_col() +
   coord_flip() +
   scale_fill_manual(
@@ -145,15 +158,15 @@ frequency_plot <- ggplot(
     name = "Sensitive Data"
   ) +
   labs(
-    title = "Frequency of 'Unavoidable Sharing' Language",
-    subtitle = "By Sensitive Data Category",
+    title = "Paragraphs with 'Unavoidable Sharing' Language",
+    subtitle = "Co-occurring with vague noun references, by sensitive data category",
     x = "Phrase",
-    y = "Total Occurrences"
+    y = "Number of Paragraphs"
   ) +
   theme_minimal(base_family = "atkinson") +
   theme(
     plot.title = element_text(face = "bold", size = 30, hjust = 0.5, color = "#202124"),
-    plot.subtitle = element_text(size = 24, hjust = 0.5, color = "#666666", margin = margin(b = 15)),
+    plot.subtitle = element_text(size = 20, hjust = 0.5, color = "#666666", margin = margin(b = 15)),
     axis.title = element_text(face = "bold", size = 26),
     axis.text = element_text(size = 24, color = "#333333"),
     panel.grid.major.y = element_blank(),
@@ -168,136 +181,54 @@ frequency_plot
 
 # PART 2: KEY WORDS IN CONTEXT
 
-# Create corpus from ONLY relevant paragraphs (those with both vague nouns and unavoidable language)
-relevant_paragraphs_expanded <- relevant_paragraphs_data %>%
-  select(app, relevant_paragraphs) %>%
-  unnest(relevant_paragraphs) %>%
-  filter(str_length(relevant_paragraphs) > 0)
-
-if (nrow(relevant_paragraphs_expanded) > 0) {
-  # Create corpus
-  relevant_corpus <- corpus(relevant_paragraphs_expanded$relevant_paragraphs, 
-                            docnames = paste0(relevant_paragraphs_expanded$app, "_", 
-                                              seq_len(nrow(relevant_paragraphs_expanded))))
+if (nrow(all_paragraphs) > 0) {
+  # Create corpus from paragraphs
+  relevant_corpus <- corpus(all_paragraphs$paragraph_text, 
+                            docnames = paste0(all_paragraphs$app, "_", 
+                                              seq_len(nrow(all_paragraphs))))
   
   # Generate KWIC for all unavoidable phrases
   kwic_results <- kwic(
     tokens(relevant_corpus, remove_punct = FALSE),
     pattern = phrase(unavoidable_phrases),
-    window = 15,  # 15 words on each side for more context
+    window = 15,
     valuetype = "regex",
     case_insensitive = TRUE
   )
   
-  # Convert to dataframe and clean up
+  # Convert to dataframe
   kwic_df <- as.data.frame(kwic_results) %>%
     select(docname, from, to, pre, keyword, post, pattern) %>%
     mutate(app = str_remove(docname, "_\\d+$")) %>%
-    select(app, docname, from, to, pre, keyword, post, pattern) %>%
+    select(app, from, to, pre, keyword, post, pattern) %>%
     rename(phrase = pattern)
 }
 
 # PART 3: DOCUMENT POSITION HEATMAP
 
-# Function to calculate relative position of paragraphs containing both vague nouns and unavoidable phrases
-get_paragraph_positions <- function(text) {
-  # Clean text for encoding issues first
-  text_clean <- iconv(text, from = "UTF-8", to = "UTF-8", sub = "")
-  if (is.na(text_clean) || text_clean == "") {
-    return(tibble(phrase = character(), position = numeric()))
-  }
+if (nrow(all_paragraphs) > 0) {
+  # Create bins for document position (one entry per paragraph)
+  position_binned <- all_paragraphs %>%
+    count(position_bin) %>%
+    complete(position_bin = paste0(seq(0, 90, 10), "-", seq(10, 100, 10), "%"), 
+             fill = list(n = 0))
   
-  # Split into paragraphs
-  paragraphs <- str_split(text_clean, "\n+")[[1]]
-  
-  text_length <- nchar(text_clean, type = "chars")
-  
-  # Create patterns
-  vague_pattern <- regex(paste(vague_nouns, collapse = "|"), ignore_case = TRUE)
-  
-  positions_list <- list()
-  current_position <- 1
-  
-  for (i in seq_along(paragraphs)) {
-    para <- paragraphs[i]
-    para_length <- nchar(para, type = "chars")
-    
-    # Check if paragraph has both vague noun and unavoidable phrase
-    has_vague <- str_detect(para, vague_pattern)
-    
-    if (has_vague) {
-      # Check which unavoidable phrases appear in this paragraph
-      for (phrase in unavoidable_phrases) {
-        if (str_detect(para, regex(phrase, ignore_case = TRUE))) {
-          # Calculate relative position (middle of paragraph)
-          relative_position <- (current_position + para_length / 2) / text_length
-          
-          positions_list[[length(positions_list) + 1]] <- tibble(
-            phrase = phrase,
-            position = relative_position
-          )
-        }
-      }
-    }
-    
-    # Update position (add paragraph length plus newlines)
-    current_position <- current_position + para_length + 1
-  }
-  
-  if (length(positions_list) > 0) {
-    return(bind_rows(positions_list))
-  } else {
-    return(tibble(phrase = character(), position = numeric()))
-  }
-}
-
-# Extract positions for all policies
-all_positions <- policy_texts %>%
-  mutate(
-    positions = map(text, ~get_paragraph_positions(.x))
-  ) %>%
-  select(app, positions) %>%
-  unnest(positions)
-
-cat("\n=== Position Analysis ===\n")
-cat("Total phrase occurrences with positions (in co-occurring paragraphs):", nrow(all_positions), "\n")
-
-if (nrow(all_positions) > 0) {
-  # Only keep phrases that appear enough times for meaningful analysis
-  phrase_counts_for_heatmap <- all_positions %>%
-    count(phrase) %>%
-    filter(n >= 3) %>%  # At least 3 occurrences
-    pull(phrase)
-  
-  all_positions_filtered <- all_positions %>%
-    filter(phrase %in% phrase_counts_for_heatmap)
-  
-  # Create bins for document position (aggregated across all phrases)
-  all_positions_binned <- all_positions_filtered %>%
-    mutate(
-      position_bin = cut(position, 
-                         breaks = seq(0, 1, by = 0.1),
-                         labels = paste0(seq(0, 90, 10), "-", seq(10, 100, 10), "%"),
-                         include.lowest = TRUE)
-    ) %>%
-    count(position_bin)
-  
-  # Create heatmap showing distribution across document (vertical)
+  # Create heatmap showing distribution across document
   position_heatmap <- ggplot(
-    all_positions_binned,
-    aes(x = 1, y = position_bin, fill = n)
+    position_binned,
+    aes(x = 1, y = factor(position_bin, levels = paste0(seq(0, 90, 10), "-", seq(10, 100, 10), "%")), fill = n)
   ) +
     geom_tile(color = "white", linewidth = 1) +
     geom_text(aes(label = n), size = 8, family = "atkinson", fontface = "bold") +
     scale_fill_gradient(
       low = "#FFF5F5",
       high = "#E57373",
-      name = "Occurrences"
+      name = "Paragraphs"
     ) +
-    scale_y_discrete(limits = rev) +  # Reverse so 0-10% is at top
+    scale_y_discrete(limits = rev) +
     labs(
       title = "Position of Unavoidable Language with Vague Nouns",
-      subtitle = "Paragraphs containing both unavoidable phrases and vague noun references",
+      subtitle = "Number of paragraphs at each document position",
       x = "",
       y = "Position in Document"
     ) +
@@ -314,10 +245,9 @@ if (nrow(all_positions) > 0) {
       legend.text = element_text(size = 24),
       legend.position = "right"
     )
-  
-  position_heatmap
-  
 }
+
+position_heatmap
 
 # Save KWIC results
 write.csv(kwic_df, "unavoidable_kwic.csv", row.names = FALSE)

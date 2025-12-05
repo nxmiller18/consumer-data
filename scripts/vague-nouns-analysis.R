@@ -21,9 +21,14 @@ policy_texts <- read.csv("all_privacy_policies.csv")
 
 # Define vague noun phrases to search for
 vague_nouns <- c(
-  "certain partners", "affiliates", "trusted third parties", 
-  "service providers", "vendors", "other entities", 
-  "business partners", "selected organizations"
+  "certain partners", 
+  "affiliates", 
+  "trusted third parties", 
+  "service providers", 
+  "vendors", 
+  "other entities", 
+  "business partners", 
+  "selected organizations"
 )
 
 # Create regex pattern for case-insensitive matching
